@@ -1,0 +1,15 @@
+{
+  "name": "superbike heros",
+  "file": "superbike heros.html",
+  "size": 15533606,
+  "sha256": "882e13bcaf08c0728661621782601abfad3f7eb531898dfe3ffab54acaa557d5",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "285e08a96b17050f0bdf146e.bin",
+      "size": 15533606
+    }
+  ]
+}

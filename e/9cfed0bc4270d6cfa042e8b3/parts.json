@@ -1,0 +1,15 @@
+{
+  "name": "small world cup",
+  "file": "small world cup.html",
+  "size": 20250184,
+  "sha256": "cd5d0e2c262fe6b297f042bffa1092bea06e1838023060362508379887b36407",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "7e96817cc0bfdd29daad817d.bin",
+      "size": 20250184
+    }
+  ]
+}

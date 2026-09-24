@@ -1,0 +1,19 @@
+{
+  "name": "rio rex",
+  "file": "rio rex.html",
+  "size": 39498164,
+  "sha256": "6e7e0a4a96050ce1bb9c4268f95dc0e63fb097286edd86cdc52d4582eb84c187",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "239b4b0f7797421b169ee729.bin",
+      "size": 20971520
+    },
+    {
+      "name": "98eea29c7db10b63f79438c4.bin",
+      "size": 18526644
+    }
+  ]
+}

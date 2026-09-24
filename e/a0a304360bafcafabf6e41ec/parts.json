@@ -1,0 +1,15 @@
+{
+  "name": "Penguin Dinner",
+  "file": "Penguin Dinner.html",
+  "size": 12187048,
+  "sha256": "1e494ffe69dc029e489318407a00db3b0033fd3a40737899b53aec645ff16eb4",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "b6689c3f8f727104a3a35f5a.bin",
+      "size": 12187048
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "age of war",
+  "file": "age of war.html",
+  "size": 22018571,
+  "sha256": "c77d531adf5d4e3eb17dc2cbc65ecda4f20df93b3bd54344d263c2df5d63c5e3",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "5b8c35edf62dcedf53830164.bin",
+      "size": 20971520
+    },
+    {
+      "name": "846d5e125a514c34a8bd69bf.bin",
+      "size": 1047051
+    }
+  ]
+}

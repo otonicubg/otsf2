@@ -1,0 +1,15 @@
+{
+  "name": "ping pong chaos",
+  "file": "ping pong chaos.html",
+  "size": 20945001,
+  "sha256": "5fd6896933705fdb1bc689b7e366781b6ad6e06006343333a873da59e6b8cd93",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "4a3f05826d78fa0fd99222f0.bin",
+      "size": 20945001
+    }
+  ]
+}

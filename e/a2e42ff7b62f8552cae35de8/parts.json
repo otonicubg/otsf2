@@ -1,0 +1,15 @@
+{
+  "name": "icy north",
+  "file": "icy north.html",
+  "size": 14981152,
+  "sha256": "c620e7f459e8a1e8258f7f7adb8c346dc881e4dff5013ec22e2b858369c9a067",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "cc1ccdde8d96d6517e1d9ffe.bin",
+      "size": 14981152
+    }
+  ]
+}

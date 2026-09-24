@@ -1,0 +1,15 @@
+{
+  "name": "cata catapult",
+  "file": "cata catapult.html",
+  "size": 4398965,
+  "sha256": "f92df35cfe3b2e2aaf02db8f98cf7bd833ad2c015aa0ff1fdda3bad4fa64848d",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "7466e23fa78285c1092dcd03.bin",
+      "size": 4398965
+    }
+  ]
+}

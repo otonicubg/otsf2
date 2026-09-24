@@ -1,0 +1,15 @@
+{
+  "name": "Pixel Bear Adventure",
+  "file": "Pixel Bear Adventure.html",
+  "size": 75725,
+  "sha256": "de6b2b7ee745c1ef4a139520b4913d0546e1c2eb2048a11c5c2aa20fa36257e1",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "f06bf0ebb25fa7077c07b2bf.bin",
+      "size": 75725
+    }
+  ]
+}

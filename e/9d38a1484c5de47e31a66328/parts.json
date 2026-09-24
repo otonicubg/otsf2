@@ -1,0 +1,15 @@
+{
+  "name": "kour.io",
+  "file": "kour.io.html",
+  "size": 83644,
+  "sha256": "34c64d5f2a4d7df97300883995376358364b3230194e9f31771f3aa8f88633c5",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "172033b477743c733fcd3970.bin",
+      "size": 83644
+    }
+  ]
+}

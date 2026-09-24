@@ -1,0 +1,15 @@
+{
+  "name": "Idle Breakout",
+  "file": "Idle Breakout.html",
+  "size": 3729783,
+  "sha256": "c4b265b72e126f9e96eb53ae47adbb69ce42cf536d0efaa6d9830477cc18381d",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "5c654610ca5fd49e3ceada5d.bin",
+      "size": 3729783
+    }
+  ]
+}

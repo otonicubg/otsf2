@@ -1,0 +1,19 @@
+{
+  "name": "Kitchen Gun Game",
+  "file": "Kitchen Gun Game.html",
+  "size": 31381976,
+  "sha256": "12af76554f27a13f9af423469ca9cf6c7b86cfd7915bcb5861a3e5c64648f765",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "bc4a430123206607359e2055.bin",
+      "size": 20971520
+    },
+    {
+      "name": "5fecfcc8ccfdc94679b26eba.bin",
+      "size": 10410456
+    }
+  ]
+}

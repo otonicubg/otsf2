@@ -1,0 +1,15 @@
+{
+  "name": "fortz",
+  "file": "fortz.html",
+  "size": 10716895,
+  "sha256": "797184746ebc6d36c43947394e8bf0b91cad8c259ef3fc63a505da8b7a94e4e6",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "120759afc946781141037fe5.bin",
+      "size": 10716895
+    }
+  ]
+}

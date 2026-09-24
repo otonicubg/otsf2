@@ -1,0 +1,15 @@
+{
+  "name": "real-slither.io",
+  "file": "real-slither.io.html",
+  "size": 1491716,
+  "sha256": "9cca9a8c280a69a102cbe64f683eaeb4fda3f6d35f898c2f76a78a43d23f27c7",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "aedf6d976b209880c3b20884.bin",
+      "size": 1491716
+    }
+  ]
+}

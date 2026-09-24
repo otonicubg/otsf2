@@ -1,0 +1,15 @@
+{
+  "name": "PVZ NEW",
+  "file": "PVZ NEW.html",
+  "size": 15460589,
+  "sha256": "9a886b5477f3d48094e97b9712c0ec0e445cf687ef06a96ba83f83a0d46e4855",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "d51dc9c36f5c689bc876d98e.bin",
+      "size": 15460589
+    }
+  ]
+}

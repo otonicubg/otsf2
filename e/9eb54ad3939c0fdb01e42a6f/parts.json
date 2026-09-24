@@ -1,0 +1,15 @@
+{
+  "name": "new polytrack",
+  "file": "new polytrack.html",
+  "size": 9424738,
+  "sha256": "d82073e428c5014c68fdcf45b6cb7764e84e23d06b1e0ffb603770e1a487b8c3",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "5a930c67bef3fbaedb461403.bin",
+      "size": 9424738
+    }
+  ]
+}

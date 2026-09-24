@@ -1,0 +1,19 @@
+{
+  "name": "duck life tresure hunt",
+  "file": "duck life tresure hunt.html",
+  "size": 29201066,
+  "sha256": "6a617a4eebcee2c8df0e6bf9a014f91b67affc486424225f9e94a97e9f652759",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "345793c792a8a47db4f11b7f.bin",
+      "size": 20971520
+    },
+    {
+      "name": "ede25ad07c23ebb840b4c1cb.bin",
+      "size": 8229546
+    }
+  ]
+}
