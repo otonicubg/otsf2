@@ -1,0 +1,15 @@
+{
+  "name": "achievementunlocked",
+  "file": "achievementunlocked.html",
+  "size": 5424242,
+  "sha256": "b0b6c09b79c611670f14cd3a9cf205f8b8c36f4edad3c8a44eb0ea7a58c7c013",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "12cfd7c95a4277e55ef9d25e.bin",
+      "size": 5424242
+    }
+  ]
+}

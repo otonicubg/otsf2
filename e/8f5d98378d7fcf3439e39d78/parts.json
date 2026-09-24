@@ -1,0 +1,23 @@
+{
+  "name": "Space funeral",
+  "file": "Space funeral.html",
+  "size": 61199919,
+  "sha256": "c66c54fffd91f2351b4ce7dbbbb4acf72a0cc0fbb6f2172f025f84f8e7eaefc2",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "590024c96155e08c39eadca7.bin",
+      "size": 20971520
+    },
+    {
+      "name": "cfadba68f4fbd233a1bde43f.bin",
+      "size": 20971520
+    },
+    {
+      "name": "38b94d6afca5b9c460881d79.bin",
+      "size": 19256879
+    }
+  ]
+}

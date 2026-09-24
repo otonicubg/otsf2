@@ -1,0 +1,43 @@
+{
+  "name": "Dungeons and degenerate gamblers",
+  "file": "Dungeons and degenerate gamblers.html",
+  "size": 165676500,
+  "sha256": "cca82cadde26a5e163759bcaf1551d5980f7f3119e6ff38d76aa7ac64ad1d06a",
+  "partSize": 20971520,
+  "count": 8,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "fbf2da04a6db72eb1f83f4ec.bin",
+      "size": 20971520
+    },
+    {
+      "name": "13fe6ba1fd34879935d58da4.bin",
+      "size": 20971520
+    },
+    {
+      "name": "61bd33a9b9050b1db65e6f8c.bin",
+      "size": 20971520
+    },
+    {
+      "name": "1f64c300209ddf7c1dd2ecde.bin",
+      "size": 20971520
+    },
+    {
+      "name": "e95bc8233b95bfea1df3c4b0.bin",
+      "size": 20971520
+    },
+    {
+      "name": "3f8e558055d969240d88bc79.bin",
+      "size": 20971520
+    },
+    {
+      "name": "a47f8457dbd47eae9447d57a.bin",
+      "size": 20971520
+    },
+    {
+      "name": "95032a86c6546e261a6cd497.bin",
+      "size": 18875860
+    }
+  ]
+}

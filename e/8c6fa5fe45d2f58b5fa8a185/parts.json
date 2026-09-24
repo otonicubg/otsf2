@@ -1,0 +1,19 @@
+{
+  "name": "bitlife",
+  "file": "bitlife.html",
+  "size": 28451388,
+  "sha256": "ca1f4e1d34da43c2302f16f305f3fa41df6af387468c1f644c7a41a13c1d2a1f",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "915f108d0ea8652aedc805a7.bin",
+      "size": 20971520
+    },
+    {
+      "name": "59782227ac4d947d0faa0409.bin",
+      "size": 7479868
+    }
+  ]
+}

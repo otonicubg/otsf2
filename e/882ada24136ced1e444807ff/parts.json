@@ -1,0 +1,19 @@
+{
+  "name": "Web fishing",
+  "file": "Web fishing.html",
+  "size": 36300427,
+  "sha256": "5eaad0c20879488fee79380f23d6237a0f6f3a17528b2b59e6d61a39cca9dcae",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "064a71c2e747f082480b9164.bin",
+      "size": 20971520
+    },
+    {
+      "name": "243225944ebf9fdbba5fd0f2.bin",
+      "size": 15328907
+    }
+  ]
+}

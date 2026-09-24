@@ -1,0 +1,15 @@
+{
+  "name": "checkers",
+  "file": "checkers.html",
+  "size": 7173380,
+  "sha256": "3751925b513c52c1b03ae1f5d28ac7fcefd4a4d55e3485cbca8077a5323f088e",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "0c20a3925c0355c3a5996abe.bin",
+      "size": 7173380
+    }
+  ]
+}

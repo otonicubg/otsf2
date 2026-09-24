@@ -1,0 +1,19 @@
+{
+  "name": "Scrap Meatal Heros",
+  "file": "Scrap Meatal Heros.html",
+  "size": 22885625,
+  "sha256": "d63a34c2dc809a46c216cf6eab2cddbf0a5ce5cb9669cbbf9c0226e9401eef7b",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "84fe6ec847b42451d9831d21.bin",
+      "size": 20971520
+    },
+    {
+      "name": "e606c0e9dbdee6dcbc174884.bin",
+      "size": 1914105
+    }
+  ]
+}

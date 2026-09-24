@@ -1,0 +1,19 @@
+{
+  "name": "gun mayhem 2",
+  "file": "gun mayhem 2.html",
+  "size": 21401756,
+  "sha256": "52139748963cfcfb3491f7cd5ff9ffbfc757c35e491bc484e66329742d4c8834",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "7e2955293985d73c9e708aaa.bin",
+      "size": 20971520
+    },
+    {
+      "name": "7f7cb20c496531fb84612cc0.bin",
+      "size": 430236
+    }
+  ]
+}

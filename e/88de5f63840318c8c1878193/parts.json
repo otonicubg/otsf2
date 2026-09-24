@@ -1,0 +1,23 @@
+{
+  "name": "idle lumber inc",
+  "file": "idle lumber inc.html",
+  "size": 60049172,
+  "sha256": "dc333606207483282bb1330850217af799b5681f0c30348314501bdaed87b6a2",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "814a9b7b902c6efffee9ede7.bin",
+      "size": 20971520
+    },
+    {
+      "name": "cc602c0f3065f306b1489efa.bin",
+      "size": 20971520
+    },
+    {
+      "name": "2bc8150a46ee23843f9f8858.bin",
+      "size": 18106132
+    }
+  ]
+}

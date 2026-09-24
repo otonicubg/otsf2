@@ -1,0 +1,19 @@
+{
+  "name": "game of farmers",
+  "file": "game of farmers.html",
+  "size": 23930135,
+  "sha256": "ce35644d5fc6cc796f3fd4853354c63634c031ddf73f69a3627217f185c5cbee",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "177d85b4e6ca29528e2ae746.bin",
+      "size": 20971520
+    },
+    {
+      "name": "826bd3b16501c95add6cbecc.bin",
+      "size": 2958615
+    }
+  ]
+}

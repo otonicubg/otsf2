@@ -1,0 +1,19 @@
+{
+  "name": "hover racer drive",
+  "file": "hover racer drive.html",
+  "size": 22765156,
+  "sha256": "edd1e44aa5aec49b0359a6a1c1b3357649b2110e29d1a7f4acd06a85a8ad3a2d",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "062427c56644a47c51cce0ad.bin",
+      "size": 20971520
+    },
+    {
+      "name": "8b247ed252c5c1743ba5d928.bin",
+      "size": 1793636
+    }
+  ]
+}

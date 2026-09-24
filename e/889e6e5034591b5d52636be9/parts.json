@@ -1,0 +1,15 @@
+{
+  "name": "ball platformer",
+  "file": "ball platformer.html",
+  "size": 8224030,
+  "sha256": "0a287928b7393148ba3999887e895ea555d7eb13ed42b68be59f894a55784267",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "ae79a053e116dbc4f78ad5d1.bin",
+      "size": 8224030
+    }
+  ]
+}

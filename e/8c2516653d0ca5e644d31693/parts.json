@@ -1,0 +1,15 @@
+{
+  "name": "idle mining empire",
+  "file": "idle mining empire.html",
+  "size": 12518913,
+  "sha256": "97a1e40f46fbfc6a271e63091b710526d46ab4e6f645337127647f08aef24173",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "f22dddad00a4afb75773af49.bin",
+      "size": 12518913
+    }
+  ]
+}

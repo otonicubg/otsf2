@@ -1,0 +1,15 @@
+{
+  "name": "pixel smash duel",
+  "file": "pixel smash duel.html",
+  "size": 16058115,
+  "sha256": "6ae09c5c27ccdb56940901a949841bf35b6efba5b1a4b2ee2faee544200c1be2",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "48b689d6228e28004f4f5e7b.bin",
+      "size": 16058115
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Plants Vs. Zombies 2",
+  "file": "Plants Vs. Zombies 2.html",
+  "size": 15179702,
+  "sha256": "058174e05a2bc402b0451b6df60e181b29ead9dfb4c0349b8429f0c932879b46",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "f39bc3eb7293dc2ad8ff5957.bin",
+      "size": 15179702
+    }
+  ]
+}

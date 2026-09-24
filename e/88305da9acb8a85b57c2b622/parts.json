@@ -1,0 +1,19 @@
+{
+  "name": "Bergentruck",
+  "file": "Bergentruck.html",
+  "size": 38352004,
+  "sha256": "0db36f43535053583afa554c7f5ca43c09f4802da730890672b129f5eb4206b4",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "1e34105f5df919cf719dfab6.bin",
+      "size": 20971520
+    },
+    {
+      "name": "005392899252a6c7a0e188b6.bin",
+      "size": 17380484
+    }
+  ]
+}

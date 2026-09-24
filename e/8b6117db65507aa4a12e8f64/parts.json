@@ -1,0 +1,15 @@
+{
+  "name": "sector 01",
+  "file": "sector 01.html",
+  "size": 20351417,
+  "sha256": "39464cfa72cca4f724d743d111cd7c95f7084c468dca842301035f52683c59c2",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "9ed8f5add00b68ebce322b80.bin",
+      "size": 20351417
+    }
+  ]
+}

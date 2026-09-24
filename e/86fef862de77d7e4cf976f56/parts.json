@@ -1,0 +1,15 @@
+{
+  "name": "Boxing Random",
+  "file": "Boxing Random.html",
+  "size": 8942228,
+  "sha256": "1b24140a2ceac3de7181ad285140238f58cae768476224c10e280075fb796706",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "15aeacd037febe19c4eb8d0f.bin",
+      "size": 8942228
+    }
+  ]
+}
