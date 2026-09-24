@@ -1,0 +1,23 @@
+{
+  "name": "fury wars",
+  "file": "fury wars.html",
+  "size": 58408128,
+  "sha256": "8557283a648cec42b145b1d030b790ce12e8b0e90a4607065dab48b61189fe1b",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "e3b7cc1f06be43f16ba763a4.bin",
+      "size": 20971520
+    },
+    {
+      "name": "c27839c55a3e85ff3f3e17b7.bin",
+      "size": 20971520
+    },
+    {
+      "name": "d9004ebaf67b84c2665179ad.bin",
+      "size": 16465088
+    }
+  ]
+}

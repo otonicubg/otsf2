@@ -1,0 +1,15 @@
+{
+  "name": "stickman crazy box",
+  "file": "stickman crazy box.html",
+  "size": 19086388,
+  "sha256": "34e4c7a80610b791fb4403c13276ad5f1805130350b59af7f30d66a924d26766",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "22435f6d8d63e79ee42ab702.bin",
+      "size": 19086388
+    }
+  ]
+}

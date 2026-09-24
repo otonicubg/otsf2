@@ -1,0 +1,31 @@
+{
+  "name": "Subway Surfers BeiJing",
+  "file": "Subway Surfers BeiJing.html",
+  "size": 87041378,
+  "sha256": "88678a56a796c87df317ec402976c2599bef3576f105a3793cf6a8e1ea030042",
+  "partSize": 20971520,
+  "count": 5,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "f0c1b47325f696eaa2a47eaa.bin",
+      "size": 20971520
+    },
+    {
+      "name": "8ab58b4a894ff6306bd45ada.bin",
+      "size": 20971520
+    },
+    {
+      "name": "fc67ecdf1696e5bca3429cd1.bin",
+      "size": 20971520
+    },
+    {
+      "name": "066f72d0851f5c44e29b32e7.bin",
+      "size": 20971520
+    },
+    {
+      "name": "5ca6b6435c340ce3f1d43d68.bin",
+      "size": 3155298
+    }
+  ]
+}

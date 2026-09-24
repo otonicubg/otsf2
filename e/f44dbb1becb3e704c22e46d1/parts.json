@@ -1,0 +1,15 @@
+{
+  "name": "bouncybasketball",
+  "file": "bouncybasketball.html",
+  "size": 11327588,
+  "sha256": "f13cdff03a454138d4a4932dc72af5e74cdf654aab61262e5f1ef8d46f297c45",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "cb432142506f35aa5177208d.bin",
+      "size": 11327588
+    }
+  ]
+}

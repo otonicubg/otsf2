@@ -1,0 +1,15 @@
+{
+  "name": "hall of palettes",
+  "file": "hall of palettes.html",
+  "size": 7149997,
+  "sha256": "14638382344530e084120ba5d28c2050f359d73db31f09087fb56186b5086c92",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "cf4a03cdc9673d4c08c474b0.bin",
+      "size": 7149997
+    }
+  ]
+}

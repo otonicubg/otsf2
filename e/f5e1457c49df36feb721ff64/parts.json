@@ -1,0 +1,15 @@
+{
+  "name": "ARROW",
+  "file": "ARROW.html",
+  "size": 8557015,
+  "sha256": "4d5f03a17b86e4435ce789514a961e38d8776b89992a383b173c2ea0c8e9cc05",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "56941cb3b4ba38164f98d3e4.bin",
+      "size": 8557015
+    }
+  ]
+}

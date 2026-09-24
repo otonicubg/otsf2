@@ -1,0 +1,19 @@
+{
+  "name": "Little Wheel",
+  "file": "Little Wheel.html",
+  "size": 22066134,
+  "sha256": "224561f3ebb1aa7f56e2be7649ee320a5c67337c42f660627352a04fe4782426",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "c682b9d86a1bde725bc90793.bin",
+      "size": 20971520
+    },
+    {
+      "name": "d84880c9abf227c7b7de50e8.bin",
+      "size": 1094614
+    }
+  ]
+}

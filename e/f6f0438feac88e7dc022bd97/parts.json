@@ -1,0 +1,27 @@
+{
+  "name": "Yandre Simulator",
+  "file": "Yandre Simulator.html",
+  "size": 83699235,
+  "sha256": "1273582c7cf04b95f709b806240ea51b187c288214e76a31d13e7af15cda47c2",
+  "partSize": 20971520,
+  "count": 4,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "a8dcb7fbbf22c02244eee945.bin",
+      "size": 20971520
+    },
+    {
+      "name": "05857f2d9558a996f5e7cbc4.bin",
+      "size": 20971520
+    },
+    {
+      "name": "4c5d15457d53176892002757.bin",
+      "size": 20971520
+    },
+    {
+      "name": "0a8c8d8a02626577aca31245.bin",
+      "size": 20784675
+    }
+  ]
+}

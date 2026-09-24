@@ -1,0 +1,15 @@
+{
+  "name": "green",
+  "file": "green.html",
+  "size": 6035742,
+  "sha256": "987b3f56b0e3c09bf0e184e569b53f9fa2c7ed7e448b194e2eaa18356e7042e5",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "07641ff7a205659a8de53c34.bin",
+      "size": 6035742
+    }
+  ]
+}

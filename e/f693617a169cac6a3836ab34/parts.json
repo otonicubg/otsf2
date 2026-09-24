@@ -1,0 +1,15 @@
+{
+  "name": "blasting marbles",
+  "file": "blasting marbles.html",
+  "size": 15436340,
+  "sha256": "48ae6422fc94d0335e032735c0663a9746ed5647695aece5bc210543d64090c6",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "72ea11ae602216aadc05e6c6.bin",
+      "size": 15436340
+    }
+  ]
+}

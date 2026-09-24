@@ -1,0 +1,19 @@
+{
+  "name": "rise of neon square",
+  "file": "rise of neon square.html",
+  "size": 26620847,
+  "sha256": "eead941deac198f713958fca4ff84a0328b048b66ef12f9bfd1ed9da92baba1c",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "75c69e0df9b68ed7b6029d8c.bin",
+      "size": 20971520
+    },
+    {
+      "name": "f190f64d60f64f7c5420255d.bin",
+      "size": 5649327
+    }
+  ]
+}
