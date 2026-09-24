@@ -1,0 +1,15 @@
+{
+  "name": "tennis random",
+  "file": "tennis random.html",
+  "size": 2891479,
+  "sha256": "38ed9e2e336599caa1d18c637553e00d1fd45c9a48f23d10784966948b64d086",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "3a5da54972dedfb2d555591d.bin",
+      "size": 2891479
+    }
+  ]
+}

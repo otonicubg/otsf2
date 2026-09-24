@@ -1,0 +1,27 @@
+{
+  "name": "backrooms 2d",
+  "file": "backrooms 2d.html",
+  "size": 80959627,
+  "sha256": "0771ff9bf35958f4ec277a5b86e1e65d83e82d09754999735d16e5a1357f293a",
+  "partSize": 20971520,
+  "count": 4,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "9826f65b09186fc35954dac6.bin",
+      "size": 20971520
+    },
+    {
+      "name": "9084db0fe422e053ef494667.bin",
+      "size": 20971520
+    },
+    {
+      "name": "a503aa33d3aca4409958c1e8.bin",
+      "size": 20971520
+    },
+    {
+      "name": "c3c0135666006f9424c23bf0.bin",
+      "size": 18045067
+    }
+  ]
+}

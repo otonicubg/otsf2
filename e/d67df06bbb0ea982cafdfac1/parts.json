@@ -1,0 +1,15 @@
+{
+  "name": "solar smash",
+  "file": "solar smash.html",
+  "size": 9308915,
+  "sha256": "98c5b87443b536b320cf0009ff7194a4502160484a9f50cee9c478b26ab6cef9",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "718b4cae17c33621125f2e40.bin",
+      "size": 9308915
+    }
+  ]
+}

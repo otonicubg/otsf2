@@ -1,0 +1,15 @@
+{
+  "name": "Drift Boss",
+  "file": "Drift Boss.html",
+  "size": 8030016,
+  "sha256": "c6e9bdd091cf7ecc512b8f602e74a4a8c25ca07e3fe20a7782935e28e48dd5e6",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "6070268f58deda4f7be7c741.bin",
+      "size": 8030016
+    }
+  ]
+}

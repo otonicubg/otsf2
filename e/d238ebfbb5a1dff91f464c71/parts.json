@@ -1,0 +1,19 @@
+{
+  "name": "going balls",
+  "file": "going balls.html",
+  "size": 27873674,
+  "sha256": "bd25af2d806b39ffd558816eb9950dcb8170668ca5717c75b8e0396b8506499b",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "839af8dc3cc91af072a32826.bin",
+      "size": 20971520
+    },
+    {
+      "name": "9a31a98657289fb7dbfcc391.bin",
+      "size": 6902154
+    }
+  ]
+}

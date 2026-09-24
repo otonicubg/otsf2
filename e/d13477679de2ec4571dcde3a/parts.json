@@ -1,0 +1,15 @@
+{
+  "name": "zompocalypse",
+  "file": "zompocalypse.html",
+  "size": 17877998,
+  "sha256": "2d0d44f9072c72027d63fb834a259ee80c63bd995ac0317a4a85e6d2458b8e63",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "36586e59c04cfdb8279931b2.bin",
+      "size": 17877998
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "hexa knot",
+  "file": "hexa knot.html",
+  "size": 6177818,
+  "sha256": "56dabc3b9c54535f2d970e2392a5ab56a4e1ebcc0b87f7314a6b99c6b758a71a",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "118ec392d9a44188085d2c92.bin",
+      "size": 6177818
+    }
+  ]
+}

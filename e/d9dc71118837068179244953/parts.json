@@ -1,0 +1,19 @@
+{
+  "name": "white pen road",
+  "file": "white pen road.html",
+  "size": 25880882,
+  "sha256": "122eecc155fde97f3ee8c3bb9a7ab552829a593d2c0a3d7d0ab676b1a6b08354",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "540402613f4d49436a51f927.bin",
+      "size": 20971520
+    },
+    {
+      "name": "cd1fa86900ccf64c42c90121.bin",
+      "size": 4909362
+    }
+  ]
+}

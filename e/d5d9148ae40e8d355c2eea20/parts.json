@@ -1,0 +1,15 @@
+{
+  "name": "Mirror Madness",
+  "file": "Mirror Madness.html",
+  "size": 3073466,
+  "sha256": "5e1c9ab3ac927d06c50605863364d4236e537fc8ba67c83ab6d2cab8a65b1be7",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "908e8e4efe60e46d464a2831.bin",
+      "size": 3073466
+    }
+  ]
+}

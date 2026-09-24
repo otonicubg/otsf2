@@ -1,0 +1,15 @@
+{
+  "name": "zombs-royale",
+  "file": "zombs-royale.html",
+  "size": 577522,
+  "sha256": "2aff713d31680b6132c69a7fae4b6816851950bed37e88d05a842bc9dbcd7517",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "2ded63d724f2cd9556b3e8b5.bin",
+      "size": 577522
+    }
+  ]
+}

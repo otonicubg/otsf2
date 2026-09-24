@@ -1,0 +1,15 @@
+{
+  "name": "recoil",
+  "file": "recoil.html",
+  "size": 7891092,
+  "sha256": "d213d0431062552143ba2ca70791348e365cb08908afe4b037585537a8beda56",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "0bbb33ac98369ab4a8f02f23.bin",
+      "size": 7891092
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "last plant on earth",
+  "file": "last plant on earth.html",
+  "size": 15585855,
+  "sha256": "f6d21181cb521ac07759276a56e5758771a0eae0ba0e9095f28394a92b952484",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "5fdb4a3ed41d1395f4357f17.bin",
+      "size": 15585855
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "toms trial",
+  "file": "toms trial.html",
+  "size": 23432283,
+  "sha256": "cf41532b757d95d1f15d0be5b19afd271ef5d0c9fae2f2fee1726c7e8a7ff522",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "2a3827512ea8674b1692717d.bin",
+      "size": 20971520
+    },
+    {
+      "name": "7df49feba8c61b70fd07d420.bin",
+      "size": 2460763
+    }
+  ]
+}

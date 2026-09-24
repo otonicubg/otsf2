@@ -1,0 +1,15 @@
+{
+  "name": "supernova",
+  "file": "supernova.html",
+  "size": 13343048,
+  "sha256": "12c46c9b12812291c54cd5a32df6c5d77caab553c940744b70e6c5890822a00a",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "a933667345f1872f2b8ab9f7.bin",
+      "size": 13343048
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "jumping shell",
+  "file": "jumping shell.html",
+  "size": 10454884,
+  "sha256": "b988aebff88d23f3b1a09896264a948032d6b207aecc3ac6216658d97fecc34c",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "14a1f60d43c8551bed36e2ce.bin",
+      "size": 10454884
+    }
+  ]
+}

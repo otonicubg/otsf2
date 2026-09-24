@@ -1,0 +1,15 @@
+{
+  "name": "bolly beat",
+  "file": "bolly beat.html",
+  "size": 12300417,
+  "sha256": "beb19b6972082350a31cf9678568a07c2be7a738c2dab7d8f2e41b8d1c1462ab",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "dee503a3e15f31fe0bcaedb3.bin",
+      "size": 12300417
+    }
+  ]
+}

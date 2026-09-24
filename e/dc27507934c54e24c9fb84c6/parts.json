@@ -1,0 +1,15 @@
+{
+  "name": "Moto X3M Winter",
+  "file": "Moto X3M Winter.html",
+  "size": 9222804,
+  "sha256": "754ab4bc62b3de04761d3d43f53b632886d2be0e633e5045d1ec0d8b90187618",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "0729538b230ac4c9377eb134.bin",
+      "size": 9222804
+    }
+  ]
+}

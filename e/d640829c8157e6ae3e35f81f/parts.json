@@ -1,0 +1,15 @@
+{
+  "name": "generic fishing game",
+  "file": "generic fishing game.html",
+  "size": 4926955,
+  "sha256": "1035eb7ffcf5290f9f861f743b468ce7428cfcea816ea33c8fb8f3f0a30e6765",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "b4610b9917084eacd08a6e2c.bin",
+      "size": 4926955
+    }
+  ]
+}

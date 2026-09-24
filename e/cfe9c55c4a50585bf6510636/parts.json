@@ -1,0 +1,27 @@
+{
+  "name": "Baldi remastered",
+  "file": "Baldi remastered.html",
+  "size": 68874085,
+  "sha256": "3b17add6ecd0ecf11f710ae9c2a036dc3fc16628eac2405e4cfcc8aa52fb773a",
+  "partSize": 20971520,
+  "count": 4,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "ec3d3b0570a2f2fdd20827c7.bin",
+      "size": 20971520
+    },
+    {
+      "name": "11ea886209b3fcce5b8b5181.bin",
+      "size": 20971520
+    },
+    {
+      "name": "5c97c0aa9e319800103ddc7d.bin",
+      "size": 20971520
+    },
+    {
+      "name": "9837e58e5a1173bd44b38ff1.bin",
+      "size": 5959525
+    }
+  ]
+}

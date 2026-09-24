@@ -1,0 +1,15 @@
+{
+  "name": "turbo motor racer",
+  "file": "turbo motor racer.html",
+  "size": 9193642,
+  "sha256": "85a31fd2fc52f21d3421ad743e19239fc76f8e8ee6aa467e8c76ae6f002e6aa8",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "023f4835f646b90aabdc1d4e.bin",
+      "size": 9193642
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Rogue Soul",
+  "file": "Rogue Soul.html",
+  "size": 17436084,
+  "sha256": "ea6e3c2e6e1dd36f6401c123ecd556dc097cbddb983a0a7255c3aefb93bb55b6",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "3d70132a037bfd88d8b3d8d4.bin",
+      "size": 17436084
+    }
+  ]
+}

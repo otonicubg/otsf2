@@ -1,0 +1,15 @@
+{
+  "name": "Tetris",
+  "file": "Tetris.html",
+  "size": 258148,
+  "sha256": "3cafe8af3398259f89dccf3fc823a67e1b9bbbc38ff19460bf9e43f7e4b78213",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "4bbcdcaa2add7f1306383369.bin",
+      "size": 258148
+    }
+  ]
+}

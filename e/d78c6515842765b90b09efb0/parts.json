@@ -1,0 +1,15 @@
+{
+  "name": "un evergreen",
+  "file": "un evergreen.html",
+  "size": 6658268,
+  "sha256": "fe5979179fa12a68f9ef3114c909bcfd33d19fcd284ff429545d2d98a79f9628",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "aaeee102c7470c78aeb857d3.bin",
+      "size": 6658268
+    }
+  ]
+}

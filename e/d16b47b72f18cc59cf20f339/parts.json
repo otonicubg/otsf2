@@ -1,0 +1,15 @@
+{
+  "name": "breaklock",
+  "file": "breaklock.html",
+  "size": 1085526,
+  "sha256": "9c96827dbfb367115116495896764c47c8e321290800742cee9aac0fb0642671",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "be147a77c3b44e4da1b0ae40.bin",
+      "size": 1085526
+    }
+  ]
+}
