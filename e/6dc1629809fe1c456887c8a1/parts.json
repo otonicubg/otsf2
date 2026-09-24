@@ -1,0 +1,15 @@
+{
+  "name": "dogeminer",
+  "file": "dogeminer.html",
+  "size": 20035884,
+  "sha256": "dfe6e61e08aa7dcf421288a6cb4aca95cb61b755de7cd49b4f3365b1077c9836",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "b2725da25e3b647d89c62220.bin",
+      "size": 20035884
+    }
+  ]
+}

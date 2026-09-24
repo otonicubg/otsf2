@@ -1,0 +1,15 @@
+{
+  "name": "99 balls",
+  "file": "99 balls.html",
+  "size": 14605057,
+  "sha256": "8b35ac3ee6726aa81f4c7c86d24306ae541b817770b0a5074314cba0c927fb5b",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "bc7c19fb571e690a89cf16f6.bin",
+      "size": 14605057
+    }
+  ]
+}

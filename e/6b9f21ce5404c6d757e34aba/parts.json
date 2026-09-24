@@ -1,0 +1,15 @@
+{
+  "name": "Shape Switcher",
+  "file": "Shape Switcher.html",
+  "size": 11560827,
+  "sha256": "82907516b4b6dcdbb7bfc10cbe2bcdc2716092aea450ea78f41d3da6f48f5384",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "8306049cde8e63113930d840.bin",
+      "size": 11560827
+    }
+  ]
+}

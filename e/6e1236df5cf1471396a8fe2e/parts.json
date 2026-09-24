@@ -1,0 +1,27 @@
+{
+  "name": "ovo 3d",
+  "file": "ovo 3d.html",
+  "size": 64087986,
+  "sha256": "2de6cd5f3150fe34652c43c58c36863c829ff9f0d927c9db841ad0eee2f95b9e",
+  "partSize": 20971520,
+  "count": 4,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "4bc1069bb3f508a3204f63ff.bin",
+      "size": 20971520
+    },
+    {
+      "name": "b492c4c662c133acb80775e3.bin",
+      "size": 20971520
+    },
+    {
+      "name": "426cca0c3393ed82b9a93fd5.bin",
+      "size": 20971520
+    },
+    {
+      "name": "1ecab56f5bf679df46a68617.bin",
+      "size": 1173426
+    }
+  ]
+}

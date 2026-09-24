@@ -1,0 +1,19 @@
+{
+  "name": "bridge race",
+  "file": "bridge race.html",
+  "size": 22168285,
+  "sha256": "f3163fb8bf7d0281bfa0ce286af8cad59913e60806b240b214250d9648df900f",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "964992db2a41829b8899fe85.bin",
+      "size": 20971520
+    },
+    {
+      "name": "f8a6d0903692fcbac32fd314.bin",
+      "size": 1196765
+    }
+  ]
+}

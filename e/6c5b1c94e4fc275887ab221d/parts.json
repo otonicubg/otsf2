@@ -1,0 +1,15 @@
+{
+  "name": "touchdowners",
+  "file": "touchdowners.html",
+  "size": 16909072,
+  "sha256": "b56524f3c9bde8cc32d46900ed23a24eff19c5b3797601148ed02ab3c85dd999",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "08f07f4c69bf224d4cfae2df.bin",
+      "size": 16909072
+    }
+  ]
+}

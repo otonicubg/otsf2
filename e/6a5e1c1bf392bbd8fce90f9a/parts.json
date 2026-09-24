@@ -1,0 +1,15 @@
+{
+  "name": "Bubble Scratch",
+  "file": "Bubble Scratch.html",
+  "size": 6070397,
+  "sha256": "85f6955b28de964db0873fcbee108e52e1ba8a59ea72ad88a217c26a72fb43c0",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "b245a1ac5a9d0c490476b86b.bin",
+      "size": 6070397
+    }
+  ]
+}

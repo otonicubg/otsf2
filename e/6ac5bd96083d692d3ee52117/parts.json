@@ -1,0 +1,15 @@
+{
+  "name": "Go Ball",
+  "file": "Go Ball.html",
+  "size": 1973500,
+  "sha256": "6a1bbc877f924df668739dc300dce29907cf1a3e80c6ae3600cdbf1591e3ce9a",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "880d627131c74a36b5561549.bin",
+      "size": 1973500
+    }
+  ]
+}

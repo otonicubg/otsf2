@@ -1,0 +1,15 @@
+{
+  "name": "kart fight.io",
+  "file": "kart fight.io.html",
+  "size": 336878,
+  "sha256": "fc56cc99c9410a25eafa3f00f1a6ff8975cd4f53a1f68705fa423605ac98e80a",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "25f11b0fe3e5e3a0e6483841.bin",
+      "size": 336878
+    }
+  ]
+}

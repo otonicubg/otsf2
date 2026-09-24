@@ -1,0 +1,19 @@
+{
+  "name": "short ride",
+  "file": "short ride.html",
+  "size": 32091254,
+  "sha256": "4abbd483dc8949731785ba3f9d025f80ba41c609846f1a2960ea43b2f208d315",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "f03335c910959d47322df1e2.bin",
+      "size": 20971520
+    },
+    {
+      "name": "b13cd055c2c685fba75473bd.bin",
+      "size": 11119734
+    }
+  ]
+}

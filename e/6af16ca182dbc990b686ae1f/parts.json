@@ -1,0 +1,15 @@
+{
+  "name": "Sandboxels",
+  "file": "Sandboxels.html",
+  "size": 2239584,
+  "sha256": "4392db4742502973dd8343d08881c88d8c25f6d36ac6e87b2be63dfa4aa95b25",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "b024971b05bb3e60eb17ecb3.bin",
+      "size": 2239584
+    }
+  ]
+}

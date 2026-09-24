@@ -1,0 +1,15 @@
+{
+  "name": "backgammon",
+  "file": "backgammon.html",
+  "size": 7743145,
+  "sha256": "d894a6961f6d1e125bd7483cdb97bcedc123cafd5aeee5b477f26c9ec3cb2589",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "eddc8d67e3fb75ccabc9db9f.bin",
+      "size": 7743145
+    }
+  ]
+}
