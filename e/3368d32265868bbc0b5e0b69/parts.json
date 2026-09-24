@@ -1,0 +1,23 @@
+{
+  "name": "top speed 3d",
+  "file": "top speed 3d.html",
+  "size": 50671582,
+  "sha256": "4bf8502d6f5e55fbbc54f7caeae4cb07fdf7abfc77e45e5f3c6d5c845777e2d7",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "dc533b9c3ff6fe37c11f868a.bin",
+      "size": 20971520
+    },
+    {
+      "name": "698626c8672211fa9764f97f.bin",
+      "size": 20971520
+    },
+    {
+      "name": "3c6915f3f63e48386dd3e3c9.bin",
+      "size": 8728542
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "slimoban 2",
+  "file": "slimoban 2.html",
+  "size": 3863345,
+  "sha256": "c2f03f07406734089c971f1f5acfeb80f3f498a401b064178c449a3622fcf96a",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "880270fb0a6365f4abd50ee7.bin",
+      "size": 3863345
+    }
+  ]
+}

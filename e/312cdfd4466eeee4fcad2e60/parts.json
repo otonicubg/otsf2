@@ -1,0 +1,19 @@
+{
+  "name": "real garbage truck",
+  "file": "real garbage truck.html",
+  "size": 41604838,
+  "sha256": "04a765b86518a0120504a6a26f3cdd12abe594a770785a9bdc031b5e725621cb",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "3f6660a2fec02fa340090b12.bin",
+      "size": 20971520
+    },
+    {
+      "name": "6c5776ab5ca00d4098c790cd.bin",
+      "size": 20633318
+    }
+  ]
+}

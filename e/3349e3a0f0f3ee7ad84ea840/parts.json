@@ -1,0 +1,15 @@
+{
+  "name": "tag",
+  "file": "tag.html",
+  "size": 8400067,
+  "sha256": "42a7744eece17c6fa69ed487827a300ce3d8d5620f19ad848804d7f2735387c5",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "8604ef008236e1c072432d77.bin",
+      "size": 8400067
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "the dark one",
+  "file": "the dark one.html",
+  "size": 15882515,
+  "sha256": "5d5ff92884e387dc56b880daad059132110672820e4d48008cf58305a32c94b3",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "cf470e8a7a4fbf12d9d3c4fc.bin",
+      "size": 15882515
+    }
+  ]
+}

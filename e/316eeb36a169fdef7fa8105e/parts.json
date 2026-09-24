@@ -1,0 +1,19 @@
+{
+  "name": "Papas Cheeseria",
+  "file": "Papas Cheeseria.html",
+  "size": 25103732,
+  "sha256": "3c873eecbeb4ee521ad00b07f72840d2bf1ac8e6c6f6ccda88bc118747d345ec",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "1be88febd833bde2879c8c21.bin",
+      "size": 20971520
+    },
+    {
+      "name": "fc2d1d284dbf7e9bf394251d.bin",
+      "size": 4132212
+    }
+  ]
+}

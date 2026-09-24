@@ -1,0 +1,15 @@
+{
+  "name": "timber man",
+  "file": "timber man.html",
+  "size": 12831826,
+  "sha256": "9d9817ce78a72fc7e437e74c41450370653e133c53531bd2618b23207679ab4e",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "51ebc48b7f36dadce22e9de6.bin",
+      "size": 12831826
+    }
+  ]
+}

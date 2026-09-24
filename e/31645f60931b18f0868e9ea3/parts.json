@@ -1,0 +1,15 @@
+{
+  "name": "stickman fighter mega brawl",
+  "file": "stickman fighter mega brawl.html",
+  "size": 19316103,
+  "sha256": "46b09e67db6d4cc3db4a1cc76583a06f828719b0b011d8e5be48db19ea842d95",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "f42ba424fc0dae80640959ed.bin",
+      "size": 19316103
+    }
+  ]
+}

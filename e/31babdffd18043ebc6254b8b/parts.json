@@ -1,0 +1,15 @@
+{
+  "name": "cardinal chains",
+  "file": "cardinal chains.html",
+  "size": 6180446,
+  "sha256": "d8e3b743f50ce3958604c41a701adcf36b8e2d4fbdd1c586a0f614053c9305eb",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "8f8cd466b4fd149f62a3a0cf.bin",
+      "size": 6180446
+    }
+  ]
+}

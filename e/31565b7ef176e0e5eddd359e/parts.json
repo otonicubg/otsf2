@@ -1,0 +1,15 @@
+{
+  "name": "Granny",
+  "file": "Granny.html",
+  "size": 1246844,
+  "sha256": "32c46a4ca09e0940f06c1f179e8ee12142eb64fba5759fd835711ba078fd961b",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "ea01d5a1266a28ab9d057771.bin",
+      "size": 1246844
+    }
+  ]
+}
