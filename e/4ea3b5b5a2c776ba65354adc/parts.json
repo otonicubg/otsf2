@@ -1,0 +1,19 @@
+{
+  "name": "Road of the dead",
+  "file": "Road of the dead.html",
+  "size": 40030259,
+  "sha256": "55d09463a19251d31da3e795fe4b16a6927d172be8bf3c59baa27247d30b9cb7",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "4335b3c5c3fb52b1eae15927.bin",
+      "size": 20971520
+    },
+    {
+      "name": "b59a10c2bacca62f61895835.bin",
+      "size": 19058739
+    }
+  ]
+}

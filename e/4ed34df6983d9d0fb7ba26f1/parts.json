@@ -1,0 +1,15 @@
+{
+  "name": "stickman bike",
+  "file": "stickman bike.html",
+  "size": 9303720,
+  "sha256": "741bf34e6281e5c8cc513bfe51bb2039ab698301c13cd90d65a9fc6b7dcdfa79",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "477a2696c05497683871964c.bin",
+      "size": 9303720
+    }
+  ]
+}
