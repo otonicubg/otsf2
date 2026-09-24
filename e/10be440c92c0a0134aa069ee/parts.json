@@ -1,0 +1,15 @@
+{
+  "name": "Toss the Turtle",
+  "file": "Toss the Turtle.html",
+  "size": 17039883,
+  "sha256": "cf207b48732a32409f00500b0e86477b66cb756bc1aab342353a75cdee0961e3",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "c1fa5e93a176f1ca1b216099.bin",
+      "size": 17039883
+    }
+  ]
+}

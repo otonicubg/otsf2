@@ -1,0 +1,15 @@
+{
+  "name": "Ballhop",
+  "file": "Ballhop.html",
+  "size": 12786594,
+  "sha256": "7335303b082bf5c6b51ebb1d7eff92d971942cd401b9819ece334f7e68bf713c",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "e39f438d00ebc6eed079e343.bin",
+      "size": 12786594
+    }
+  ]
+}

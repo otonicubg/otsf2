@@ -1,0 +1,15 @@
+{
+  "name": "Cupcake 2048",
+  "file": "Cupcake 2048.html",
+  "size": 1895507,
+  "sha256": "40cc6162552cb730139552a52fe93de3ab11db0393632b07e1de0c114e09481a",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "24dc02f4524e89a5ae9b1f05.bin",
+      "size": 1895507
+    }
+  ]
+}

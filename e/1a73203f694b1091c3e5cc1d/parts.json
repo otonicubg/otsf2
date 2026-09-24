@@ -1,0 +1,15 @@
+{
+  "name": "rally champion",
+  "file": "rally champion.html",
+  "size": 17678718,
+  "sha256": "d04cec40eba3cc7cecefb6f09fb4ca8391048c1336e07eb43dc4f29de497b490",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "bb50f721f0b4503a2666c9ff.bin",
+      "size": 17678718
+    }
+  ]
+}

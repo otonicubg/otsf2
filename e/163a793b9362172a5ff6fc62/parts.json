@@ -1,0 +1,15 @@
+{
+  "name": "Stack Ball",
+  "file": "Stack Ball.html",
+  "size": 7907437,
+  "sha256": "b16906052dc82efa9c6274b78b1b858f5c485b78f254bc09e28706261735ff07",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "afa5751a5f6eaa3b2f6ef814.bin",
+      "size": 7907437
+    }
+  ]
+}

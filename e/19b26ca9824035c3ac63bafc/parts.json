@@ -1,0 +1,15 @@
+{
+  "name": "plactions",
+  "file": "plactions.html",
+  "size": 18035762,
+  "sha256": "8319d1c238cbd578a5d89e4c71578e0b1ea629d560a79643509a0ca48987bb04",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "ac7e9c77c8f394b4f09270bd.bin",
+      "size": 18035762
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Scary Teacher 3D",
+  "file": "Scary Teacher 3D.html",
+  "size": 46313450,
+  "sha256": "caae9c12cefc50941b7ac853ef8907ec44469d4d10b55bf677af5ef610f9a213",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "980badf33f21774ccf65cccc.bin",
+      "size": 20971520
+    },
+    {
+      "name": "77e9d8f68d15f3f084c86820.bin",
+      "size": 20971520
+    },
+    {
+      "name": "5ec8d97068e295311ae14b8d.bin",
+      "size": 4370410
+    }
+  ]
+}

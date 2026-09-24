@@ -1,0 +1,15 @@
+{
+  "name": "tabs",
+  "file": "tabs.html",
+  "size": 350234,
+  "sha256": "b68428803865f6fcaf12e4b0aae0d5fe4811402c87cc97613960f9d99d5512bc",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "8b0f66b3c769347dc99547e0.bin",
+      "size": 350234
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "sum lines",
+  "file": "sum lines.html",
+  "size": 2860748,
+  "sha256": "43851b0e5a0d2ddfb4e1d8ab7c6a03df0ca9b90442f4b2e100abfd4564d6e0e9",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "649caa1eaa175b8a19551a11.bin",
+      "size": 2860748
+    }
+  ]
+}

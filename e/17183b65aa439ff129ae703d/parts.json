@@ -1,0 +1,15 @@
+{
+  "name": "giraffes volleyball",
+  "file": "giraffes volleyball.html",
+  "size": 8517800,
+  "sha256": "3557ba20ffd6afaca7ec7887c49ba78dfbbc256717d6a5f862ea72251cf44803",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "35755a58a6426a0e3ff1f2c2.bin",
+      "size": 8517800
+    }
+  ]
+}

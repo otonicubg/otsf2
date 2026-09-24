@@ -1,0 +1,15 @@
+{
+  "name": "level devil",
+  "file": "level devil.html",
+  "size": 5047460,
+  "sha256": "88dd53d98af2f743a5d62404267c94470b9b685009741c4eddedf821d12e3838",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "fc7a720da9c9a312a53022be.bin",
+      "size": 5047460
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "cactus mccoy 2",
+  "file": "cactus mccoy 2.html",
+  "size": 22886869,
+  "sha256": "752f125d0ea4c4e9d511186505813c1b5ba68820556318986526aaa86cee92f4",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "57e54d6a99497a1a4b664c9a.bin",
+      "size": 20971520
+    },
+    {
+      "name": "4676607f0011795d20ad26ca.bin",
+      "size": 1915349
+    }
+  ]
+}

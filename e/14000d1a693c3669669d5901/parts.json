@@ -1,0 +1,15 @@
+{
+  "name": "cursed travels flame",
+  "file": "cursed travels flame.html",
+  "size": 5297662,
+  "sha256": "d107296b8ea19ed90693d44509b6f5103a509fe7ec62e0a742a363bed6efa42b",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "9892f7923bf9ad624c236353.bin",
+      "size": 5297662
+    }
+  ]
+}

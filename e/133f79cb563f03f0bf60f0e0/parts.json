@@ -1,0 +1,15 @@
+{
+  "name": "zombie outbreak arena",
+  "file": "zombie outbreak arena.html",
+  "size": 20162855,
+  "sha256": "90aa1a873dec6626551d060843597def36d47f8befd8339d6b75a2cf0127c9d6",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "38786a4d2054bfc47a78ef2f.bin",
+      "size": 20162855
+    }
+  ]
+}

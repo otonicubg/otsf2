@@ -1,0 +1,15 @@
+{
+  "name": "NGU idle",
+  "file": "NGU idle.html",
+  "size": 12352075,
+  "sha256": "01ad4a7b8514565b779dcb07a03060eb96e36908c8d39b41ca1c188500ad36a4",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "4316c35207d705be3206fd2a.bin",
+      "size": 12352075
+    }
+  ]
+}

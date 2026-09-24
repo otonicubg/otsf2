@@ -1,0 +1,15 @@
+{
+  "name": "ball mayhem",
+  "file": "ball mayhem.html",
+  "size": 526914,
+  "sha256": "29b676215b3a154ecab81a48bdc55ae83c8af4741aee4234ac0623ea393bb9a3",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "cc2b9db9e430d01d9d7d684b.bin",
+      "size": 526914
+    }
+  ]
+}

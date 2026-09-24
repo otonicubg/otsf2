@@ -1,0 +1,15 @@
+{
+  "name": "tanko.io",
+  "file": "tanko.io.html",
+  "size": 7918442,
+  "sha256": "ff2d816a6b40710a567fc47a75be3d43e1db07c2785042004399ec34471b0431",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "3c25fec4edaded51d2dce2ab.bin",
+      "size": 7918442
+    }
+  ]
+}

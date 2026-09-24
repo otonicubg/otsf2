@@ -1,0 +1,15 @@
+{
+  "name": "temple of boom",
+  "file": "temple of boom.html",
+  "size": 11916024,
+  "sha256": "6cf0a493ceb842f0893ce0524a2d4166abfe3509ebdd7760faf26109a9d2f344",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "57d040da69c025f5a939f989.bin",
+      "size": 11916024
+    }
+  ]
+}

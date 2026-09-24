@@ -1,0 +1,15 @@
+{
+  "name": "robox",
+  "file": "robox.html",
+  "size": 4427345,
+  "sha256": "c04c8a2d9e2e3041b9f593521e9d05d8482a1ced71aa7596798b4f0b1b539e74",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "716ea9fea2f38b077e9fa084.bin",
+      "size": 4427345
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Jetpack Joyride",
+  "file": "Jetpack Joyride.html",
+  "size": 14012262,
+  "sha256": "53682e9134445ff427d1688f2c5249c3d3a1861bb437d2a86124c51c8469b9ba",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "acdd73ac35a0e2c4e9c1ec84.bin",
+      "size": 14012262
+    }
+  ]
+}
