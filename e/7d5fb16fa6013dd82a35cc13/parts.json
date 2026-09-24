@@ -1,0 +1,15 @@
+{
+  "name": "Truck Loader",
+  "file": "Truck Loader.html",
+  "size": 13239571,
+  "sha256": "bd396da4893089eb97bd1b14946e64902980e3be8358760da4fb3c33718de3cc",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "a1ae7d4739dee2ee98659f42.bin",
+      "size": 13239571
+    }
+  ]
+}

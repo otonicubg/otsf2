@@ -1,0 +1,15 @@
+{
+  "name": "pacman remake",
+  "file": "pacman remake.html",
+  "size": 13097482,
+  "sha256": "b1d2080219d3d1518513a33593fd9fb771ddf9f6c4ece032c7829aee8c73a989",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "5b1d6fdc90e55e60ba892fe1.bin",
+      "size": 13097482
+    }
+  ]
+}

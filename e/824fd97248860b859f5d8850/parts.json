@@ -1,0 +1,19 @@
+{
+  "name": "death chase",
+  "file": "death chase.html",
+  "size": 39913512,
+  "sha256": "97031eddb6ad88c059d91457f04bce55f8ef4cf6123842628ae10c84ba542673",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "5887af35de25d9d729446845.bin",
+      "size": 20971520
+    },
+    {
+      "name": "8134576d113e8dc8b75cf38b.bin",
+      "size": 18941992
+    }
+  ]
+}

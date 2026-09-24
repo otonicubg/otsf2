@@ -1,0 +1,15 @@
+{
+  "name": "google feud",
+  "file": "google feud.html",
+  "size": 9117914,
+  "sha256": "bdac43c314c9d2081362c4664f6ac98a27479d56b0461595f95e020e2558ebaa",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "8ffc689dffbadb82773b795d.bin",
+      "size": 9117914
+    }
+  ]
+}

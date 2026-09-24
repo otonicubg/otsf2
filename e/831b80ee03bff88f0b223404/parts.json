@@ -1,0 +1,15 @@
+{
+  "name": "stick defenders",
+  "file": "stick defenders.html",
+  "size": 13162059,
+  "sha256": "0937d9e38b854b54e810a61926e6eaf56090f4707685a8b099f00c6c1841bcc2",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "f994b2e6dc8fb9f1f73d274b.bin",
+      "size": 13162059
+    }
+  ]
+}

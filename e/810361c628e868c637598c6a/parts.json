@@ -1,0 +1,19 @@
+{
+  "name": "rolly vortex ball",
+  "file": "rolly vortex ball.html",
+  "size": 40961416,
+  "sha256": "6d2306f3a2c90f8a8e0906bd39ccc1c818abdd85c651329517cc48a4dc39c418",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "34a01f1c178845f28fce4201.bin",
+      "size": 20971520
+    },
+    {
+      "name": "4454ab583e4bbbe69d08db0a.bin",
+      "size": 19989896
+    }
+  ]
+}

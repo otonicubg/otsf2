@@ -1,0 +1,15 @@
+{
+  "name": "Electric Man 2",
+  "file": "Electric Man 2.html",
+  "size": 14831139,
+  "sha256": "0e667e2342002fc94aa2e20187893f41f62911217258aa25b82b9475e608e3f2",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "fe93f1aa5249579f32fc7a88.bin",
+      "size": 14831139
+    }
+  ]
+}

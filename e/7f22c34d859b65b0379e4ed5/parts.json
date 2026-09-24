@@ -1,0 +1,15 @@
+{
+  "name": "Weave Silk",
+  "file": "Weave Silk.html",
+  "size": 1772009,
+  "sha256": "4be30495d0469f2037f83b457c16dbac1da66d79a1774f63ea42970492281757",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "9968acaad821fa2d7f87594b.bin",
+      "size": 1772009
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "cherry on the ice cream",
+  "file": "cherry on the ice cream.html",
+  "size": 8789879,
+  "sha256": "0838dad964cf8433d8a0608b87858d10e66b5d82e88b93266f537f3e66aee8e7",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "31333f44f223b5193f41e7cf.bin",
+      "size": 8789879
+    }
+  ]
+}

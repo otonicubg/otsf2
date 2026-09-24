@@ -1,0 +1,15 @@
+{
+  "name": "evolutionary psychol",
+  "file": "evolutionary psychol.html",
+  "size": 2006593,
+  "sha256": "d5345c35aa745147b0992132c40ee83dc6ea480ab19daad86425625895c63473",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "708aaa3c3bd8aaa63fb5ca40.bin",
+      "size": 2006593
+    }
+  ]
+}

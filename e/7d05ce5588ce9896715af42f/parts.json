@@ -1,0 +1,15 @@
+{
+  "name": "kids vs ice cream",
+  "file": "kids vs ice cream.html",
+  "size": 11981424,
+  "sha256": "790971bcf5237ff39cb2dbc66f126be1ac23b1200adedc5273dc2ebb4fca9235",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "9fde1743332e62e0592c9c82.bin",
+      "size": 11981424
+    }
+  ]
+}

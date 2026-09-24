@@ -1,0 +1,19 @@
+{
+  "name": "dispersal vectors",
+  "file": "dispersal vectors.html",
+  "size": 23784750,
+  "sha256": "49717fd123e2effca55078caf90cd26b0c1d59aec5866b8612f2c02c4dbabf5a",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "195b0cdcdf76914ae7ebf33e.bin",
+      "size": 20971520
+    },
+    {
+      "name": "f3c9e8d692b65f25d07cedd2.bin",
+      "size": 2813230
+    }
+  ]
+}

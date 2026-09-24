@@ -1,0 +1,15 @@
+{
+  "name": "yarne",
+  "file": "yarne.html",
+  "size": 7413037,
+  "sha256": "02ad7fbe597dccf469424659740a76264a994a9a135bb2b154faac432d690e5c",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "1475b5ab7aefebd4ef1d2e80.bin",
+      "size": 7413037
+    }
+  ]
+}

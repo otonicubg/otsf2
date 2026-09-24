@@ -1,0 +1,15 @@
+{
+  "name": "60 Second Burger Run",
+  "file": "60 Second Burger Run.html",
+  "size": 12997983,
+  "sha256": "5976baf45c2710f6fb323396442fec0918601f79f6d6d34b7f60aefc14a57ab9",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "b5b17b55926354b2d2419a66.bin",
+      "size": 12997983
+    }
+  ]
+}

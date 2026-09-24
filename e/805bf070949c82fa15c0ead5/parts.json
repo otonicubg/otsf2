@@ -1,0 +1,19 @@
+{
+  "name": "baldis basics field trip",
+  "file": "baldis basics field trip.html",
+  "size": 25479301,
+  "sha256": "31d67ecad1a397a228a181f3349b7ce719442aed546a21dd6195e186820e38f4",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "5472fd4030ec8ed34687af16.bin",
+      "size": 20971520
+    },
+    {
+      "name": "105c25f1cf0adac12a8c2afe.bin",
+      "size": 4507781
+    }
+  ]
+}

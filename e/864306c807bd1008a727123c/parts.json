@@ -1,0 +1,15 @@
+{
+  "name": "cave blast",
+  "file": "cave blast.html",
+  "size": 16039404,
+  "sha256": "d7378acb04c4600a599e61a4eb3d28c849316110087872461747e47348fdd8f4",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "96563658116dc855a37e438d.bin",
+      "size": 16039404
+    }
+  ]
+}

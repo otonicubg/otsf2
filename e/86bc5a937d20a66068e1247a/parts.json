@@ -1,0 +1,15 @@
+{
+  "name": "portal",
+  "file": "portal.html",
+  "size": 19229027,
+  "sha256": "4740894add44c49366c89a5e9ceb10dc199271c30d4254c7851c7d72074ccb44",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "91ce9a49c754fd234900ff8f.bin",
+      "size": 19229027
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "gragyriss",
+  "file": "gragyriss.html",
+  "size": 57267576,
+  "sha256": "c7d6873c6fcd98f0eadadc7eb43788358959f672568ad3decbcf925eb10b1443",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "f234996a2740fe563c809820.bin",
+      "size": 20971520
+    },
+    {
+      "name": "7df45660a249df0057c23963.bin",
+      "size": 20971520
+    },
+    {
+      "name": "4254ac38f2d533c842475c60.bin",
+      "size": 15324536
+    }
+  ]
+}

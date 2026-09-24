@@ -1,0 +1,15 @@
+{
+  "name": "checkpoint",
+  "file": "checkpoint.html",
+  "size": 11956901,
+  "sha256": "883e0c66f65939474fc15e643cb94f8010550eaf5a42c287ce0ce7e9dd3c5197",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "9434c21ab4e3f46e3dd6a26d.bin",
+      "size": 11956901
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Bombit 2",
+  "file": "Bombit 2.html",
+  "size": 16982716,
+  "sha256": "f744903122e2bdc72cffc40e50e8f92990a6651a602ae31e3efc4e1250bbe420",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "2c72a56a385bff97fbe550f2.bin",
+      "size": 16982716
+    }
+  ]
+}

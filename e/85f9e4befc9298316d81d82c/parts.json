@@ -1,0 +1,15 @@
+{
+  "name": "kids vs santa",
+  "file": "kids vs santa.html",
+  "size": 12688087,
+  "sha256": "088ab1e59af1880210efc4b6ada6abc6934ad80dee1769acd3a94ccd5ca84974",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "3954de803188e095d5f84342.bin",
+      "size": 12688087
+    }
+  ]
+}

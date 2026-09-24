@@ -1,0 +1,15 @@
+{
+  "name": "cursed travels a forgotten seal",
+  "file": "cursed travels a forgotten seal.html",
+  "size": 3937215,
+  "sha256": "e0fe4abad7c7adddc04876e66adb3cc61dc8ece184fd3c5d21da8c137acb42a5",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "7ce21a64728bd6493d78ea6a.bin",
+      "size": 3937215
+    }
+  ]
+}

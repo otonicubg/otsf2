@@ -1,0 +1,15 @@
+{
+  "name": "Sonic advance 2",
+  "file": "Sonic advance 2.html",
+  "size": 5229136,
+  "sha256": "cbf49d38f80eed334559507d4465ff5a01d15a1fce0740723edfabaeab901320",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "a1691d8d03d4014e2646d2a0.bin",
+      "size": 5229136
+    }
+  ]
+}

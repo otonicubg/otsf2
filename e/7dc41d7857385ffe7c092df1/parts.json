@@ -1,0 +1,15 @@
+{
+  "name": "ricochet arrow",
+  "file": "ricochet arrow.html",
+  "size": 4631123,
+  "sha256": "bbff43a2a93bbeab184e7605f56ac914ed868eea83eac1a91d3d9026e7cf5fe5",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "e02cf2e94dfd5b5c8479f0e5.bin",
+      "size": 4631123
+    }
+  ]
+}

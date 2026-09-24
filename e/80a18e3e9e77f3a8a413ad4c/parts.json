@@ -1,0 +1,15 @@
+{
+  "name": "rocket league",
+  "file": "rocket league.html",
+  "size": 2037287,
+  "sha256": "d1b65d03d3dce619b22eaeb4991fc0872b6d219e4f738e6343eebbf38d06a3be",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "78dbd5d50b08c9463bbe7650.bin",
+      "size": 2037287
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Disaster Will Strike",
+  "file": "Disaster Will Strike.html",
+  "size": 29764305,
+  "sha256": "e58a54cf062c51647b266e9384c33b19c062abb6c9eebf076ac52a581c3795e5",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "de2aa5f5a88865aa68b531ba.bin",
+      "size": 20971520
+    },
+    {
+      "name": "f676f7c791c86db17826f3e7.bin",
+      "size": 8792785
+    }
+  ]
+}

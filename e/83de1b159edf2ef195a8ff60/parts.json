@@ -1,0 +1,15 @@
+{
+  "name": "Papas Burgeria",
+  "file": "Papas Burgeria.html",
+  "size": 15546123,
+  "sha256": "a495b4380b41ea2e0601c888de8e0b0b7bbf04abab4b15e6227af5065fe5d145",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "50c28c50b176c61d01c4d52e.bin",
+      "size": 15546123
+    }
+  ]
+}

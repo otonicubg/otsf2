@@ -1,0 +1,31 @@
+{
+  "name": "Get Yoked",
+  "file": "Get Yoked.html",
+  "size": 97901221,
+  "sha256": "081c8325bc6a8cfb8b1c0bc88eb27972f3e9c8c4c6cb18cc10eb7eb02dd2184c",
+  "partSize": 20971520,
+  "count": 5,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "7340dfc830a3b710c68e9ab4.bin",
+      "size": 20971520
+    },
+    {
+      "name": "93b8340b5aa31821352340c8.bin",
+      "size": 20971520
+    },
+    {
+      "name": "3325b5d4e47cd750f70c9e75.bin",
+      "size": 20971520
+    },
+    {
+      "name": "66c8a5e6e30bb8b9de9f2568.bin",
+      "size": 20971520
+    },
+    {
+      "name": "b04beccf096e930d3eb61f46.bin",
+      "size": 14015141
+    }
+  ]
+}

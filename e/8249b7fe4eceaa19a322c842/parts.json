@@ -1,0 +1,15 @@
+{
+  "name": "House of Hazards",
+  "file": "House of Hazards.html",
+  "size": 15307919,
+  "sha256": "eba0afb04312927e13af8e282467fa7435fe7855f14480ce4bd39f0baa77c5bd",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "95a6ef7115309a4cda0e2628.bin",
+      "size": 15307919
+    }
+  ]
+}

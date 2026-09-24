@@ -1,0 +1,15 @@
+{
+  "name": "fancade",
+  "file": "fancade.html",
+  "size": 83243,
+  "sha256": "f24c622726545788921435b93c0faca1ff5c9c3983e53fc4be3c0bcc2dfffb16",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "06e5337e9354f04d82639638.bin",
+      "size": 83243
+    }
+  ]
+}
