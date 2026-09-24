@@ -1,0 +1,19 @@
+{
+  "name": "A dance of fire and ice",
+  "file": "A dance of fire and ice.html",
+  "size": 30377374,
+  "sha256": "39b2028ce08ed0d053dddcee70854a24ea8be81f21603d60b8ba130fcfa50cc6",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "e640335780c63448bef90872.bin",
+      "size": 20971520
+    },
+    {
+      "name": "643a6ef0e0d708af9c5b670f.bin",
+      "size": 9405854
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Space Garden",
+  "file": "Space Garden.html",
+  "size": 108957,
+  "sha256": "6dc5f55316edc509445440a1c9854ba6518ef7e0795c8c8ee280c6608ec57d24",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "b2b041e791d062440e428442.bin",
+      "size": 108957
+    }
+  ]
+}

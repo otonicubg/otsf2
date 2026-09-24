@@ -1,0 +1,15 @@
+{
+  "name": "winter gifts",
+  "file": "winter gifts.html",
+  "size": 3751926,
+  "sha256": "36a7f59fb693cf238cb5baf3af16e53e715833b1bf8eb2d1f07a30566bf2e507",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "12100311db207a557b622b00.bin",
+      "size": 3751926
+    }
+  ]
+}

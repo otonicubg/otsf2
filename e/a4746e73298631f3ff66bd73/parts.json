@@ -1,0 +1,15 @@
+{
+  "name": "Stickman Hook",
+  "file": "Stickman Hook.html",
+  "size": 5120851,
+  "sha256": "6896ecc981dce0f7336e15a46c059153f02bda8e905b0253002d762bdb8b10ca",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "f3a5711cbed04d266f146ff6.bin",
+      "size": 5120851
+    }
+  ]
+}

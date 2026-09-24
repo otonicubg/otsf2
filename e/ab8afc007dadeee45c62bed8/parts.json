@@ -1,0 +1,15 @@
+{
+  "name": "bottle flip",
+  "file": "bottle flip.html",
+  "size": 18530554,
+  "sha256": "739461af8d18d5a50561c4bcff1416b53e8fbc396c0b9eebfdeb2a6b0df245f0",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "1b8d58af8a8a2e9aadf97e9a.bin",
+      "size": 18530554
+    }
+  ]
+}

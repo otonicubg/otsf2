@@ -1,0 +1,15 @@
+{
+  "name": "pixoji",
+  "file": "pixoji.html",
+  "size": 1409616,
+  "sha256": "41ce5eeabc15a05ac72d5cb66fb91c0c3e29bf7ed0674d01a8f9b0e575a0ace5",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "ec04553f2f46669f1339e687.bin",
+      "size": 1409616
+    }
+  ]
+}

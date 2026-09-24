@@ -1,0 +1,15 @@
+{
+  "name": "Unfair Mario",
+  "file": "Unfair Mario.html",
+  "size": 13146824,
+  "sha256": "88f927995b555612c30eb3c7c4f6bf7c9c1c632b592013446a83eac783971107",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "39fe06727536f9d11fdb13f7.bin",
+      "size": 13146824
+    }
+  ]
+}

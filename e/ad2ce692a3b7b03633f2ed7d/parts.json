@@ -1,0 +1,15 @@
+{
+  "name": "Hoshi Saga 2",
+  "file": "Hoshi Saga 2.html",
+  "size": 11341370,
+  "sha256": "13ed563f768d2a259eee90f3a8caaec8ddfe2a89efd93cc333b94b5501553df9",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "d6d09242be0270f0b462eb2f.bin",
+      "size": 11341370
+    }
+  ]
+}

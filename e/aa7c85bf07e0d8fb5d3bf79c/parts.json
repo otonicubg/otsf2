@@ -1,0 +1,15 @@
+{
+  "name": "platformation",
+  "file": "platformation.html",
+  "size": 6488106,
+  "sha256": "51f0c6172bd7a7517e4f2899cedf087be84a98220484703625caaa9f8a297cc3",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "af78d3b9769c09b4da11c1b7.bin",
+      "size": 6488106
+    }
+  ]
+}

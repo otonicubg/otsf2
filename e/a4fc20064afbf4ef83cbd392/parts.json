@@ -1,0 +1,15 @@
+{
+  "name": "duo survival 2",
+  "file": "duo survival 2.html",
+  "size": 19903701,
+  "sha256": "fa37345a6b7039921d44a326da0df8ef73f1371d0b917edd44b94f2f750ea6ca",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "9b8005941c772d192cebfc96.bin",
+      "size": 19903701
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "rooftop-snipers-2",
+  "file": "rooftop-snipers-2.html",
+  "size": 11683393,
+  "sha256": "9bded61ed4552151659c2fe65cf1ee325db73b7c7786521bd23d35ad74875c0d",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "a5aa6ef977f1888a85d77608.bin",
+      "size": 11683393
+    }
+  ]
+}

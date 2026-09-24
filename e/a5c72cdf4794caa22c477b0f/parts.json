@@ -1,0 +1,27 @@
+{
+  "name": "Raft",
+  "file": "Raft.html",
+  "size": 64233244,
+  "sha256": "35a240a7b7f98748d69537eb9771bd94e1fb5e068f139f7b4e505203ddf6ddc1",
+  "partSize": 20971520,
+  "count": 4,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "25254b09d69aa2487206f09d.bin",
+      "size": 20971520
+    },
+    {
+      "name": "1ecf091ded04d71de905eba2.bin",
+      "size": 20971520
+    },
+    {
+      "name": "e168c8dfc1481baf7662f0b8.bin",
+      "size": 20971520
+    },
+    {
+      "name": "9370dbd0d6a32b01c1145c1d.bin",
+      "size": 1318684
+    }
+  ]
+}

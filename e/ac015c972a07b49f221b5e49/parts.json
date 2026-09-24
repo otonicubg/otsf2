@@ -1,0 +1,15 @@
+{
+  "name": "Vex X3m",
+  "file": "Vex X3m.html",
+  "size": 11099479,
+  "sha256": "b41d7b5fd924cdd277cbaa3c5c0dd4a7971ed4209141d31a464789caf8e8de07",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "eae082b09c1d3bd6660246ee.bin",
+      "size": 11099479
+    }
+  ]
+}

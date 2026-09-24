@@ -1,0 +1,15 @@
+{
+  "name": "Mario",
+  "file": "Mario.html",
+  "size": 10515095,
+  "sha256": "7e89584f487dbace729012368a8a3a4a0e6601f9bdfd7783270c3c70947bb223",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "d0c4db8c0cb4d6cc85b095c4.bin",
+      "size": 10515095
+    }
+  ]
+}

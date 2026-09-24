@@ -1,0 +1,19 @@
+{
+  "name": "darkraid delilah",
+  "file": "darkraid delilah.html",
+  "size": 34209239,
+  "sha256": "ace851e7cff8568c515a4f6654d2a84a875d68266a4354911cf3e19fd6336b84",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "e8489c9b77458c370ffca9e4.bin",
+      "size": 20971520
+    },
+    {
+      "name": "5023b472d01a3fe245bdb05b.bin",
+      "size": 13237719
+    }
+  ]
+}

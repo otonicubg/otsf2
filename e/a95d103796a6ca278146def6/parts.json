@@ -1,0 +1,15 @@
+{
+  "name": "two punk racing",
+  "file": "two punk racing.html",
+  "size": 339340,
+  "sha256": "d32c6392ef4712e47dd455f5f9095548da75ccf27abd23f3410ebfcefa8accef",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "8c55ba93003f1d1ee18786b1.bin",
+      "size": 339340
+    }
+  ]
+}
