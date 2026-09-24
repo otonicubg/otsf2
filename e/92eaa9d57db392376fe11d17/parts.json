@@ -1,0 +1,15 @@
+{
+  "name": "avalanche",
+  "file": "avalanche.html",
+  "size": 3237221,
+  "sha256": "3f5fd7b21d61edc3642568d7223242b6dbf5c8a4942f548926514857ba4ff714",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "e8db145cc41379fe1bb1e036.bin",
+      "size": 3237221
+    }
+  ]
+}

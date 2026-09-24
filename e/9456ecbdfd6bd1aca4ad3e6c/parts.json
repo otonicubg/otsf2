@@ -1,0 +1,15 @@
+{
+  "name": "super santa kicker",
+  "file": "super santa kicker.html",
+  "size": 6493565,
+  "sha256": "2e128d2d4a2995a83e6139cb5879a86fbce5d93d2991161dbf5baef76159ce5b",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "027ac47b7dc78d5de56e7bda.bin",
+      "size": 6493565
+    }
+  ]
+}

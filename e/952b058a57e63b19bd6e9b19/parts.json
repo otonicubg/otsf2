@@ -1,0 +1,15 @@
+{
+  "name": "cataractae",
+  "file": "cataractae.html",
+  "size": 16355237,
+  "sha256": "11bc0e256ba721f2e7413944685fc7130f30627d4a8fe7ca668d7c7819ca6350",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "bf48557d019c0ee88c73411f.bin",
+      "size": 16355237
+    }
+  ]
+}

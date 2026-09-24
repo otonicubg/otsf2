@@ -1,0 +1,15 @@
+{
+  "name": "Evil Glich",
+  "file": "Evil Glich.html",
+  "size": 120457,
+  "sha256": "ebf88acd75f7932e5c644682769e563c02fd4442624dd5bdee5a712bd168f9d3",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "bb1c670165c8327b87b5634b.bin",
+      "size": 120457
+    }
+  ]
+}

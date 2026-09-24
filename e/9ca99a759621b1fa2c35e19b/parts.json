@@ -1,0 +1,23 @@
+{
+  "name": "roly poly monsters",
+  "file": "roly poly monsters.html",
+  "size": 54349449,
+  "sha256": "8cf970341da096e8b08513981ec3a9cb605db66d7231110b13325b8267ae6af7",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "a95997c8016f07301f349e51.bin",
+      "size": 20971520
+    },
+    {
+      "name": "bd097cffdd9893d0fffb7ed8.bin",
+      "size": 20971520
+    },
+    {
+      "name": "09403ef87b5abd254d088862.bin",
+      "size": 12406409
+    }
+  ]
+}

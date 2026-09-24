@@ -1,0 +1,15 @@
+{
+  "name": "Super Mario 64",
+  "file": "Super Mario 64.html",
+  "size": 15041910,
+  "sha256": "f4bb77ac849dc62835436c113e5739c2318ad775053a346f7a92731ca80ec69c",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "9dfddd22a97d27e3c45d580a.bin",
+      "size": 15041910
+    }
+  ]
+}

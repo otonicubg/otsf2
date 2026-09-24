@@ -1,0 +1,15 @@
+{
+  "name": "club tycoon",
+  "file": "club tycoon.html",
+  "size": 7072309,
+  "sha256": "38eeb9e6fcbc88c64eaade8a0cbe6502dbf2f2c58006f783d92e70223c929a8e",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "fb0966726270b0d13ef79164.bin",
+      "size": 7072309
+    }
+  ]
+}

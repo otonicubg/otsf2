@@ -1,0 +1,15 @@
+{
+  "name": "Theme Hotel",
+  "file": "Theme Hotel.html",
+  "size": 14980646,
+  "sha256": "bb77cb534cd90cf667dd389b272b8b522771b01474e1a3e55b3d15a08d5b5e7d",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "fe8ba3bd7c83ff0c5f257ee2.bin",
+      "size": 14980646
+    }
+  ]
+}

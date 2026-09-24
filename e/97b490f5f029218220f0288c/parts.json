@@ -1,0 +1,15 @@
+{
+  "name": "handle",
+  "file": "handle.html",
+  "size": 13472897,
+  "sha256": "d5f01c679c2f23421a160886c4e8a41bc9087cd0e2b3e3eb14d729a85b5aeb5f",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "245ca7b7a6694bd0ea90feea.bin",
+      "size": 13472897
+    }
+  ]
+}

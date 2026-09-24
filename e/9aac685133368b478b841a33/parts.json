@@ -1,0 +1,15 @@
+{
+  "name": "hextris",
+  "file": "hextris.html",
+  "size": 2717905,
+  "sha256": "acbf18b29d528124c44d0b3559b7d3c0292aa66eeca0270d5edd6400314705a8",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "645e336bdcfa175612b5ec1b.bin",
+      "size": 2717905
+    }
+  ]
+}

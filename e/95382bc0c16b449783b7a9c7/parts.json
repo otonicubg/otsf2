@@ -1,0 +1,15 @@
+{
+  "name": "idle ants",
+  "file": "idle ants.html",
+  "size": 13149737,
+  "sha256": "8ca075755b0444c3a9e4beda82f8a2fac968671d3419cd6575763afbf1dab875",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "893e30050ffb7af679bb7b6c.bin",
+      "size": 13149737
+    }
+  ]
+}

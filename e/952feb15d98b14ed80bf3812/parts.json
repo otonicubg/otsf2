@@ -1,0 +1,15 @@
+{
+  "name": "skyblock",
+  "file": "skyblock.html",
+  "size": 17106389,
+  "sha256": "1f37a12b77267370821588c0b673d196bd4bb3c5011ce2b7edb9542077552691",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "b32090d028d11921dc067d5a.bin",
+      "size": 17106389
+    }
+  ]
+}

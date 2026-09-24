@@ -1,0 +1,15 @@
+{
+  "name": "minesweeper",
+  "file": "minesweeper.html",
+  "size": 10807875,
+  "sha256": "96de87b8f433a67d9ccec4357d818d38994c5db917b042ed498a744d9d9dfbd2",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "76b3ebf4a6d546501ae5d812.bin",
+      "size": 10807875
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "3d moto simulator 2",
+  "file": "3d moto simulator 2.html",
+  "size": 42065422,
+  "sha256": "4d094097e69cc70324d3c2978bdf222474ae3f4ed01d14dc82e648e779c5fc7b",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "0766454483f956495190a1b5.bin",
+      "size": 20971520
+    },
+    {
+      "name": "4c779218b05152be70daa719.bin",
+      "size": 20971520
+    },
+    {
+      "name": "f98b4823964cd5df659ba5ef.bin",
+      "size": 122382
+    }
+  ]
+}

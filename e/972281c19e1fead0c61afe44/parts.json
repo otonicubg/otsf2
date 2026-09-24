@@ -1,0 +1,15 @@
+{
+  "name": "whac-a-mole",
+  "file": "whac-a-mole.html",
+  "size": 12202471,
+  "sha256": "f5d4dcefef3794106bb6c415b8808b2322fbae5c9ae283a0feb9ac77c81d9577",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "8a27e2f68005835e84a51a85.bin",
+      "size": 12202471
+    }
+  ]
+}

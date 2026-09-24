@@ -1,0 +1,15 @@
+{
+  "name": "arrow box",
+  "file": "arrow box.html",
+  "size": 15162805,
+  "sha256": "ffaec7349562ea06bba408bdc94057b6b0b37e33c2277292e4b9c7327cf13459",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "ffb8d66a5eea49fea1618ed0.bin",
+      "size": 15162805
+    }
+  ]
+}

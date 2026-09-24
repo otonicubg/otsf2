@@ -1,0 +1,27 @@
+{
+  "name": "war of caribbean pirates",
+  "file": "war of caribbean pirates.html",
+  "size": 70418928,
+  "sha256": "88cece423089e569694084f0a2a7165ea9b06220748190593164bb20916639e4",
+  "partSize": 20971520,
+  "count": 4,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "a32d033ed58c3f7fc2c72e1f.bin",
+      "size": 20971520
+    },
+    {
+      "name": "32fdfb6236bd940b5b2db247.bin",
+      "size": 20971520
+    },
+    {
+      "name": "df91253220f6b5efba3aed40.bin",
+      "size": 20971520
+    },
+    {
+      "name": "4b0291fa6e00bb0197d3635e.bin",
+      "size": 7504368
+    }
+  ]
+}

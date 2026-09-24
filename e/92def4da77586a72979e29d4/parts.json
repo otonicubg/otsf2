@@ -1,0 +1,15 @@
+{
+  "name": "just passing 2",
+  "file": "just passing 2.html",
+  "size": 13052283,
+  "sha256": "8e3ebee22188e3ba682e9397e53277436e4922d1457b12edcadad37ca6d05bd2",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "7b0cc506c1b2375c7bd4fd48.bin",
+      "size": 13052283
+    }
+  ]
+}

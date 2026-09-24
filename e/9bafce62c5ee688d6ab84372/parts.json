@@ -1,0 +1,15 @@
+{
+  "name": "yohoho.io",
+  "file": "yohoho.io.html",
+  "size": 3735166,
+  "sha256": "c7523e74b71abb3870deb00602d710ba7c25b8b7eebf46e377fa9c0e103c64ba",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "c8b51e2ef4526d6e865bfca1.bin",
+      "size": 3735166
+    }
+  ]
+}

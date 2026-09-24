@@ -1,0 +1,15 @@
+{
+  "name": "roper",
+  "file": "roper.html",
+  "size": 13859453,
+  "sha256": "398947311f6a801e523e16396b634e3382a146b2e752aebced7815eea588ccc5",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "8fe1e2f9eea47d9105ed2eee.bin",
+      "size": 13859453
+    }
+  ]
+}

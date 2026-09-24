@@ -1,0 +1,19 @@
+{
+  "name": "pokemon unbound",
+  "file": "pokemon unbound.html",
+  "size": 22041873,
+  "sha256": "c4d30b4a03b14690b2dc91ce0743a1f0f16fa2b599035933ded1ed93d7e890d9",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "a8157be2481434a5b9982a0b.bin",
+      "size": 20971520
+    },
+    {
+      "name": "3822a1a845fd1bb0b9fdfd6c.bin",
+      "size": 1070353
+    }
+  ]
+}
