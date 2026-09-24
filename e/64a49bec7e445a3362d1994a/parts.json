@@ -1,0 +1,19 @@
+{
+  "name": "scrap divers",
+  "file": "scrap divers.html",
+  "size": 21769033,
+  "sha256": "57ec0a5b6d1ba3cac7f208b00ee6a6cb9431807d63e989357153929957742b2f",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "9dcc197aa51aaa7078bfb053.bin",
+      "size": 20971520
+    },
+    {
+      "name": "b663d6d16d819e88063773b6.bin",
+      "size": 797513
+    }
+  ]
+}

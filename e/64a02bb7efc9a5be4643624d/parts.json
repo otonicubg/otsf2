@@ -1,0 +1,15 @@
+{
+  "name": "Balatro",
+  "file": "Balatro.html",
+  "size": 14735969,
+  "sha256": "bc152f07a857b28b4d6474a7d4c8455ffc040a356b70069252b66e0087b7e414",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "fbc0d04df1e624fdc878f90f.bin",
+      "size": 14735969
+    }
+  ]
+}
