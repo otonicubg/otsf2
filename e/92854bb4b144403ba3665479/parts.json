@@ -1,0 +1,15 @@
+{
+  "name": "save the doge",
+  "file": "save the doge.html",
+  "size": 18300436,
+  "sha256": "f2441db2ae72986288dd9f65e83de625cb81891753b48a47dcbef822b4b9f412",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "a7421e765050f24cd2af1ce1.bin",
+      "size": 18300436
+    }
+  ]
+}
