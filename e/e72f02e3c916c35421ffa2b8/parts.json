@@ -1,0 +1,15 @@
+{
+  "name": "keyholder",
+  "file": "keyholder.html",
+  "size": 6174132,
+  "sha256": "73516b5068e6a3d8d016e161142fe780772b0f81612d3ac9720de601efd862f7",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "5e53af454f718b1c8f295e12.bin",
+      "size": 6174132
+    }
+  ]
+}

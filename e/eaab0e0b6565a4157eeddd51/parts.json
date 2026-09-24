@@ -1,0 +1,15 @@
+{
+  "name": "sans",
+  "file": "sans.html",
+  "size": 5279668,
+  "sha256": "3bf38bbb71cea0b6661ac3184b09d325e712bfd3026a80878fa22e3ab2782c4d",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "63e45004205486b308a6be2a.bin",
+      "size": 5279668
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "tough growth",
+  "file": "tough growth.html",
+  "size": 7565189,
+  "sha256": "024ed0cfaf94c3b13db04824b8a259c6d3dd7b81c2d5edaeb95b880ce76b9ac9",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "023b5eefab7bb986149d976f.bin",
+      "size": 7565189
+    }
+  ]
+}

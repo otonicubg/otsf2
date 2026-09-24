@@ -1,0 +1,15 @@
+{
+  "name": "sans fight",
+  "file": "sans fight.html",
+  "size": 3776300,
+  "sha256": "c217924078837061ac2f88e1ef2c4228f108df151f347439f133ed56c874dfad",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "0c5cacb88ec5add9fc389419.bin",
+      "size": 3776300
+    }
+  ]
+}

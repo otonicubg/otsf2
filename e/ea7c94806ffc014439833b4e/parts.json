@@ -1,0 +1,15 @@
+{
+  "name": "cities of babylon",
+  "file": "cities of babylon.html",
+  "size": 5520758,
+  "sha256": "81d930e686e6fc1bafc1c1576ecbc0d4216910ec08a4362a46f4640f108a9560",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "60478dbacd2d623445a31d91.bin",
+      "size": 5520758
+    }
+  ]
+}

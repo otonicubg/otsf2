@@ -1,0 +1,19 @@
+{
+  "name": "two timin towers",
+  "file": "two timin towers.html",
+  "size": 35362209,
+  "sha256": "49b485b182dbeab959b30d53f05d167f9d40f2d3899d2e3809f6dd9e7538b4d2",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "cd136928cb73f3a9547862a4.bin",
+      "size": 20971520
+    },
+    {
+      "name": "4d345382dabaedf539a4471e.bin",
+      "size": 14390689
+    }
+  ]
+}

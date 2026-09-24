@@ -1,0 +1,23 @@
+{
+  "name": "Slender the eight pages",
+  "file": "Slender the eight pages.html",
+  "size": 48759601,
+  "sha256": "17883c35426647aa6f5d081367ef8a67ff060fd6c8103204c28efa5b5a0b19ea",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "e9580ef567e12335d014cde0.bin",
+      "size": 20971520
+    },
+    {
+      "name": "bce20b4885b41b0b4b40d22e.bin",
+      "size": 20971520
+    },
+    {
+      "name": "ef35b36520833d384926bf37.bin",
+      "size": 6816561
+    }
+  ]
+}

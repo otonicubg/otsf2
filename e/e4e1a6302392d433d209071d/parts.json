@@ -1,0 +1,19 @@
+{
+  "name": "Smash Karts",
+  "file": "Smash Karts.html",
+  "size": 35413149,
+  "sha256": "b5321faf5e6d769ee5ff2c9c79c377d5f7ca87f6867b469d6d2fc8d767a3ca3d",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "71215b93cbc12e3656e34b90.bin",
+      "size": 20971520
+    },
+    {
+      "name": "3087545def6ec080f6168b8a.bin",
+      "size": 14441629
+    }
+  ]
+}

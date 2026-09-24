@@ -1,0 +1,19 @@
+{
+  "name": "trafficmania",
+  "file": "trafficmania.html",
+  "size": 28471535,
+  "sha256": "555bbb830b275fcd9e567b11303ac85f80457ce22ca6203b860881f18efa2f90",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "eb356cb58ef72a7a68c88f3c.bin",
+      "size": 20971520
+    },
+    {
+      "name": "352374bf37301a25e2ff8e85.bin",
+      "size": 7500015
+    }
+  ]
+}

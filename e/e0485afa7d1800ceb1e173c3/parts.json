@@ -1,0 +1,55 @@
+{
+  "name": "Undertale Yellow",
+  "file": "Undertale Yellow.html",
+  "size": 213772582,
+  "sha256": "da98246bc0a21597c040ca173a291a41729b6f154edd1db2ad011a6dfcf6563d",
+  "partSize": 20971520,
+  "count": 11,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "33b46636441d6d44585ca1db.bin",
+      "size": 20971520
+    },
+    {
+      "name": "ead58fd29dbed2eac4ad34a9.bin",
+      "size": 20971520
+    },
+    {
+      "name": "075cc34f4d509c64154ff525.bin",
+      "size": 20971520
+    },
+    {
+      "name": "d2b1a3a8017ed8c4e8e0407d.bin",
+      "size": 20971520
+    },
+    {
+      "name": "e9232241b4fa2ca0703fed4f.bin",
+      "size": 20971520
+    },
+    {
+      "name": "370a44e05cfe73bd9f8465f7.bin",
+      "size": 20971520
+    },
+    {
+      "name": "9d4a9a6dcbc82cfa498a7758.bin",
+      "size": 20971520
+    },
+    {
+      "name": "476c1ffa549b1a380e2ee0cf.bin",
+      "size": 20971520
+    },
+    {
+      "name": "d0669a56cfb02f13a9e8fde8.bin",
+      "size": 20971520
+    },
+    {
+      "name": "db7d3d5aff7aa1d3e566da63.bin",
+      "size": 20971520
+    },
+    {
+      "name": "1bd59cb30682f2ce893f539f.bin",
+      "size": 4057382
+    }
+  ]
+}

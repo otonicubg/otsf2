@@ -1,0 +1,15 @@
+{
+  "name": "gaia",
+  "file": "gaia.html",
+  "size": 19171213,
+  "sha256": "0e6c15db524a8c2a66d4dd141e6a2d1fa80377813b0f4b1dbba1aec6898df2d2",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "bd798c22389d3f4aba9b98ff.bin",
+      "size": 19171213
+    }
+  ]
+}

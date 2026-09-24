@@ -1,0 +1,15 @@
+{
+  "name": "mega miner",
+  "file": "mega miner.html",
+  "size": 12326260,
+  "sha256": "fcc67830185e7d0f9ad66b09a74bc6913c4da294f422c9ff265b8c830322b82f",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "0e1514fa152ef1a8311c01d8.bin",
+      "size": 12326260
+    }
+  ]
+}

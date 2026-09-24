@@ -1,0 +1,15 @@
+{
+  "name": "Jolly world",
+  "file": "Jolly world.html",
+  "size": 6936752,
+  "sha256": "2fb72c28c92661365c187f8b4bf330d59558a124167af6c177f889b2b50131e9",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "fc1e8e7c7be9fdb1a72cf50a.bin",
+      "size": 6936752
+    }
+  ]
+}

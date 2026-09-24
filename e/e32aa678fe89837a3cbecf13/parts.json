@@ -1,0 +1,23 @@
+{
+  "name": "Moto X3M",
+  "file": "Moto X3M.html",
+  "size": 42291121,
+  "sha256": "a6f72d640757e2fd4c7d8aa3bfbd6b8ccb26186f336c38c491b9589bc37d5570",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "19a2e7ced5ac079e5bb0c71a.bin",
+      "size": 20971520
+    },
+    {
+      "name": "39c0b920691ed82814be00f5.bin",
+      "size": 20971520
+    },
+    {
+      "name": "47a6d1f469cf776ffb06e495.bin",
+      "size": 348081
+    }
+  ]
+}

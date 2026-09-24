@@ -1,0 +1,15 @@
+{
+  "name": "Celeste",
+  "file": "Celeste.html",
+  "size": 3076469,
+  "sha256": "2e4bfdc8d74b9adc331669a4a58f80d83b1a5f87d115c320cfa94d40cb2bddbe",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "0827570c44278fd62065bd05.bin",
+      "size": 3076469
+    }
+  ]
+}

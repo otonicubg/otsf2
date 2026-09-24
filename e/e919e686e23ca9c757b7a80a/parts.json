@@ -1,0 +1,15 @@
+{
+  "name": "Tiny Fishing",
+  "file": "Tiny Fishing.html",
+  "size": 5057068,
+  "sha256": "f6bee4e887b3998c50db4cd0ebde1fc5a3cfa77bfd9f23f5ff8292cbdaaec723",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "a3fa3a26eac0e467709eb670.bin",
+      "size": 5057068
+    }
+  ]
+}

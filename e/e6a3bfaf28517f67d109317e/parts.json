@@ -1,0 +1,15 @@
+{
+  "name": "burnout drift seaport max",
+  "file": "burnout drift seaport max.html",
+  "size": 18066299,
+  "sha256": "55ac0e74e82d025dedd902822fabb1f2fc0b1cf722a80b53d0ffa3020bc83896",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "467eabb9093ed3043952eefb.bin",
+      "size": 18066299
+    }
+  ]
+}

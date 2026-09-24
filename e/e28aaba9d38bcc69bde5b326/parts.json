@@ -1,0 +1,15 @@
+{
+  "name": "Cookie Clicker",
+  "file": "Cookie Clicker.html",
+  "size": 9910192,
+  "sha256": "85e847118419a37ee31d90bb3d40fb00003e839e37f4d114f013afe3788088f2",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "649ef7fd0b92f07ac4acbab4.bin",
+      "size": 9910192
+    }
+  ]
+}

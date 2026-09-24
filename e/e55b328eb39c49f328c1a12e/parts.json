@@ -1,0 +1,15 @@
+{
+  "name": "bokdown",
+  "file": "bokdown.html",
+  "size": 1063532,
+  "sha256": "f2c1177028aa7e406448fae7720ff12d168fe644358d24848d2725bb1d051190",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "a73fa946c7d82ab90b76bf42.bin",
+      "size": 1063532
+    }
+  ]
+}

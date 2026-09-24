@@ -1,0 +1,15 @@
+{
+  "name": "Kitten Cannon",
+  "file": "Kitten Cannon.html",
+  "size": 3211274,
+  "sha256": "455ff5e28949dbe8df4c3b5f51859a6125cb609264bf4e3a139ce1bffb52f016",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "a49ab4accdba5350116db62d.bin",
+      "size": 3211274
+    }
+  ]
+}

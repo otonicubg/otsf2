@@ -1,0 +1,15 @@
+{
+  "name": "progress knight",
+  "file": "progress knight.html",
+  "size": 219456,
+  "sha256": "bb99926bee00469859eedbf755f65c122f0b7c1428f23ceefa0dd51e56f26e81",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "ee665059949f3637fd3dc78d.bin",
+      "size": 219456
+    }
+  ]
+}

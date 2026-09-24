@@ -1,0 +1,23 @@
+{
+  "name": "running fred",
+  "file": "running fred.html",
+  "size": 58679826,
+  "sha256": "d11feadfcb94b04fb06c943b9a0b2c6834480753607deb31312ed6f98dc86b2c",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "9a183fedcc14dbed4a43f15b.bin",
+      "size": 20971520
+    },
+    {
+      "name": "107f292a6276050447e329b1.bin",
+      "size": 20971520
+    },
+    {
+      "name": "d99487737a25969e2c02cdf7.bin",
+      "size": 16736786
+    }
+  ]
+}

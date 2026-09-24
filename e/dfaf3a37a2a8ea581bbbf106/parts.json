@@ -1,0 +1,15 @@
+{
+  "name": "binary",
+  "file": "binary.html",
+  "size": 7555847,
+  "sha256": "835a84c22b6c21bc82246d19135a270dfd08b69d37ddfbd0a0e6dca871b5f4e4",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "0ff92367a8b05cb00209d73d.bin",
+      "size": 7555847
+    }
+  ]
+}

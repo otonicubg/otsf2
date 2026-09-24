@@ -1,0 +1,15 @@
+{
+  "name": "stacktris",
+  "file": "stacktris.html",
+  "size": 7099982,
+  "sha256": "7d71b31c9744a0cfc7c79812713bf7b5c9b3403096d46adbb79f29fd605dbedf",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "eafcb996a7d505113086c2be.bin",
+      "size": 7099982
+    }
+  ]
+}

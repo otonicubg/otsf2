@@ -1,0 +1,15 @@
+{
+  "name": "cleanup.io",
+  "file": "cleanup.io.html",
+  "size": 329998,
+  "sha256": "6293c5af90b3cafe812f6f9573e8f8582448a9424162df4ff561dbf0405b4a1b",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "0a9dcbc27b1e22e5d72ab8c2.bin",
+      "size": 329998
+    }
+  ]
+}

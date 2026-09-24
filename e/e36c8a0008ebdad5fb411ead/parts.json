@@ -1,0 +1,15 @@
+{
+  "name": "Idle Shark",
+  "file": "Idle Shark.html",
+  "size": 7959390,
+  "sha256": "a78f5319d2dff961f427d6d693ed3bbd84ec748f5816942e560a8b324ea9131f",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "7e0d711087da7162ec56c923.bin",
+      "size": 7959390
+    }
+  ]
+}

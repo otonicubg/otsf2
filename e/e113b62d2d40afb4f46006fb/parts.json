@@ -1,0 +1,19 @@
+{
+  "name": "minecraft builder",
+  "file": "minecraft builder.html",
+  "size": 35647834,
+  "sha256": "660b49fb3223d61e2ac21fe27f3295cefe5b2aea49b287250319894256e32446",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "f5130aa26227a8e2f2491d9f.bin",
+      "size": 20971520
+    },
+    {
+      "name": "df3ee7448020c462d505bc0a.bin",
+      "size": 14676314
+    }
+  ]
+}

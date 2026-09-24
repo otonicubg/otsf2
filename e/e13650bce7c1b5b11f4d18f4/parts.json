@@ -1,0 +1,15 @@
+{
+  "name": "reel deep",
+  "file": "reel deep.html",
+  "size": 18751037,
+  "sha256": "bb7d260b7e23cb177fc3e801b7747419fa10ab3d5294f01c2b649676cf330388",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "316a7ae55f2ca820540c9672.bin",
+      "size": 18751037
+    }
+  ]
+}
