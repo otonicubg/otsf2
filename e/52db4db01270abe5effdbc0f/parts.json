@@ -1,0 +1,15 @@
+{
+  "name": "dino bros",
+  "file": "dino bros.html",
+  "size": 10160604,
+  "sha256": "1ecbb365bef76782436896c9f0152aa9bb9edd8b33428bc56ebb628111f7c909",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "7852406d42ecdacd6f2556b8.bin",
+      "size": 10160604
+    }
+  ]
+}

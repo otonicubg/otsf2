@@ -1,0 +1,67 @@
+{
+  "name": "A difficult game about climbing",
+  "file": "A difficult game about climbing.html",
+  "size": 288958429,
+  "sha256": "fdd2ca10db69147ac7e0315309ca122682c5e6048adad67d83b8e58e7055897f",
+  "partSize": 20971520,
+  "count": 14,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "bc3440d2ffb8fddafee31da1.bin",
+      "size": 20971520
+    },
+    {
+      "name": "757c9a6a1a586d1de36cbecf.bin",
+      "size": 20971520
+    },
+    {
+      "name": "6a77f56de345c8c005d089a0.bin",
+      "size": 20971520
+    },
+    {
+      "name": "84d8a5a92d2cab57a12fbab3.bin",
+      "size": 20971520
+    },
+    {
+      "name": "7407ee605b07417ec7ea35ca.bin",
+      "size": 20971520
+    },
+    {
+      "name": "e1f634d96e642f993192c8c2.bin",
+      "size": 20971520
+    },
+    {
+      "name": "916c2732d721c084c19baa7a.bin",
+      "size": 20971520
+    },
+    {
+      "name": "985bc0191e591999030885ae.bin",
+      "size": 20971520
+    },
+    {
+      "name": "5ce294260263f974b127b174.bin",
+      "size": 20971520
+    },
+    {
+      "name": "8c21b8c8b92a0817c51e7bf8.bin",
+      "size": 20971520
+    },
+    {
+      "name": "6c9ecf7ed9fb375a633bbec9.bin",
+      "size": 20971520
+    },
+    {
+      "name": "dedb2ac391d9b3af3beedc22.bin",
+      "size": 20971520
+    },
+    {
+      "name": "6e5177b495dc56690dafc1f1.bin",
+      "size": 20971520
+    },
+    {
+      "name": "ce51f7532bf124458cbf3769.bin",
+      "size": 16328669
+    }
+  ]
+}

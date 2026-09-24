@@ -1,0 +1,15 @@
+{
+  "name": "Amidst the Clouds",
+  "file": "Amidst the Clouds.html",
+  "size": 12481375,
+  "sha256": "06cc3cb3ae509e4f2439b71acb4502a678580606da4d36f3dac0925f471e1a30",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "69ea2997071bf97314b7e1f3.bin",
+      "size": 12481375
+    }
+  ]
+}

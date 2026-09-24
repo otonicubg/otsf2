@@ -1,0 +1,15 @@
+{
+  "name": "jetpack kiwi",
+  "file": "jetpack kiwi.html",
+  "size": 13586974,
+  "sha256": "7f44406f8bb36c509b18c18852355f4e9fa34e008e902224461e948a2cd4c1e4",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "be949c188379c370c97c0cab.bin",
+      "size": 13586974
+    }
+  ]
+}

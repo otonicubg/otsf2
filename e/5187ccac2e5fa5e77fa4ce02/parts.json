@@ -1,0 +1,15 @@
+{
+  "name": "Moto X3M 2",
+  "file": "Moto X3M 2.html",
+  "size": 18363375,
+  "sha256": "1320524bbbfa2dc4fa5902402ad84b0d4144be97171a986e036d06dfc711dd9b",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "387949bb5f536ae689b1dd24.bin",
+      "size": 18363375
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "galaga",
+  "file": "galaga.html",
+  "size": 239174,
+  "sha256": "4af0d911f3d285e8ad84a2da32aae3100edaae475096d3f11507bb2767825ea3",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "bfcfd03b3ad13073a4048b08.bin",
+      "size": 239174
+    }
+  ]
+}

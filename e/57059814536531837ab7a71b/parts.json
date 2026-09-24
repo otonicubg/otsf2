@@ -1,0 +1,19 @@
+{
+  "name": "penalty shooters 3",
+  "file": "penalty shooters 3.html",
+  "size": 28969254,
+  "sha256": "220c73a104b5a88ece46acce592e929545844af65eea4ae86db506afd663a283",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "41746e397c6088ad6afd07d6.bin",
+      "size": 20971520
+    },
+    {
+      "name": "818213457cbc7a919c7a3a2b.bin",
+      "size": 7997734
+    }
+  ]
+}

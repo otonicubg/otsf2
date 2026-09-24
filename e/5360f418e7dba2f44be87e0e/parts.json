@@ -1,0 +1,15 @@
+{
+  "name": "sniper assasin",
+  "file": "sniper assasin.html",
+  "size": 14505087,
+  "sha256": "5e23b72cecb94abc4db4d73bd330b3da68e3199404fc0bf9654e18f123edd368",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "23a86c694b19dc27b8fcad00.bin",
+      "size": 14505087
+    }
+  ]
+}

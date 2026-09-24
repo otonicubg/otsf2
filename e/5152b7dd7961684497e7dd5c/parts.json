@@ -1,0 +1,15 @@
+{
+  "name": "cube flip",
+  "file": "cube flip.html",
+  "size": 331964,
+  "sha256": "514ac6e182aa1413f1c9e725b8479bca9d81a77af797cbf120fdd6742237f6fb",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "ec49bd98a7657c6c1457946b.bin",
+      "size": 331964
+    }
+  ]
+}

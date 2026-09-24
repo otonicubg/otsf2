@@ -1,0 +1,15 @@
+{
+  "name": "telepobox 2",
+  "file": "telepobox 2.html",
+  "size": 12837987,
+  "sha256": "b4e9f78e77af42af4876b29e00af18d9b87d9a7c1e9f1c564078bcbf4bb13560",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "1f5187fd8a95bb1da17c9463.bin",
+      "size": 12837987
+    }
+  ]
+}

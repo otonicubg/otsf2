@@ -1,0 +1,15 @@
+{
+  "name": "contractomaton",
+  "file": "contractomaton.html",
+  "size": 20474252,
+  "sha256": "1126abfaa81c1d7143fa5ef07cf67162e1a20cbcdabfc2bbc536d73558e1274f",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "5f957d7990131d1618887b4b.bin",
+      "size": 20474252
+    }
+  ]
+}

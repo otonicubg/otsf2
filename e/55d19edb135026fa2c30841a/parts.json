@@ -1,0 +1,15 @@
+{
+  "name": "one trick mage",
+  "file": "one trick mage.html",
+  "size": 6003338,
+  "sha256": "699f4b63f1820fcc33acd873a6751c532f621cd711d91e647f8e7d3702dad039",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "9559330565e16202ebc45667.bin",
+      "size": 6003338
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Jelly Drift",
+  "file": "Jelly Drift.html",
+  "size": 45124015,
+  "sha256": "7eb89d9d410b9240ad06cf4d856568116431458c1e75584a692c37e412df1756",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "a8398d8b022d48218b5c7556.bin",
+      "size": 20971520
+    },
+    {
+      "name": "e2368d68a605b0a08ad7daa3.bin",
+      "size": 20971520
+    },
+    {
+      "name": "5043f856dadc368e693b6fe1.bin",
+      "size": 3180975
+    }
+  ]
+}
