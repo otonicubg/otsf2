@@ -1,0 +1,15 @@
+{
+  "name": "specters of the sun",
+  "file": "specters of the sun.html",
+  "size": 8005788,
+  "sha256": "86f5bf0fa77d7fce2caa321925afab3aae21fef0e42e3f362503af538c0611e0",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "df88c48c5256adaa2fd59dd2.bin",
+      "size": 8005788
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Algaes Escapade",
+  "file": "Algaes Escapade.html",
+  "size": 2115071,
+  "sha256": "853d5a67600658403d3036385137fc83f13b77205d8be1b3fbec3de77536f5d3",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "ce7e357e4f22b7faa20a744e.bin",
+      "size": 2115071
+    }
+  ]
+}

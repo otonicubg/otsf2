@@ -1,0 +1,15 @@
+{
+  "name": "a grim love tale",
+  "file": "a grim love tale.html",
+  "size": 3909353,
+  "sha256": "f1487a11cce8d470bb68eded1fae06ccbb88e731c3d5ba924863eef5f9786001",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "6578c2319e61cee71536dc5f.bin",
+      "size": 3909353
+    }
+  ]
+}

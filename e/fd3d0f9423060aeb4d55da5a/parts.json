@@ -1,0 +1,15 @@
+{
+  "name": "Cell Machine",
+  "file": "Cell Machine.html",
+  "size": 15637845,
+  "sha256": "442aaf45ed07c7cafb8f48e34b0e7a6fe66bd8edb568e4e00454adaee8c05151",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "f47581c2ab0934f3615fe66d.bin",
+      "size": 15637845
+    }
+  ]
+}

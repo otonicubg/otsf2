@@ -1,0 +1,15 @@
+{
+  "name": "tiny town racing",
+  "file": "tiny town racing.html",
+  "size": 14756287,
+  "sha256": "4cc8817c1ab81eeae9cbc5a8f9f612abb563019f27b4f284b2167febdf5fa4cf",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "891e31337198579949ae2804.bin",
+      "size": 14756287
+    }
+  ]
+}

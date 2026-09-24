@@ -1,0 +1,15 @@
+{
+  "name": "goodnight",
+  "file": "goodnight.html",
+  "size": 2251966,
+  "sha256": "26a71771754e444f2cd7c7f17f58e6bc90295f82c1aef0bc99ca58791fef734b",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "4be703bd27e2bfd96385bfa1.bin",
+      "size": 2251966
+    }
+  ]
+}

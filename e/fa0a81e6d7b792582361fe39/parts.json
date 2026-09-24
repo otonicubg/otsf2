@@ -1,0 +1,51 @@
+{
+  "name": "Undertale",
+  "file": "Undertale.html",
+  "size": 198772675,
+  "sha256": "e42bd2ae78ebfdb97dda55ae9d1892db351907f4740fdca392c0cb5e52d1ab58",
+  "partSize": 20971520,
+  "count": 10,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "dff5f73b6f71a35f84a33fa4.bin",
+      "size": 20971520
+    },
+    {
+      "name": "75c3930e7ddf5e8d7a1c3963.bin",
+      "size": 20971520
+    },
+    {
+      "name": "329e2b56f233f6ef5409b81c.bin",
+      "size": 20971520
+    },
+    {
+      "name": "90b5d3e4511ff4abeb2aebcc.bin",
+      "size": 20971520
+    },
+    {
+      "name": "e2e5e843c799d06324184207.bin",
+      "size": 20971520
+    },
+    {
+      "name": "e254a544022211d55c8bc0dd.bin",
+      "size": 20971520
+    },
+    {
+      "name": "3ff829f6df83accb7e439758.bin",
+      "size": 20971520
+    },
+    {
+      "name": "1b96a79654b79737a6c66242.bin",
+      "size": 20971520
+    },
+    {
+      "name": "257211183c5471d983f6027f.bin",
+      "size": 20971520
+    },
+    {
+      "name": "100cc0702c00c52012cd2070.bin",
+      "size": 10028995
+    }
+  ]
+}

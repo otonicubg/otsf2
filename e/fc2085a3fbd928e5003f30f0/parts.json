@@ -1,0 +1,19 @@
+{
+  "name": "Papery Planes",
+  "file": "Papery Planes.html",
+  "size": 30264617,
+  "sha256": "bb41de1272d1388c865c2628db9988e42a6c1734208309d1e61cfd41395f849e",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "018b383040a5956c02989fcb.bin",
+      "size": 20971520
+    },
+    {
+      "name": "6275f52b098abff65eed1d2e.bin",
+      "size": 9293097
+    }
+  ]
+}

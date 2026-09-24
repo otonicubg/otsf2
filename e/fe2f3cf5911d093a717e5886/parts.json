@@ -1,0 +1,19 @@
+{
+  "name": "Yoshi Fabricator",
+  "file": "Yoshi Fabricator.html",
+  "size": 25683128,
+  "sha256": "87c150c6c420e70ed6f20caa2ba2def53f021a599d9913fef155186681bbc6a2",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "c066c40c8a9ca66bdd9b57b4.bin",
+      "size": 20971520
+    },
+    {
+      "name": "72dd29e1ffbe80961da55a2f.bin",
+      "size": 4711608
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "tiny heist",
+  "file": "tiny heist.html",
+  "size": 4667394,
+  "sha256": "a9c9cdfaba8085c23054273dfce1c77688c7b2e49deaffc7a70beb9e974637b8",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "b1dc954e7c9b05d32f1c0146.bin",
+      "size": 4667394
+    }
+  ]
+}

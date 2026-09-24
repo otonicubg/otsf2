@@ -1,0 +1,19 @@
+{
+  "name": "moto maniac 3",
+  "file": "moto maniac 3.html",
+  "size": 23596276,
+  "sha256": "fedb0f987ac81c019fc4592823fd93162a3488683e3ffa19f37aba23adb37968",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "9d41c08d0f7ec3b6223d1962.bin",
+      "size": 20971520
+    },
+    {
+      "name": "22f3abd8d400c39d58be0fec.bin",
+      "size": 2624756
+    }
+  ]
+}

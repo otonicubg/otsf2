@@ -1,0 +1,15 @@
+{
+  "name": "Red vs Blue",
+  "file": "Red vs Blue.html",
+  "size": 2828746,
+  "sha256": "985abf39bd029290202da9ad284aad9071dce1fb5c0762984dee3323a25d941a",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "2cb26b0ad56e128bf2d064b4.bin",
+      "size": 2828746
+    }
+  ]
+}

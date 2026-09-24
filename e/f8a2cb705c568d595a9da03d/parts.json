@@ -1,0 +1,15 @@
+{
+  "name": "apple shooter",
+  "file": "apple shooter.html",
+  "size": 18229401,
+  "sha256": "0de3f038d87a6389b61575b871beb0720dde2434a4f964260f8a08007af1fd96",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "38258897e0ec59f837034905.bin",
+      "size": 18229401
+    }
+  ]
+}

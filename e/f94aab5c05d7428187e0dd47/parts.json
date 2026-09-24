@@ -1,0 +1,23 @@
+{
+  "name": "the binding of isaac",
+  "file": "the binding of isaac.html",
+  "size": 48366648,
+  "sha256": "75bd64f60e28bad485fd08ae2f4ad217a788db13540b59201d68df830488fb90",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "9ff06478db1d9e4f950e5d16.bin",
+      "size": 20971520
+    },
+    {
+      "name": "3991c14ce78aab373a29a45f.bin",
+      "size": 20971520
+    },
+    {
+      "name": "f1da357f480ba30fdc4ddcbe.bin",
+      "size": 6423608
+    }
+  ]
+}

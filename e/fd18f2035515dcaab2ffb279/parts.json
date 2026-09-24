@@ -1,0 +1,15 @@
+{
+  "name": "basket and ball",
+  "file": "basket and ball.html",
+  "size": 6390376,
+  "sha256": "880ae39a8c476f07db0b85d61e964bec7cc0b4e2091bcd0b95e65ddd1bd089c0",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "8873c4e9950759efcb73825d.bin",
+      "size": 6390376
+    }
+  ]
+}

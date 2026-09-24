@@ -1,0 +1,15 @@
+{
+  "name": "IQ Ball",
+  "file": "IQ Ball.html",
+  "size": 13808816,
+  "sha256": "30a431afc7e4e36ae6d78163ce7aed14e9541e2c29d79bff6c7263b011c3ac66",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "a026d9c025976a47e88a4e69.bin",
+      "size": 13808816
+    }
+  ]
+}

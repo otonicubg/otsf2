@@ -1,0 +1,15 @@
+{
+  "name": "Bombit 3",
+  "file": "Bombit 3.html",
+  "size": 16290243,
+  "sha256": "e14ca610777a359c7091f3146f3f844bb09c88da8736be1b7495394656a59b2d",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "33a627dab3ea469732870ca0.bin",
+      "size": 16290243
+    }
+  ]
+}

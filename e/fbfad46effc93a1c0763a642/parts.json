@@ -1,0 +1,15 @@
+{
+  "name": "cubefield",
+  "file": "cubefield.html",
+  "size": 1985512,
+  "sha256": "b5fa3916b52f47596b1d80682f09b0646ff9a2bb4b86981efe3d7036d3940103",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "802f7638b960d4c2e8710ad2.bin",
+      "size": 1985512
+    }
+  ]
+}

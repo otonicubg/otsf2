@@ -1,0 +1,15 @@
+{
+  "name": "mutual destruction",
+  "file": "mutual destruction.html",
+  "size": 1907985,
+  "sha256": "b13877243effd7338bda821b53ce2562f4603fef6d6b3b4d636c047982382489",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "b4aeda6ca7dad171f80d6870.bin",
+      "size": 1907985
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "a maniac",
+  "file": "a maniac.html",
+  "size": 7395545,
+  "sha256": "703af30dcfca8381f12d53399e5248870f4a2d36a4cc64ca9eca2de75de409cc",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "59064ebdf097f0960b619685.bin",
+      "size": 7395545
+    }
+  ]
+}
