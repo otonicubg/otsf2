@@ -1,0 +1,15 @@
+{
+  "name": "endless tunnel",
+  "file": "endless tunnel.html",
+  "size": 11953248,
+  "sha256": "1126a9a9a474deed1dc9db96a992d426a7495c3796b77c8831e9354a3158c605",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "785e2b5b2f024af66f00a4c6.bin",
+      "size": 11953248
+    }
+  ]
+}

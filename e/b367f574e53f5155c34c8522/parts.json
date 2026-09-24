@@ -1,0 +1,15 @@
+{
+  "name": "slide fill",
+  "file": "slide fill.html",
+  "size": 12410286,
+  "sha256": "2c627ae365b620cb031fd5664857300d9fa39000d727cad9f110a12ab6c1b2dc",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "12e5120ef2d4d7d5370c8726.bin",
+      "size": 12410286
+    }
+  ]
+}

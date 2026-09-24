@@ -1,0 +1,15 @@
+{
+  "name": "breaking the bank",
+  "file": "breaking the bank.html",
+  "size": 14847752,
+  "sha256": "31f6cbaf0521d4d310f64a0111671bc9f678f3acc7dbeddbf567b1387e18e340",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "1a4992e087143daad627fbf7.bin",
+      "size": 14847752
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "room clicker",
+  "file": "room clicker.html",
+  "size": 10059764,
+  "sha256": "ebe274fc02aee6c8796533f5f63415edcabb78ae1dab97b2c809dd1b896d0dba",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "905e3e9405cf2f00008801cd.bin",
+      "size": 10059764
+    }
+  ]
+}

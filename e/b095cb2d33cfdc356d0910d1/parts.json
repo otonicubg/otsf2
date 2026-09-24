@@ -1,0 +1,15 @@
+{
+  "name": "astray",
+  "file": "astray.html",
+  "size": 1903349,
+  "sha256": "bd76671a03fdab3e2ee5dd816da566fdaf49e5dc5bc26d8d30a778d4d1e2a44e",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "e43d1625839ebc28dec02adc.bin",
+      "size": 1903349
+    }
+  ]
+}

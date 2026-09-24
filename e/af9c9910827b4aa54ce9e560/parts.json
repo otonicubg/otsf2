@@ -1,0 +1,15 @@
+{
+  "name": "swingo",
+  "file": "swingo.html",
+  "size": 13711894,
+  "sha256": "253e8d752637710d98ff1cc73839d22d92daa2cea93f0b357d29a1714522baf5",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "7372fcabf880615b3979097b.bin",
+      "size": 13711894
+    }
+  ]
+}

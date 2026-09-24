@@ -1,0 +1,19 @@
+{
+  "name": "scalak",
+  "file": "scalak.html",
+  "size": 37822775,
+  "sha256": "264c3fcb2bde485f025d11f24dc3d9e46c9183b9db1b38971d1c93b30b7ae863",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "43d99c2b020df62ce2b56c8c.bin",
+      "size": 20971520
+    },
+    {
+      "name": "cc33b422bae0c335ac9b9791.bin",
+      "size": 16851255
+    }
+  ]
+}

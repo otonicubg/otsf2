@@ -1,0 +1,15 @@
+{
+  "name": "pe norie",
+  "file": "pe norie.html",
+  "size": 4773338,
+  "sha256": "f3dab7607b216a972a19e11686c31188623d8ba76c0fd465ab7e190fdd53bdb8",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "8ea247e5afa010f419223b9a.bin",
+      "size": 4773338
+    }
+  ]
+}

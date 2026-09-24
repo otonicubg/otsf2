@@ -1,0 +1,15 @@
+{
+  "name": "soul mirror",
+  "file": "soul mirror.html",
+  "size": 6923406,
+  "sha256": "cef006e8458fbac0db32825d11d342b9f0283f97d9423ca0bc2b5c0ff93b3419",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "b747798941eac9d1247e7d06.bin",
+      "size": 6923406
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "stickman climb 2",
+  "file": "stickman climb 2.html",
+  "size": 10271202,
+  "sha256": "36193b671d511ac951f38ca3a227ec23c50ec5de4d387f8014705da0bc5cee0a",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "d0ad435d4a353189eafa7ea3.bin",
+      "size": 10271202
+    }
+  ]
+}

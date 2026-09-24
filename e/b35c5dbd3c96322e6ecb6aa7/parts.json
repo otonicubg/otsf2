@@ -1,0 +1,23 @@
+{
+  "name": "tavern master",
+  "file": "tavern master.html",
+  "size": 57407495,
+  "sha256": "4f8202c7035020c3223fab8677199ce0882ddc738e83e9ba0d1dab4f7592fd30",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "3798475b8ee44e08c5989627.bin",
+      "size": 20971520
+    },
+    {
+      "name": "67f2c40d7fa88eb5aeef3bd8.bin",
+      "size": 20971520
+    },
+    {
+      "name": "0848624d6c444617a6ed9f62.bin",
+      "size": 15464455
+    }
+  ]
+}

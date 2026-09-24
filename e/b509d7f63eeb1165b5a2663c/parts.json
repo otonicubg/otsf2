@@ -1,0 +1,15 @@
+{
+  "name": "ninja auto run",
+  "file": "ninja auto run.html",
+  "size": 20658912,
+  "sha256": "e95d88859c45ef7fdba6cf542bf3f9a7b0941112f0e2b451ae84c85dd1c13da9",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "7995948d7b553c41bc581b60.bin",
+      "size": 20658912
+    }
+  ]
+}

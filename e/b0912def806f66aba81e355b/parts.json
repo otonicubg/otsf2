@@ -1,0 +1,15 @@
+{
+  "name": "Retro Bowl",
+  "file": "Retro Bowl.html",
+  "size": 19171294,
+  "sha256": "b7fb023a64fceacf684ae4bd57086d7916e7edd973690e5b745a073fef93291a",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "9530039aa188687e5ebc6ff2.bin",
+      "size": 19171294
+    }
+  ]
+}

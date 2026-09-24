@@ -1,0 +1,15 @@
+{
+  "name": "neon blaster",
+  "file": "neon blaster.html",
+  "size": 3500952,
+  "sha256": "84cc0bf4c0308d108b923098be91017515f81b9d64a2ba3fba0f865fb69eb5d0",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "4a1f463099d730f5ae47d3ff.bin",
+      "size": 3500952
+    }
+  ]
+}

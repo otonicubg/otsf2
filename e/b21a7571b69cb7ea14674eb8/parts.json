@@ -1,0 +1,43 @@
+{
+  "name": "FNAC 1",
+  "file": "FNAC 1.html",
+  "size": 163687278,
+  "sha256": "316fda030098602841c8758388f811c87ff74ba3dca095fcc2b32dcb75cf5cb7",
+  "partSize": 20971520,
+  "count": 8,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "5d57c193487a18534220bb34.bin",
+      "size": 20971520
+    },
+    {
+      "name": "0b59a0f24796b386b4ea6250.bin",
+      "size": 20971520
+    },
+    {
+      "name": "5b019fbd7beba5f1adc43772.bin",
+      "size": 20971520
+    },
+    {
+      "name": "7cc9a8f67c0d5d9811c87d51.bin",
+      "size": 20971520
+    },
+    {
+      "name": "4aca263ca96ba0d8c4f3efda.bin",
+      "size": 20971520
+    },
+    {
+      "name": "547b52f6383bcb072a04ed9d.bin",
+      "size": 20971520
+    },
+    {
+      "name": "6b065f00eb568d0d36af51be.bin",
+      "size": 20971520
+    },
+    {
+      "name": "dc10ff2c1044ec4679c7572d.bin",
+      "size": 16886638
+    }
+  ]
+}

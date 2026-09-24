@@ -1,0 +1,15 @@
+{
+  "name": "asciispace",
+  "file": "asciispace.html",
+  "size": 134888,
+  "sha256": "18d666efdf3e767ec58157ea585c5eff03fbaa3431b56b77b821e0ebd700043f",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "0996b1deef13001106b3714a.bin",
+      "size": 134888
+    }
+  ]
+}

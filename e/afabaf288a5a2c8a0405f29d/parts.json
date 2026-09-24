@@ -1,0 +1,15 @@
+{
+  "name": "indestructotank gb",
+  "file": "indestructotank gb.html",
+  "size": 400536,
+  "sha256": "0ef455f40bf61738ed5a10ff95abc58d9f799530797f547c7ef4b82a6dbe298b",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "5f0da7d3920b0f9e53bc2d16.bin",
+      "size": 400536
+    }
+  ]
+}

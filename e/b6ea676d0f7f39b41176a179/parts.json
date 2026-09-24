@@ -1,0 +1,15 @@
+{
+  "name": "Moto X3M Spooky",
+  "file": "Moto X3M Spooky.html",
+  "size": 10264885,
+  "sha256": "7645c699ced42146da7d44a6f7f06f720722c1fb7071c2ecd5288e638da14148",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "7d839040c89fb730613b5e51.bin",
+      "size": 10264885
+    }
+  ]
+}

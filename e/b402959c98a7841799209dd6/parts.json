@@ -1,0 +1,15 @@
+{
+  "name": "forward winds",
+  "file": "forward winds.html",
+  "size": 3552776,
+  "sha256": "10421a02b8d60bb91a99d9ea7c0ea36890b288e9b6abe110a710b9136f1fe916",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "b47b879f058e2a9b7d6b6f52.bin",
+      "size": 3552776
+    }
+  ]
+}

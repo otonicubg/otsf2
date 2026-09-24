@@ -1,0 +1,19 @@
+{
+  "name": "Happy sheepies",
+  "file": "Happy sheepies.html",
+  "size": 27881057,
+  "sha256": "101f1867a93ba967d82311deabb03558f6b3607d56d122b9566f81a5df30d4ff",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "d98cb3d0455493d5ff3dadad.bin",
+      "size": 20971520
+    },
+    {
+      "name": "5903cbd9f14049a2182057d8.bin",
+      "size": 6909537
+    }
+  ]
+}
