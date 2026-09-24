@@ -1,0 +1,15 @@
+{
+  "name": "iron snout",
+  "file": "iron snout.html",
+  "size": 16489337,
+  "sha256": "3caa9d5a989f2575e5b4d988b0cc70162f5dec9ea8abee63a956cc4cd7fc2ee6",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "edf5bd4481586213a3e7c297.bin",
+      "size": 16489337
+    }
+  ]
+}

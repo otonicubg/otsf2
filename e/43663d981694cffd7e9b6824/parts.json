@@ -1,0 +1,19 @@
+{
+  "name": "Kindergarten 2",
+  "file": "Kindergarten 2.html",
+  "size": 35467125,
+  "sha256": "9e3d48eac98de4100eefee55b15ea769271ac074d0dcf1b4626827557ef89a91",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "1ae6ade2577e3ce463579456.bin",
+      "size": 20971520
+    },
+    {
+      "name": "b97acd82712775e3acd1dd9e.bin",
+      "size": 14495605
+    }
+  ]
+}

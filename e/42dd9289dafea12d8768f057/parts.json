@@ -1,0 +1,15 @@
+{
+  "name": "big tall small",
+  "file": "big tall small.html",
+  "size": 15337215,
+  "sha256": "7164f8f31dc01f6a22ad6487f1f2b7820c98818a0f057438a89d4945d3d2f0e4",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "536a56cf747cdf53aa6ba63f.bin",
+      "size": 15337215
+    }
+  ]
+}

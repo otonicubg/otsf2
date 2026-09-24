@@ -1,0 +1,19 @@
+{
+  "name": "g-switch 2",
+  "file": "g-switch 2.html",
+  "size": 23437230,
+  "sha256": "a4d91e6b43621329c1ace19b78f5d42cc665c0442a8c792cfdf161003c8bcd04",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "a290b30161d7e1cf5d12a469.bin",
+      "size": 20971520
+    },
+    {
+      "name": "ffd673db2c22dc4e7fa03387.bin",
+      "size": 2465710
+    }
+  ]
+}

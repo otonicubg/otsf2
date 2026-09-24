@@ -1,0 +1,19 @@
+{
+  "name": "Townscaper",
+  "file": "Townscaper.html",
+  "size": 34547615,
+  "sha256": "b805d2085d36acfb440ed1e4aed0ab6402908abbbd92d4d5d3ac848d0216e5a8",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "633034eb9a2ccf56aedc5898.bin",
+      "size": 20971520
+    },
+    {
+      "name": "e429dd08c4cf44d34245bf11.bin",
+      "size": 13576095
+    }
+  ]
+}

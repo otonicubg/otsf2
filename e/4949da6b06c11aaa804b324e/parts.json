@@ -1,0 +1,15 @@
+{
+  "name": "Vex 5",
+  "file": "Vex 5.html",
+  "size": 14989376,
+  "sha256": "2c1d03f0ad2456b769e5ee028405b79872a72b56475704e00c714c303f0e0183",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "147662eb436709eafea02c6d.bin",
+      "size": 14989376
+    }
+  ]
+}

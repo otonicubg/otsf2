@@ -1,0 +1,15 @@
+{
+  "name": "Sonic 2",
+  "file": "Sonic 2.html",
+  "size": 938505,
+  "sha256": "7336b5ab9cf17408a5f9470722681ab920ae33b6d70c94cef8e01f3d2cf00d0d",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "126a49242cdc4dc996667d60.bin",
+      "size": 938505
+    }
+  ]
+}

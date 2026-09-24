@@ -1,0 +1,23 @@
+{
+  "name": "Baldi plus",
+  "file": "Baldi plus.html",
+  "size": 49230253,
+  "sha256": "e5864a74d9b834cdd99a2136aae5288b30125d29a4d966c06a7499bb667b383e",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "3c2b30fabd89e66d8cfad13a.bin",
+      "size": 20971520
+    },
+    {
+      "name": "ec82ea4b0f74e4671a813b9e.bin",
+      "size": 20971520
+    },
+    {
+      "name": "5df273332583373396e6c272.bin",
+      "size": 7287213
+    }
+  ]
+}

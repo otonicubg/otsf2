@@ -1,0 +1,15 @@
+{
+  "name": "Papas Taco Mia",
+  "file": "Papas Taco Mia.html",
+  "size": 17304539,
+  "sha256": "33b0edd364269d60820f439e11650300c128806f92063c78530325d579c363f9",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "434c9f18ba89bb93e2c4469a.bin",
+      "size": 17304539
+    }
+  ]
+}

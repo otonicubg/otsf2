@@ -1,0 +1,15 @@
+{
+  "name": "worlds within worlds",
+  "file": "worlds within worlds.html",
+  "size": 10692153,
+  "sha256": "be3db5d4c221d8683490cc4ad8359e78c5e587df35c35081db09cf753ac60e8a",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "34c50f2fea3e9325d8a70a31.bin",
+      "size": 10692153
+    }
+  ]
+}

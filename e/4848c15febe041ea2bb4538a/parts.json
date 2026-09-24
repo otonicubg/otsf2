@@ -1,0 +1,15 @@
+{
+  "name": "sonic-revert",
+  "file": "sonic-revert.html",
+  "size": 330720,
+  "sha256": "27519053d166239c59667113d072c5cd696b2f4d0f8d2fa1d409e474d74b1cdc",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "f2726ce84250ae881d71f817.bin",
+      "size": 330720
+    }
+  ]
+}

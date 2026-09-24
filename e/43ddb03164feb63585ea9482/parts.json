@@ -1,0 +1,23 @@
+{
+  "name": "kingdom rush",
+  "file": "kingdom rush.html",
+  "size": 47225597,
+  "sha256": "72bb2f72afdd06e81fd605dcfe8fd2c68d36aab71cee782c719928a59310c170",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "50196e50ca7469bc30780057.bin",
+      "size": 20971520
+    },
+    {
+      "name": "9497805d3e359c7dac720491.bin",
+      "size": 20971520
+    },
+    {
+      "name": "001f378509ae7386677a7ebb.bin",
+      "size": 5282557
+    }
+  ]
+}

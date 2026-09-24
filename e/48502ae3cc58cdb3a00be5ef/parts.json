@@ -1,0 +1,15 @@
+{
+  "name": "gloop",
+  "file": "gloop.html",
+  "size": 7848676,
+  "sha256": "555ae584ef0adde2f5ab6aa502e3f9157dd5a6e35b3bd9ab404dfaac44eb7e47",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "6d695b926b4c201c6ebea1b0.bin",
+      "size": 7848676
+    }
+  ]
+}

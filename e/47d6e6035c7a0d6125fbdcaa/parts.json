@@ -1,0 +1,23 @@
+{
+  "name": "pixel gun apocalypse 2",
+  "file": "pixel gun apocalypse 2.html",
+  "size": 53098211,
+  "sha256": "366e364734b56048d8643d4f01ccb02bf09d3c4acf7e675a5e376e68f903c6c8",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "9c6dc28eed97936a76b9d5eb.bin",
+      "size": 20971520
+    },
+    {
+      "name": "f19e79efec33809009dd5b92.bin",
+      "size": 20971520
+    },
+    {
+      "name": "2b2fd48e4649e524e56ab5aa.bin",
+      "size": 11155171
+    }
+  ]
+}

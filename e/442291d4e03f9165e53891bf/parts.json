@@ -1,0 +1,15 @@
+{
+  "name": "house pusher",
+  "file": "house pusher.html",
+  "size": 6368137,
+  "sha256": "f038fc0cfa09a208c80623b4618e7e7136298babd15b0887a822e5380b298cdd",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "3755536db019e67c060312bf.bin",
+      "size": 6368137
+    }
+  ]
+}

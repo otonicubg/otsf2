@@ -1,0 +1,15 @@
+{
+  "name": "Mini Putt 3",
+  "file": "Mini Putt 3.html",
+  "size": 11357639,
+  "sha256": "8c3121a2193dba4afeff2c511f9fc2fcc862cdae9e55a9385e0057019e3b17dd",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "48cacb7c9081f17f73880c59.bin",
+      "size": 11357639
+    }
+  ]
+}

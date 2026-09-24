@@ -1,0 +1,15 @@
+{
+  "name": "super gauntlent",
+  "file": "super gauntlent.html",
+  "size": 6627810,
+  "sha256": "d2f3c720ded267b5d9434307fc2ba3959fb088768b5791b3e135523772570d84",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "384addb73206ec3baa637cca.bin",
+      "size": 6627810
+    }
+  ]
+}

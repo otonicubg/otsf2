@@ -1,0 +1,27 @@
+{
+  "name": "car simulator arena",
+  "file": "car simulator arena.html",
+  "size": 77937532,
+  "sha256": "09f9f9f2272d04af04bd986776874e32ffef2a831dc5c7440118fe60671e80d3",
+  "partSize": 20971520,
+  "count": 4,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "61e961134f4fe60a0b1379f6.bin",
+      "size": 20971520
+    },
+    {
+      "name": "af54f7ee56be560b46d0e3f8.bin",
+      "size": 20971520
+    },
+    {
+      "name": "fbdecf326341f4a367e290eb.bin",
+      "size": 20971520
+    },
+    {
+      "name": "3611e6ba27d62eefba5c7539.bin",
+      "size": 15022972
+    }
+  ]
+}
