@@ -1,0 +1,23 @@
+{
+  "name": "nzp",
+  "file": "nzp.html",
+  "size": 59293712,
+  "sha256": "8acf61f177400585f1458f215bef4e4d9c9332d3a89f440e00539312bb3127d7",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "ed5413da249555fdf3f22b7d.bin",
+      "size": 20971520
+    },
+    {
+      "name": "7255eff3c60bb4f9b62c26db.bin",
+      "size": 20971520
+    },
+    {
+      "name": "baf2cf0aff61366c1f0ad070.bin",
+      "size": 17350672
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Endless War 3",
+  "file": "Endless War 3.html",
+  "size": 3933652,
+  "sha256": "89a6e87e0aebdadd59c123e0e570628f98e8d6ced8f8c726b19d7a0f4b187609",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "5abd733ded428db055e2af1f.bin",
+      "size": 3933652
+    }
+  ]
+}

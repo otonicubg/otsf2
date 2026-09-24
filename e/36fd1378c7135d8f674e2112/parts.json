@@ -1,0 +1,19 @@
+{
+  "name": "color tunnel 2",
+  "file": "color tunnel 2.html",
+  "size": 30655122,
+  "sha256": "7d537ce5f9d3d29ce3d867e327b9973f66d240f05512a85db0c750b16359731d",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "e2d0d4faca4ca3b0d071081a.bin",
+      "size": 20971520
+    },
+    {
+      "name": "ee7cfb7870e94bd3ba8ef14f.bin",
+      "size": 9683602
+    }
+  ]
+}

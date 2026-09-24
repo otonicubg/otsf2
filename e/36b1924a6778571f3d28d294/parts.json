@@ -1,0 +1,19 @@
+{
+  "name": "gunspin",
+  "file": "gunspin.html",
+  "size": 38608122,
+  "sha256": "5051e5296a4f87c25c678f34f3643403a55e50d4fe0c01458b5ec0e4e909491d",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "76b2b3a08abb43437384b584.bin",
+      "size": 20971520
+    },
+    {
+      "name": "756a8d86e6eb7da3096e5682.bin",
+      "size": 17636602
+    }
+  ]
+}

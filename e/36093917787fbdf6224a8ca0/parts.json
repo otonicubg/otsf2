@@ -1,0 +1,23 @@
+{
+  "name": "mob city",
+  "file": "mob city.html",
+  "size": 53152978,
+  "sha256": "f09b178e75843c433500f0dd83ef618f4f825fda85820cb02380302b3adcb10f",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "e0525bccb443e94dfb4ef216.bin",
+      "size": 20971520
+    },
+    {
+      "name": "7b2e01130b60218ecdc99238.bin",
+      "size": 20971520
+    },
+    {
+      "name": "0bd53a03b6b3b45f7b1bfcae.bin",
+      "size": 11209938
+    }
+  ]
+}
