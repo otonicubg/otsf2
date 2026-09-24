@@ -1,0 +1,15 @@
+{
+  "name": "throw a potato again",
+  "file": "throw a potato again.html",
+  "size": 3731649,
+  "sha256": "8fce731fd517bdf15124d91c607ba676281645c7778edcef573dee1e26a661a4",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "5e24895bd6b4586191b4fed8.bin",
+      "size": 3731649
+    }
+  ]
+}

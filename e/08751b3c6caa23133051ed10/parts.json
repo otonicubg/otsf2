@@ -1,0 +1,15 @@
+{
+  "name": "n-gon",
+  "file": "n-gon.html",
+  "size": 18162619,
+  "sha256": "6e1cee3ee1b57a0b910f4d125dafd7557f41364fafda1a196cb091ba3a1f786a",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "2d953bcb272fe249ce1355f3.bin",
+      "size": 18162619
+    }
+  ]
+}

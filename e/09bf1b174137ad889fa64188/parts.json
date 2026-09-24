@@ -1,0 +1,15 @@
+{
+  "name": "ping pong",
+  "file": "ping pong.html",
+  "size": 10381541,
+  "sha256": "65db869cb929723f2d475009c363932ca3abdd61755d53c674304230f780b297",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "534e8d2d2fe5a8e01f2fde5b.bin",
+      "size": 10381541
+    }
+  ]
+}

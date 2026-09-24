@@ -1,0 +1,15 @@
+{
+  "name": "roll merge 3d",
+  "file": "roll merge 3d.html",
+  "size": 12570846,
+  "sha256": "9311c33a357e52602867ba11ec0555a7043590ab7102054f1f0fe6a2ce381b83",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "6eb3e79eaaee273110b925b8.bin",
+      "size": 12570846
+    }
+  ]
+}

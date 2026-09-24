@@ -1,0 +1,15 @@
+{
+  "name": "World",
+  "file": "World.html",
+  "size": 6833024,
+  "sha256": "5167d4178f56c64ed32d75ef9eb7127743a8f19d7e2d50aa90df00ee5f9a8a67",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "be236d4b5adfcfb60fd32d4f.bin",
+      "size": 6833024
+    }
+  ]
+}

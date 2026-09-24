@@ -1,0 +1,15 @@
+{
+  "name": "9007199254740992",
+  "file": "9007199254740992.html",
+  "size": 814846,
+  "sha256": "70147ab9809220374107be5f27f5661564d77e26d7d66c31645eea928f703b36",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "bcecc950ca6c0118dd3fef55.bin",
+      "size": 814846
+    }
+  ]
+}

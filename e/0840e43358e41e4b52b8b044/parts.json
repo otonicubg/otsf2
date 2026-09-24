@@ -1,0 +1,35 @@
+{
+  "name": "Buildnow.gg",
+  "file": "Buildnow.gg.html",
+  "size": 106565543,
+  "sha256": "a44b327ccb226e041f0e5b5b06457a9e7fe9c1fb5be86e626c0b5887e92323a7",
+  "partSize": 20971520,
+  "count": 6,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "51d8fb15fd570e9d6368f16c.bin",
+      "size": 20971520
+    },
+    {
+      "name": "bcaa96b0e6cdf5566c3abc14.bin",
+      "size": 20971520
+    },
+    {
+      "name": "b2ed25904b1a1849ec713017.bin",
+      "size": 20971520
+    },
+    {
+      "name": "ff424754f6aaf760e95b7606.bin",
+      "size": 20971520
+    },
+    {
+      "name": "8bbdd0c5a9639587886a7136.bin",
+      "size": 20971520
+    },
+    {
+      "name": "4b030c3cc98118ce82322235.bin",
+      "size": 1707943
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "shootz",
+  "file": "shootz.html",
+  "size": 29072649,
+  "sha256": "b2dab9392498410a5fb2e6a7683d1a425637f5bb1081e9b9a8927767eab5d29e",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "d255440802a4ef04f7f6f56c.bin",
+      "size": 20971520
+    },
+    {
+      "name": "f5d98f9001a6bca952ffa09c.bin",
+      "size": 8101129
+    }
+  ]
+}

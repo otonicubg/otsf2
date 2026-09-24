@@ -1,0 +1,15 @@
+{
+  "name": "planet d4rk",
+  "file": "planet d4rk.html",
+  "size": 10452104,
+  "sha256": "fcbef1d92acbfab2cc5671e0b30688c9925134c5cd064612522723e57b510038",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "3392012025dfead67fac8c4b.bin",
+      "size": 10452104
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Papas Bakeria",
+  "file": "Papas Bakeria.html",
+  "size": 27462108,
+  "sha256": "81060f8b55e9f7607eeea4be05804b1e48d0a232e3e1aee054debd6e36a019c3",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "d8488ba8c623319fec5895b5.bin",
+      "size": 20971520
+    },
+    {
+      "name": "142b14b6e7c4ed1ef156d1a7.bin",
+      "size": 6490588
+    }
+  ]
+}

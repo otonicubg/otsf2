@@ -1,0 +1,23 @@
+{
+  "name": "a pretty odd bunny",
+  "file": "a pretty odd bunny.html",
+  "size": 44866892,
+  "sha256": "e6f6ef255d6767ced1ffefefd22d8a069b8059a2ce74fd345d109ac46a5931a0",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "3631e36f9c14e97e2b23eb9f.bin",
+      "size": 20971520
+    },
+    {
+      "name": "42271aeb745467fe954ac59c.bin",
+      "size": 20971520
+    },
+    {
+      "name": "6a62a7101f6e8552fcb0c6f0.bin",
+      "size": 2923852
+    }
+  ]
+}

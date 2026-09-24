@@ -1,0 +1,15 @@
+{
+  "name": "Pixel Battles",
+  "file": "Pixel Battles.html",
+  "size": 2053371,
+  "sha256": "4ecfd1072323c372a95233f46a3fc61b824bf4663777874790c605d49a137797",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "88e30909e9d4f901ed6e66fd.bin",
+      "size": 2053371
+    }
+  ]
+}

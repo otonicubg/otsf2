@@ -1,0 +1,15 @@
+{
+  "name": "Space Huggers",
+  "file": "Space Huggers.html",
+  "size": 116628,
+  "sha256": "18086ce3bb02be4f189027f61825cedb0737079cd96bdace0151f1bb22fc355f",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "72efe9932412a77c11e622e5.bin",
+      "size": 116628
+    }
+  ]
+}

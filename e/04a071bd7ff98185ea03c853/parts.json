@@ -1,0 +1,19 @@
+{
+  "name": "Backflip Dive 3D",
+  "file": "Backflip Dive 3D.html",
+  "size": 28035600,
+  "sha256": "e846b21731704c81f08bb988d55004c3cb3da0fac956656087ca5498d695ebf5",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "d77b4fc758205691a387b377.bin",
+      "size": 20971520
+    },
+    {
+      "name": "409f160776059e0eaf10461d.bin",
+      "size": 7064080
+    }
+  ]
+}

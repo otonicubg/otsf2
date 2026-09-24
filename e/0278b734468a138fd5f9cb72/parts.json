@@ -1,0 +1,15 @@
+{
+  "name": "Penguin.io",
+  "file": "Penguin.io.html",
+  "size": 331890,
+  "sha256": "74ec1014fe2d468f295534fa38919781d8c2a93ab07be6307d93c49124ac791e",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "06877f68c8d6a6a131493304.bin",
+      "size": 331890
+    }
+  ]
+}

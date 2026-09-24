@@ -1,0 +1,15 @@
+{
+  "name": "rotate box",
+  "file": "rotate box.html",
+  "size": 14104103,
+  "sha256": "1de18b4ee924c600acc83fe57e42885b71f7487d990894bc6fdde3797f30278d",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "b3b0e1e523b3cc2618af0ac8.bin",
+      "size": 14104103
+    }
+  ]
+}

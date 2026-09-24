@@ -1,0 +1,15 @@
+{
+  "name": "mystical birdlink",
+  "file": "mystical birdlink.html",
+  "size": 16467049,
+  "sha256": "f619e86fe9530910d1d45f214e8ec85d1d50239f1c4f0d398b13ed5cf7780ae0",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "506e254e8fea1938d3ec7327.bin",
+      "size": 16467049
+    }
+  ]
+}

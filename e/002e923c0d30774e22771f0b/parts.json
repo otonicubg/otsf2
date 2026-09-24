@@ -1,0 +1,15 @@
+{
+  "name": "Couch 2048",
+  "file": "Couch 2048.html",
+  "size": 131196,
+  "sha256": "eb003f6bb2075f11e7d44e26799be6e5867d374e27b75de6163f2353bab85264",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "c0b666a5aed92f42e2502644.bin",
+      "size": 131196
+    }
+  ]
+}

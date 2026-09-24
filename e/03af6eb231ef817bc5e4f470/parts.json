@@ -1,0 +1,15 @@
+{
+  "name": "Run 1",
+  "file": "Run 1.html",
+  "size": 12988989,
+  "sha256": "4d102294596944fc5e77947a45d4c75cd17fd819a904d2dfe7dd24ddb862fe53",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "153f9b9bcf2cda59c659cca3.bin",
+      "size": 12988989
+    }
+  ]
+}

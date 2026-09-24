@@ -1,0 +1,35 @@
+{
+  "name": "knights blade",
+  "file": "knights blade.html",
+  "size": 112601383,
+  "sha256": "06c9ba80ba0c51c6262992833f4bd14afc24a0b7249bab7c047ac6943caa1f68",
+  "partSize": 20971520,
+  "count": 6,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "99ebe3f21d492d9bc1f405cf.bin",
+      "size": 20971520
+    },
+    {
+      "name": "f15d83bb392d2700401a4eef.bin",
+      "size": 20971520
+    },
+    {
+      "name": "6fff92239c49c0d18f6a61fc.bin",
+      "size": 20971520
+    },
+    {
+      "name": "80726ac11ebf1b992ec1429a.bin",
+      "size": 20971520
+    },
+    {
+      "name": "9e2fd1b2673a6eb80a367a95.bin",
+      "size": 20971520
+    },
+    {
+      "name": "9bc66279d4df229d92ecc932.bin",
+      "size": 7743783
+    }
+  ]
+}

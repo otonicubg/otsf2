@@ -1,0 +1,23 @@
+{
+  "name": "Graybox",
+  "file": "Graybox.html",
+  "size": 46692976,
+  "sha256": "1fc0a97d4ffe6383a0fc22234af7e56d94a24ad72801f343448bdea7d15dbd67",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "b70fabca6fbe03984054e454.bin",
+      "size": 20971520
+    },
+    {
+      "name": "85765b34c634ded76e36da6b.bin",
+      "size": 20971520
+    },
+    {
+      "name": "ffab684caaf81b32fcbb7269.bin",
+      "size": 4749936
+    }
+  ]
+}

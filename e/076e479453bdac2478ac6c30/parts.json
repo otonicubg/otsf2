@@ -1,0 +1,15 @@
+{
+  "name": "tower of the scorche",
+  "file": "tower of the scorche.html",
+  "size": 7460155,
+  "sha256": "a10c7b3ba7ce5b2204f0e4f9078aeadf2e5a52d24b95c1d01fb34e5db21fad7b",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "219a56a38c44e466114970e1.bin",
+      "size": 7460155
+    }
+  ]
+}

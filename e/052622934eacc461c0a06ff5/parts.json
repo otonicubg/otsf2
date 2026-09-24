@@ -1,0 +1,15 @@
+{
+  "name": "Paper Minecraft",
+  "file": "Paper Minecraft.html",
+  "size": 12331418,
+  "sha256": "fa475fc096251f1873533b13de76cdb832ec3cd3396de63aae18548001bffaae",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "417c6228b82bb1eb77ffd4a5.bin",
+      "size": 12331418
+    }
+  ]
+}
