@@ -1,0 +1,15 @@
+{
+  "name": "blumgi paintball",
+  "file": "blumgi paintball.html",
+  "size": 8238771,
+  "sha256": "cbebcd48aeeb846e13895b32f23e26ca79d1fe690c2886ba2067378860859128",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "f78f4fad004927d941119803.bin",
+      "size": 8238771
+    }
+  ]
+}

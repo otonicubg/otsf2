@@ -1,0 +1,15 @@
+{
+  "name": "slis",
+  "file": "slis.html",
+  "size": 2198015,
+  "sha256": "8456c444b8297b34712f8b8e83bfc111872c8e4cffaa3eb273d6ba76e5f33d12",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "b77ae204a2ee05fdfc3daf42.bin",
+      "size": 2198015
+    }
+  ]
+}

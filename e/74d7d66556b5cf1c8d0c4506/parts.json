@@ -1,0 +1,15 @@
+{
+  "name": "another gentlemans adventure",
+  "file": "another gentlemans adventure.html",
+  "size": 15529185,
+  "sha256": "745273826dd7cd7d976a31bf3df2b55b1497f40328d98c69797bc53187ee0a81",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "b1f1cafc4a6b69f6dc90e992.bin",
+      "size": 15529185
+    }
+  ]
+}

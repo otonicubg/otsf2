@@ -1,0 +1,15 @@
+{
+  "name": "footballbros",
+  "file": "footballbros.html",
+  "size": 11889884,
+  "sha256": "bda8a996f202fac6b20521eba38b9b11cccc40d2d263a4daa6cbc7fc9b3c55a8",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "ca1630ac293a380ac9e1a094.bin",
+      "size": 11889884
+    }
+  ]
+}

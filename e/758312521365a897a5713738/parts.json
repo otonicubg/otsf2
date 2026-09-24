@@ -1,0 +1,15 @@
+{
+  "name": "turn turn",
+  "file": "turn turn.html",
+  "size": 17947248,
+  "sha256": "d55a39e8e8adf6008191b93b4abb8aa4762b2126525c5509afef5eb32a1a1c12",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "4d5779988d0838a24df096da.bin",
+      "size": 17947248
+    }
+  ]
+}

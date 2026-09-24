@@ -1,0 +1,19 @@
+{
+  "name": "Picky Package",
+  "file": "Picky Package.html",
+  "size": 23820407,
+  "sha256": "48964f858b00881b20581e665e0cf8f926a62565891d89d97224c261aee0dc73",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "6009038d69b02508dd27f8cb.bin",
+      "size": 20971520
+    },
+    {
+      "name": "a81b729b614be4123d91d528.bin",
+      "size": 2848887
+    }
+  ]
+}

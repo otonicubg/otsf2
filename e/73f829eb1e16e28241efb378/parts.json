@@ -1,0 +1,15 @@
+{
+  "name": "steel and claw",
+  "file": "steel and claw.html",
+  "size": 995650,
+  "sha256": "0f56ecb104bfc5f7346f44c1dbea4df54a2ffb5e577dad3798ee46ad3059dd4a",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "160e4f0d6a889bb47a0790cb.bin",
+      "size": 995650
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "blumgi ball",
+  "file": "blumgi ball.html",
+  "size": 12710167,
+  "sha256": "689fffefb9a4be0fa1e6f4b11dc81c6d2239da345d1839fae8c674ba9fa1325f",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "134918ab8575d558fa5d2b7b.bin",
+      "size": 12710167
+    }
+  ]
+}

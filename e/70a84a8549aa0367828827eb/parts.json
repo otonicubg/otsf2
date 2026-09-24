@@ -1,0 +1,15 @@
+{
+  "name": "Cat Ninja",
+  "file": "Cat Ninja.html",
+  "size": 14708369,
+  "sha256": "a88bf1dbdf10eaa5b7e8761416e79e3a9a8ad1b86c9c1ba0efd7fd53f853bd5c",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "cd7defe9f5de91154e9c906f.bin",
+      "size": 14708369
+    }
+  ]
+}

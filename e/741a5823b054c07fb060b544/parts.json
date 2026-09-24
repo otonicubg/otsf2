@@ -1,0 +1,15 @@
+{
+  "name": "adventure drivers",
+  "file": "adventure drivers.html",
+  "size": 10935433,
+  "sha256": "5b58d30977e6a68d69972366585a145f134d181eba33d113c9e776e1dd7be5a2",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "57eb2245b9ffbefc234983be.bin",
+      "size": 10935433
+    }
+  ]
+}

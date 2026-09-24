@@ -1,0 +1,15 @@
+{
+  "name": "mini rocket",
+  "file": "mini rocket.html",
+  "size": 2890457,
+  "sha256": "c97e61944d4b973566c0e158e9186e8ef902dc08679b45515d1c321830e6b11c",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "fbe68dac95a6c8ec17a00266.bin",
+      "size": 2890457
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Eel Slap",
+  "file": "Eel Slap.html",
+  "size": 1810591,
+  "sha256": "8ad7b4ab31e7ce19969482556b2002d6febf524cc132c6de1f239ed97215efd6",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "c72fbc2c388d6f3b60bff6f5.bin",
+      "size": 1810591
+    }
+  ]
+}

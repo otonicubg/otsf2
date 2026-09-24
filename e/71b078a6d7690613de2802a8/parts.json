@@ -1,0 +1,23 @@
+{
+  "name": "calturin",
+  "file": "calturin.html",
+  "size": 43411642,
+  "sha256": "4ae04d02e906654f95d28ff2c77f4917063ac195bb2992abb31fc1826011597a",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "4a1a9b5f523941d873dc3cb5.bin",
+      "size": 20971520
+    },
+    {
+      "name": "7572a9a377deae3ce7f27c87.bin",
+      "size": 20971520
+    },
+    {
+      "name": "430947ad13b34a322a412c3c.bin",
+      "size": 1468602
+    }
+  ]
+}
