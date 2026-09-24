@@ -1,0 +1,19 @@
+{
+  "name": "school bus demolition durbey",
+  "file": "school bus demolition durbey.html",
+  "size": 29121769,
+  "sha256": "df5821aea2df61ede8f6a04ea8f5dd09ac66b59f221633ae3a4197f0c431a0cf",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "31f35b17374d3680cefd1301.bin",
+      "size": 20971520
+    },
+    {
+      "name": "2de9bf028aa2dae23a4a2e04.bin",
+      "size": 8150249
+    }
+  ]
+}

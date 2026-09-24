@@ -1,0 +1,19 @@
+{
+  "name": "spelunky",
+  "file": "spelunky.html",
+  "size": 26451908,
+  "sha256": "00c90faa492383b0b9de5f5895838fb5f0f6efd77d8e158af221999b3cd6f376",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "44bb3d0e542fecd098dd221d.bin",
+      "size": 20971520
+    },
+    {
+      "name": "58b58c336d70b11b4070b27e.bin",
+      "size": 5480388
+    }
+  ]
+}

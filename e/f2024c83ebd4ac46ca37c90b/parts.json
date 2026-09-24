@@ -1,0 +1,15 @@
+{
+  "name": "Yume Nikki",
+  "file": "Yume Nikki.html",
+  "size": 4467221,
+  "sha256": "0ca424a1ecdacef085974519bbb2c6f4416cce5bbbb9ad7c461a1b6dc20942fe",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "6126cc44c25f44aafefdd1da.bin",
+      "size": 4467221
+    }
+  ]
+}

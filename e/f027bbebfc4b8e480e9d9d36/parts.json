@@ -1,0 +1,15 @@
+{
+  "name": "hypersnake",
+  "file": "hypersnake.html",
+  "size": 13849805,
+  "sha256": "e8e54405bd232dd0b4a52e9e2ae2598347914871f8d52e27d62937268ef8cf9b",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "37cc45c021e015474f06f8dc.bin",
+      "size": 13849805
+    }
+  ]
+}

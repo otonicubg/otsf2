@@ -1,0 +1,19 @@
+{
+  "name": "superfighters",
+  "file": "superfighters.html",
+  "size": 25812147,
+  "sha256": "1b4abaf2f93dfbdd76895f6382d9afe89e2e0a5fdc14be2dd9273723e4e4da55",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "5b93bf24f447112b02909688.bin",
+      "size": 20971520
+    },
+    {
+      "name": "485dccc03df72e3c6ff89970.bin",
+      "size": 4840627
+    }
+  ]
+}

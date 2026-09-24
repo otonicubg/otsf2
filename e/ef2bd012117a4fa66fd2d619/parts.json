@@ -1,0 +1,15 @@
+{
+  "name": "energy",
+  "file": "energy.html",
+  "size": 17050691,
+  "sha256": "5ed83777212278ba856271c999be70b99b2f4c1e8ad41d7aee188cd766958d3a",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "b86e55f9027e9039c0408dfa.bin",
+      "size": 17050691
+    }
+  ]
+}

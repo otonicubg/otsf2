@@ -1,0 +1,15 @@
+{
+  "name": "cat house",
+  "file": "cat house.html",
+  "size": 2761085,
+  "sha256": "139ceb83c29186b6e35f20343ceffbaffd877d450a7d61a0f66ee8a165b6d2d6",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "7f0aa34522f646e78454d019.bin",
+      "size": 2761085
+    }
+  ]
+}

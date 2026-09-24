@@ -1,0 +1,31 @@
+{
+  "name": "Cyber City Driver",
+  "file": "Cyber City Driver.html",
+  "size": 85083130,
+  "sha256": "3b901c7ffffeb734953bedc3af9c1bb91855439ef79598665a010dcb175f2334",
+  "partSize": 20971520,
+  "count": 5,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "ab58089a79aac72578cf3ba9.bin",
+      "size": 20971520
+    },
+    {
+      "name": "9d674eec5f4ad3ffde3a2a72.bin",
+      "size": 20971520
+    },
+    {
+      "name": "fa3a6a7ab076dace3c70abc3.bin",
+      "size": 20971520
+    },
+    {
+      "name": "09ec1dc9889cb6944b4e2398.bin",
+      "size": 20971520
+    },
+    {
+      "name": "a982fc92630488942a206eec.bin",
+      "size": 1197050
+    }
+  ]
+}

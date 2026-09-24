@@ -1,0 +1,15 @@
+{
+  "name": "tennis masters",
+  "file": "tennis masters.html",
+  "size": 18840244,
+  "sha256": "4fde7d92439045cde14693eac40b826c587740df4a8b9c092f31927fe60b5903",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "9a759fb7d12b62e64e9191e0.bin",
+      "size": 18840244
+    }
+  ]
+}

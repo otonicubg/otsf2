@@ -1,0 +1,23 @@
+{
+  "name": "the mage",
+  "file": "the mage.html",
+  "size": 43909049,
+  "sha256": "9acce1b1499063a1299c0db55a328d3b165ee434422b8f03a9c2de1fa07452ab",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "81e75d19f790beec2e0c79a9.bin",
+      "size": 20971520
+    },
+    {
+      "name": "2055a517f909d24427690441.bin",
+      "size": 20971520
+    },
+    {
+      "name": "3a080be4a32d22a411454eac.bin",
+      "size": 1966009
+    }
+  ]
+}

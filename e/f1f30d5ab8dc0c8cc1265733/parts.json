@@ -1,0 +1,15 @@
+{
+  "name": "Haunt the House",
+  "file": "Haunt the House.html",
+  "size": 14325039,
+  "sha256": "7edef38ba2ded488b45e5314d914f137a7e6ae55849572194ecb2824100cf6a6",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "81b3e8b64e2ce15661626a43.bin",
+      "size": 14325039
+    }
+  ]
+}

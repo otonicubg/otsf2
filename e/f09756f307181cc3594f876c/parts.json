@@ -1,0 +1,15 @@
+{
+  "name": "cat trap",
+  "file": "cat trap.html",
+  "size": 10764596,
+  "sha256": "2eb0d0e0322cfb501d0ce4a470320b957839f9c7cc99fa141df98715f11ab609",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "9578d7b76d3acbec81c141ba.bin",
+      "size": 10764596
+    }
+  ]
+}

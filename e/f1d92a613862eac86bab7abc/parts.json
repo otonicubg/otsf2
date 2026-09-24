@@ -1,0 +1,15 @@
+{
+  "name": "konnekt",
+  "file": "konnekt.html",
+  "size": 120064,
+  "sha256": "fd6f440e1c79ce9fb56c8c360c603d0e7311af815e61a4aa88de633599429583",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "e2894ae74a5d70eac0035a4a.bin",
+      "size": 120064
+    }
+  ]
+}

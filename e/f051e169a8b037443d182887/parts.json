@@ -1,0 +1,39 @@
+{
+  "name": "Bloodmoney",
+  "file": "Bloodmoney.html",
+  "size": 144416795,
+  "sha256": "900c7b19a30a858d7a2c365dd6c0063af4b8f11ca61e1d6d8d5c2285ff5b1710",
+  "partSize": 20971520,
+  "count": 7,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "1f157c4f03e663f55e7eb0b2.bin",
+      "size": 20971520
+    },
+    {
+      "name": "2f12bd7f9966dd43bd1ce83e.bin",
+      "size": 20971520
+    },
+    {
+      "name": "01e056246cac7e7c727110fc.bin",
+      "size": 20971520
+    },
+    {
+      "name": "6b485ce21c2a63e698cee2cd.bin",
+      "size": 20971520
+    },
+    {
+      "name": "832aa620f682925fe4552aae.bin",
+      "size": 20971520
+    },
+    {
+      "name": "02f2b6ae056e8442464f1a77.bin",
+      "size": 20971520
+    },
+    {
+      "name": "f8c7811b070614b73dd9ac7f.bin",
+      "size": 18587675
+    }
+  ]
+}

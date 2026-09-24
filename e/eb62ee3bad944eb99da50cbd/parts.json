@@ -1,0 +1,19 @@
+{
+  "name": "hummin out",
+  "file": "hummin out.html",
+  "size": 30511659,
+  "sha256": "67cf46f839db6c9b5e9ebc79fd39078098ec67d7734d8da1c2884d15d7f29a5f",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "34b2536f3c3abf7a17f8e10c.bin",
+      "size": 20971520
+    },
+    {
+      "name": "8ee4b6cc934d8e7d671c7273.bin",
+      "size": 9540139
+    }
+  ]
+}

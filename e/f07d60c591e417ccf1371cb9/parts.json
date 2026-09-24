@@ -1,0 +1,15 @@
+{
+  "name": "deep sleep",
+  "file": "deep sleep.html",
+  "size": 16314417,
+  "sha256": "85c728f21d500d6b79e51c9593e5c3550cee14c938e2e60e6b49a33e44c4992c",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "0827084c9e07736a729a62ec.bin",
+      "size": 16314417
+    }
+  ]
+}

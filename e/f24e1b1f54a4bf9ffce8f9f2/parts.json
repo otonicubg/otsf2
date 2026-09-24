@@ -1,0 +1,19 @@
+{
+  "name": "runman race around the world",
+  "file": "runman race around the world.html",
+  "size": 25795861,
+  "sha256": "bef80965b5487fbc34bc28c6a9fd45d70aba09c297c1302442a5e6af234aa94f",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "282fee7b3a596acaf4763b6a.bin",
+      "size": 20971520
+    },
+    {
+      "name": "5c746284bb8986c0a520bd7f.bin",
+      "size": 4824341
+    }
+  ]
+}

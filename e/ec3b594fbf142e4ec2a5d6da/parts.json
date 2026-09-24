@@ -1,0 +1,15 @@
+{
+  "name": "grindcraft",
+  "file": "grindcraft.html",
+  "size": 16335525,
+  "sha256": "57f2bca126d0d5abed7c658a757d39d14de0717a7d70cae02adc36676cceb8d3",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "8d37d01671df7991099da144.bin",
+      "size": 16335525
+    }
+  ]
+}
