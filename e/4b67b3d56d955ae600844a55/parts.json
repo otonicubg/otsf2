@@ -1,0 +1,15 @@
+{
+  "name": "cursed travels the shattered labyrinth",
+  "file": "cursed travels the shattered labyrinth.html",
+  "size": 4337397,
+  "sha256": "8c690ff8d3a72288ccf9016bc8b57911b25eb53650a56127eacd8090d387dec3",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "fbc7ca04e09805c3aa2ab4e6.bin",
+      "size": 4337397
+    }
+  ]
+}

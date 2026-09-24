@@ -1,0 +1,19 @@
+{
+  "name": "snow battle.io",
+  "file": "snow battle.io.html",
+  "size": 33767795,
+  "sha256": "15b754ad67f446147c248290adfc8ad50ee4d16cc4c22d23f190a4fbd2808d78",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "cb82e3700cf344e365b1c8ee.bin",
+      "size": 20971520
+    },
+    {
+      "name": "e62b4021c8d12b429c41cd6f.bin",
+      "size": 12796275
+    }
+  ]
+}

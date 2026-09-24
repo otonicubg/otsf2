@@ -1,0 +1,15 @@
+{
+  "name": "Jelly Go!",
+  "file": "Jelly Go!.html",
+  "size": 20872019,
+  "sha256": "f91934c0c676d0b73c855dddae50b081bc4181ad99c7b6f89bfeb01eb6cd8a65",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "49f1ed5bea2b4dde3bc858cd.bin",
+      "size": 20872019
+    }
+  ]
+}

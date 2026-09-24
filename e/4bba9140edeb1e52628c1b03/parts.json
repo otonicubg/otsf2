@@ -1,0 +1,19 @@
+{
+  "name": "blocky snakes",
+  "file": "blocky snakes.html",
+  "size": 25113259,
+  "sha256": "edb842ab4f790608cfd1447379766ba4dc9bec7109e8e028a18c4749ded5ed77",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "e873a303d9cdea24f24994ef.bin",
+      "size": 20971520
+    },
+    {
+      "name": "e65ba8cb4970a242f69d2ecd.bin",
+      "size": 4141739
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "highway rider extreme",
+  "file": "highway rider extreme.html",
+  "size": 19357408,
+  "sha256": "8fc32b329b7712891451951f2aeba820efccf6d7ae8b51e64739b564867ddb81",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "e36f0cb521d77990432d91b9.bin",
+      "size": 19357408
+    }
+  ]
+}

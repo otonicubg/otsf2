@@ -1,0 +1,19 @@
+{
+  "name": "the designer",
+  "file": "the designer.html",
+  "size": 29696518,
+  "sha256": "42e281ed8533abf637aeb8fb3fc4279869cc962e0f5efe31733de15ff0b6c40e",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "463cf4b60f8af0bc52547e91.bin",
+      "size": 20971520
+    },
+    {
+      "name": "fc944ad012d45ecb32affbed.bin",
+      "size": 8724998
+    }
+  ]
+}

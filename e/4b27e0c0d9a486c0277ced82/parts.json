@@ -1,0 +1,15 @@
+{
+  "name": "littlealchemy2",
+  "file": "littlealchemy2.html",
+  "size": 337105,
+  "sha256": "455de6ce2b89e1a1355cef81dad857bd1cce239644ef38f710c5634491a09efc",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "c9d9ba04b637ab043aba4911.bin",
+      "size": 337105
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "haunted rooms",
+  "file": "haunted rooms.html",
+  "size": 17378274,
+  "sha256": "4b4c8fe8f286034b05309dc3ca7e2df42605f488e160365b02c3b4e4499f6385",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "1c7c84e378722e55537dc082.bin",
+      "size": 17378274
+    }
+  ]
+}

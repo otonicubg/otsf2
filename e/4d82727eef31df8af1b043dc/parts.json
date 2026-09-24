@@ -1,0 +1,31 @@
+{
+  "name": "golf orbit (old)",
+  "file": "golf orbit (old).html",
+  "size": 94394988,
+  "sha256": "83c7c2586f036ff3b3f84a5d1a839467f9328192a55cb0063149cfa91bad4cb3",
+  "partSize": 20971520,
+  "count": 5,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "cb734d8811ad6cdd992eef9d.bin",
+      "size": 20971520
+    },
+    {
+      "name": "6b055dd92b0237742a51afc0.bin",
+      "size": 20971520
+    },
+    {
+      "name": "a25b2549e3444ddc4ec6c9b0.bin",
+      "size": 20971520
+    },
+    {
+      "name": "ea8edb6a536843f5ad0611fc.bin",
+      "size": 20971520
+    },
+    {
+      "name": "1fb5969b2d646ade13ba423b.bin",
+      "size": 10508908
+    }
+  ]
+}

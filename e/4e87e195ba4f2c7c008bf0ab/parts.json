@@ -1,0 +1,15 @@
+{
+  "name": "Big Red Button",
+  "file": "Big Red Button.html",
+  "size": 11281220,
+  "sha256": "0f6fc4ada4ba5de89f1ed0c1ffe79829620d064b6046bc8f4d80e0ae494dcfe7",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "9086121699b58e915707e7d5.bin",
+      "size": 11281220
+    }
+  ]
+}
