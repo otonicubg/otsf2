@@ -1,0 +1,15 @@
+{
+  "name": "Bloonstd 4",
+  "file": "Bloonstd 4.html",
+  "size": 9217287,
+  "sha256": "95ad1c3d5d17d8b4d9d76b3f8382ef684827989c695cace947fa30835838258c",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "999f71046d4d0c52ea38679d.bin",
+      "size": 9217287
+    }
+  ]
+}

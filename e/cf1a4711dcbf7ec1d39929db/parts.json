@@ -1,0 +1,15 @@
+{
+  "name": "retrohaunt",
+  "file": "retrohaunt.html",
+  "size": 133077,
+  "sha256": "65cc4bfaece113410d37af8c06d921695b22d1916a33009a934264dbaaa65ac2",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "e41cdf87ffd087329b7a10b1.bin",
+      "size": 133077
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "ant art tycoon",
+  "file": "ant art tycoon.html",
+  "size": 17287693,
+  "sha256": "8e77b467cbf9078f615f949a6209a7b448d2edd81d59f4bab3b029c4217a12e2",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "8c0203389cd6cff927d0f5ac.bin",
+      "size": 17287693
+    }
+  ]
+}

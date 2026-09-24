@@ -1,0 +1,15 @@
+{
+  "name": "stack",
+  "file": "stack.html",
+  "size": 3498448,
+  "sha256": "05df79b7792d7f69cbb1ac3c5990707dfc4b5aa00f8e58e2fc2372cfa688b7fd",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "594634fb05e01fe1856a847f.bin",
+      "size": 3498448
+    }
+  ]
+}

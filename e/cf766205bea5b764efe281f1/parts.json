@@ -1,0 +1,15 @@
+{
+  "name": "darts pro",
+  "file": "darts pro.html",
+  "size": 16046409,
+  "sha256": "b10cefd7d606229ccb81b2360b8ca6da59a4f7d5479c8f8c6fd16b098627f20f",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "d8b78cae0ffb27f715afb048.bin",
+      "size": 16046409
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "among us online edition",
+  "file": "among us online edition.html",
+  "size": 14046409,
+  "sha256": "61ea25c82fa4aad1e68f9e8a11ca9891f21f34c6394e3dbe70a2a49543fae0e7",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "229fcb8acd8c5a5a40478af1.bin",
+      "size": 14046409
+    }
+  ]
+}

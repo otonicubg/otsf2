@@ -1,0 +1,15 @@
+{
+  "name": "Flappy Plane",
+  "file": "Flappy Plane.html",
+  "size": 5224408,
+  "sha256": "187849b0f6a60e484a22bf49d257df807e797ab097a5dfc6e2301b367e0f7536",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "c0f11d45ed090f35c1d403e9.bin",
+      "size": 5224408
+    }
+  ]
+}
