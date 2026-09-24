@@ -1,0 +1,15 @@
+{
+  "name": "driftmania",
+  "file": "driftmania.html",
+  "size": 2049839,
+  "sha256": "26f5454ca02366751df9f2119164772349a458731c3b1fcb8dfe005d4b0d93c8",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "7c5ec37ee39a545e45c34ec2.bin",
+      "size": 2049839
+    }
+  ]
+}

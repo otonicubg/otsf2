@@ -1,0 +1,15 @@
+{
+  "name": "Pixel Speedrun",
+  "file": "Pixel Speedrun.html",
+  "size": 80580,
+  "sha256": "da280c146629ce68bfb180d9d31e3ba0421a922732ceb20156fd0abfbb26c179",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "c24bfc17fa15ead30af5e315.bin",
+      "size": 80580
+    }
+  ]
+}

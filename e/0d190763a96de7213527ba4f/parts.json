@@ -1,0 +1,15 @@
+{
+  "name": "Space Invaders",
+  "file": "Space Invaders.html",
+  "size": 1632060,
+  "sha256": "ee983dc38503d1a48aca23210b8ea74497144b108e576a41001dfc05cac40e1b",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "e9e7f11423c94c23d3402a09.bin",
+      "size": 1632060
+    }
+  ]
+}

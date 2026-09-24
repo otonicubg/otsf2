@@ -1,0 +1,19 @@
+{
+  "name": "in space",
+  "file": "in space.html",
+  "size": 39646365,
+  "sha256": "348825952d3c93a7e25d9ded13933711c90c84fd5490ba275ca1cdda594e78a3",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "e54caca93bf99c2843128035.bin",
+      "size": 20971520
+    },
+    {
+      "name": "7c700509be891b228c72dd74.bin",
+      "size": 18674845
+    }
+  ]
+}

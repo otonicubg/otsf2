@@ -1,0 +1,15 @@
+{
+  "name": "slime laboratory",
+  "file": "slime laboratory.html",
+  "size": 16780611,
+  "sha256": "75cfa9776ea81be92b566487c508d101594d16909af719a372eaad200c8effac",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "9fbeb6a4a75369b09dd9558c.bin",
+      "size": 16780611
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "james gun",
+  "file": "james gun.html",
+  "size": 17781978,
+  "sha256": "5b6c26f885fc98223569a645876d6924e64f2de9e5e3fed96996c75359b36516",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "79af0722b90d9a6f4f9b75d4.bin",
+      "size": 17781978
+    }
+  ]
+}

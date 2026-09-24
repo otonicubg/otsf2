@@ -1,0 +1,15 @@
+{
+  "name": "super pickleball adventure",
+  "file": "super pickleball adventure.html",
+  "size": 19827669,
+  "sha256": "d4757af2b1dedfd381e4ae1aea37109590e20b4784a72de6ce6c340a47f921c2",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "7a252816b8394e519cb03ac5.bin",
+      "size": 19827669
+    }
+  ]
+}

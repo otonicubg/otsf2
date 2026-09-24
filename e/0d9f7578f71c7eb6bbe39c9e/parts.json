@@ -1,0 +1,15 @@
+{
+  "name": "block the pig",
+  "file": "block the pig.html",
+  "size": 14562436,
+  "sha256": "a3a7e102d02157eefec1781445e6531743b054fe64e6556ae6855328cd949381",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "aa8dc71842e6de2b719dc4f6.bin",
+      "size": 14562436
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "gods of defense",
+  "file": "gods of defense.html",
+  "size": 28525861,
+  "sha256": "a714fe6360b05d8a1c7ec43ee8e1d96f0a98c7b25ef647939cb774b876cecf8e",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "14489d71a5c02ac86fb5de29.bin",
+      "size": 20971520
+    },
+    {
+      "name": "38979dda320b273bb5a07a01.bin",
+      "size": 7554341
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "asteroids",
+  "file": "asteroids.html",
+  "size": 367282,
+  "sha256": "dd776278b2b0d3ef2725183ee5278796a6786170eed327c959212a2905462702",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "ee21e8c3a33c0e7f0bb57f6f.bin",
+      "size": 367282
+    }
+  ]
+}

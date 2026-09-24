@@ -1,0 +1,15 @@
+{
+  "name": "bumpyball.io",
+  "file": "bumpyball.io.html",
+  "size": 9248253,
+  "sha256": "9d1a5d43ced38da176c74e8c8287d16fde65e208413b5390816bd7ac913c2a8b",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "9bf825803350b1863be6854c.bin",
+      "size": 9248253
+    }
+  ]
+}

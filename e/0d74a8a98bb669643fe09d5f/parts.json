@@ -1,0 +1,15 @@
+{
+  "name": "stair race 3d",
+  "file": "stair race 3d.html",
+  "size": 17974686,
+  "sha256": "ed5133e35f2bf538ba90440f180f608d2aa21709129466db3358c1faa02e1266",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "581a8c6a75f552f7cedd65b3.bin",
+      "size": 17974686
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "sleepy knight",
+  "file": "sleepy knight.html",
+  "size": 4830855,
+  "sha256": "21888c23847be3394e9be3413bbd80cae80410b0548c54a280d38b582faf58a1",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "ea8ad511478e139af5594392.bin",
+      "size": 4830855
+    }
+  ]
+}

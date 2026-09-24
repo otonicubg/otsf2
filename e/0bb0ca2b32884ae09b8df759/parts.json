@@ -1,0 +1,19 @@
+{
+  "name": "Papas Sushiria",
+  "file": "Papas Sushiria.html",
+  "size": 28743836,
+  "sha256": "76af86295aa693fa90ab6724e797191fb5f8e94d4a649c60a29bfd59792322f5",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "580d5a3ff0edef9a4288fa33.bin",
+      "size": 20971520
+    },
+    {
+      "name": "9baefeb4aa1cee8e9d4eccf4.bin",
+      "size": 7772316
+    }
+  ]
+}
