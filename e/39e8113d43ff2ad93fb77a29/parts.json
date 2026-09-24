@@ -1,0 +1,15 @@
+{
+  "name": "crossyroad",
+  "file": "crossyroad.html",
+  "size": 6680073,
+  "sha256": "641ce4250c37a430ba9aa8c6c0ef0a32011944ebf361be996d533404bb992b44",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "19b1166667f5b0aeb7492656.bin",
+      "size": 6680073
+    }
+  ]
+}

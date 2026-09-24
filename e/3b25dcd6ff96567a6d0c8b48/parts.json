@@ -1,0 +1,19 @@
+{
+  "name": "Pretend its not there",
+  "file": "Pretend its not there.html",
+  "size": 35115769,
+  "sha256": "c779ad58226b1486f5cbe5f8346b7d6cceff81af9218f855add99f71faec5178",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "9198b457c69654e46ca99836.bin",
+      "size": 20971520
+    },
+    {
+      "name": "65de6c83b51387b11256c0df.bin",
+      "size": 14144249
+    }
+  ]
+}

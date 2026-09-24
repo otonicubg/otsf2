@@ -1,0 +1,15 @@
+{
+  "name": "Soccer Random",
+  "file": "Soccer Random.html",
+  "size": 3682403,
+  "sha256": "575c392c9fad9cd3af168a4b23cc70a10621627a466232165502e0684b2eca15",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "7ba40735cfd39827492e34ad.bin",
+      "size": 3682403
+    }
+  ]
+}

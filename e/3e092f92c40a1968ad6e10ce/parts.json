@@ -1,0 +1,15 @@
+{
+  "name": "Ede Surf",
+  "file": "Ede Surf.html",
+  "size": 2907060,
+  "sha256": "5982d052c80abaedd6a636e01a244859ac21657ae650e26c4d747fe2fc22f667",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "97e32414e5effd4edf9cbb58.bin",
+      "size": 2907060
+    }
+  ]
+}

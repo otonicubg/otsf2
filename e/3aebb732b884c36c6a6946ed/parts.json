@@ -1,0 +1,15 @@
+{
+  "name": "tank trouble 2",
+  "file": "tank trouble 2.html",
+  "size": 4777077,
+  "sha256": "e57b776c5877ccdc222b2129e94e55112a90179dff05552a93e04a4213e65186",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "e93ea4277c8f59cd17d79453.bin",
+      "size": 4777077
+    }
+  ]
+}

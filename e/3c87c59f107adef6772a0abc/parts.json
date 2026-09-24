@@ -1,0 +1,15 @@
+{
+  "name": "Ballistic Chickens",
+  "file": "Ballistic Chickens.html",
+  "size": 3230754,
+  "sha256": "c80c583291dddbe58f356838d13cb582e0e07e914dcbe86512af5ebd67d24def",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "577604389ea991e6aaf8481b.bin",
+      "size": 3230754
+    }
+  ]
+}

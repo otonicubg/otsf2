@@ -1,0 +1,15 @@
+{
+  "name": "bacon may die",
+  "file": "bacon may die.html",
+  "size": 20810109,
+  "sha256": "14bfc15b98e81545f281a187d6d6b98f40b68b7b8368ff816d34195cd057a3bd",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "4f73a37d87560c6d3cd47011.bin",
+      "size": 20810109
+    }
+  ]
+}

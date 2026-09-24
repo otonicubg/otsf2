@@ -1,0 +1,19 @@
+{
+  "name": "rabbit samurai 2",
+  "file": "rabbit samurai 2.html",
+  "size": 22313450,
+  "sha256": "02ff92358bcebe03fb143f41f39b25d66d0e6f74091e9e1c0e5b54540ee630fd",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "ec074a9f68b8aa64bc65f3c0.bin",
+      "size": 20971520
+    },
+    {
+      "name": "980508ee957dba502096c0ef.bin",
+      "size": 1341930
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "falling fox",
+  "file": "falling fox.html",
+  "size": 2074307,
+  "sha256": "8d6c260b60463b2a7e316876bc0febba59f8c7bc635df0eba412b482c30c1acd",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "69492a4fc6d12ba2c84609b4.bin",
+      "size": 2074307
+    }
+  ]
+}

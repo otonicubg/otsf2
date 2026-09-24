@@ -1,0 +1,15 @@
+{
+  "name": "territorial.io new",
+  "file": "territorial.io new.html",
+  "size": 90417,
+  "sha256": "a9dd880c156771ed00a45b17a2be89c71abc4f44970d932a571a0334151f98d9",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "a56a44e57303edca7a9b4f3b.bin",
+      "size": 90417
+    }
+  ]
+}

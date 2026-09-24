@@ -1,0 +1,19 @@
+{
+  "name": "Steal this Election",
+  "file": "Steal this Election.html",
+  "size": 23706708,
+  "sha256": "7f5a5c6c9fb1b9f7b6ae3fd0189a05add498c3ae16ad592bb5552aef161296bf",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "2b9a91c2fab9b24934a87f5c.bin",
+      "size": 20971520
+    },
+    {
+      "name": "b3b4eb49eb742042d17553a0.bin",
+      "size": 2735188
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "narwhale.io",
+  "file": "narwhale.io.html",
+  "size": 77166,
+  "sha256": "b3a85004560c9eef545b6b361f83512bcfbba0b852f6784077f89fb5663bf344",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "da6abe7346fcdad10d8a6cb9.bin",
+      "size": 77166
+    }
+  ]
+}

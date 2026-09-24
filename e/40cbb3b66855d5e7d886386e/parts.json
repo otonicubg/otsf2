@@ -1,0 +1,15 @@
+{
+  "name": "Moto X3M Pool",
+  "file": "Moto X3M Pool.html",
+  "size": 9031583,
+  "sha256": "a17e705129170970cc38a746bbf6e3b615e8c7d1fc522d2a93545175a1bb2a81",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "4392ecf2d3b2184d0335c42e.bin",
+      "size": 9031583
+    }
+  ]
+}

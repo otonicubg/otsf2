@@ -1,0 +1,15 @@
+{
+  "name": "Twin Shot 1",
+  "file": "Twin Shot 1.html",
+  "size": 13125813,
+  "sha256": "54890890986607b3528de1c46e495dd3bb2eecd7d6dcb615520601afcfea2aec",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "4c70cf97b02cfbe38866835e.bin",
+      "size": 13125813
+    }
+  ]
+}

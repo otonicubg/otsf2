@@ -1,0 +1,15 @@
+{
+  "name": "Finding Santa",
+  "file": "Finding Santa.html",
+  "size": 11841066,
+  "sha256": "1cb0c752058bfdf48725ed1d7bc7c29589a1183c0e351e3c8ba58f2fb4d3e33b",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "df023180a043cc816ba210de.bin",
+      "size": 11841066
+    }
+  ]
+}

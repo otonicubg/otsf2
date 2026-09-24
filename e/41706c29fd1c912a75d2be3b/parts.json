@@ -1,0 +1,15 @@
+{
+  "name": "drunken duel",
+  "file": "drunken duel.html",
+  "size": 17100939,
+  "sha256": "7755bf5f16ed95124bb58291fa3354a711a86004ab7c073ab3e376d22241d833",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "374702dee29d53e14e94a969.bin",
+      "size": 17100939
+    }
+  ]
+}

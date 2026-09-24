@@ -1,0 +1,15 @@
+{
+  "name": "stickman golf",
+  "file": "stickman golf.html",
+  "size": 15477273,
+  "sha256": "2740ca6976e85172a971af3aacab5c799f86284c4d264c401de28f92f61d5b7f",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "55ae93c584c0ec3e02428a92.bin",
+      "size": 15477273
+    }
+  ]
+}

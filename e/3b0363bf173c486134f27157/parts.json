@@ -1,0 +1,15 @@
+{
+  "name": "freegear",
+  "file": "freegear.html",
+  "size": 14139838,
+  "sha256": "5b05e99e01bbf9f36e72ddde4257afc34a0d39cd291358dc1419367d2ac99c84",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "dae1c04f802f4f64ee207a9b.bin",
+      "size": 14139838
+    }
+  ]
+}

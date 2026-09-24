@@ -1,0 +1,15 @@
+{
+  "name": "Crazy Golf 2",
+  "file": "Crazy Golf 2.html",
+  "size": 11377440,
+  "sha256": "73a612de75e5189ce594c5fbfeb1815a2a20f52c5da1a7510be62e1cea400d69",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "1b8551a98b34c9e79a2daaed.bin",
+      "size": 11377440
+    }
+  ]
+}

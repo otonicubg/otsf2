@@ -1,0 +1,15 @@
+{
+  "name": "cstimer",
+  "file": "cstimer.html",
+  "size": 76994,
+  "sha256": "dc25a712d5682ce03cb518305fd24ef912e5034ee5b7fdb067b459f70eb0a1ac",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "988ea0557f7889f8c4422a2d.bin",
+      "size": 76994
+    }
+  ]
+}

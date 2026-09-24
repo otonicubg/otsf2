@@ -1,0 +1,19 @@
+{
+  "name": "deeper sleep",
+  "file": "deeper sleep.html",
+  "size": 25177574,
+  "sha256": "90cf18819b435be0a947e1b21c400a0c26b2b26456caabc78a06b374fce1d21f",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "24a283f27edc11f70b330cad.bin",
+      "size": 20971520
+    },
+    {
+      "name": "b9cc6f0681e69ac170fc62ac.bin",
+      "size": 4206054
+    }
+  ]
+}

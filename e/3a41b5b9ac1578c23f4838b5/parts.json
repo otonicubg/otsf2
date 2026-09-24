@@ -1,0 +1,19 @@
+{
+  "name": "five nights at winstons",
+  "file": "five nights at winstons.html",
+  "size": 32342643,
+  "sha256": "f95b35ec1dbcb85229bdea96e7e70c41fe51e88858dc8a75e763e1004517af68",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "847071a1f5a9a6ef2d786d17.bin",
+      "size": 20971520
+    },
+    {
+      "name": "ee613cf059a799849465586c.bin",
+      "size": 11371123
+    }
+  ]
+}
