@@ -1,0 +1,15 @@
+{
+  "name": "There Is The Only Level",
+  "file": "There Is The Only Level.html",
+  "size": 12747858,
+  "sha256": "701f14eefea432b2fc46bf66ded246af4982ef44fb4070373e73a29c41b4e8a6",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "bc53466b539c5e4e47ade39c.bin",
+      "size": 12747858
+    }
+  ]
+}

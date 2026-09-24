@@ -1,0 +1,15 @@
+{
+  "name": "gunnight",
+  "file": "gunnight.html",
+  "size": 3681782,
+  "sha256": "dcae4469fdaece30a446235616779d2baad9533bf2fb1cf75d6237abac29cc1c",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "1864fc170e09ad9d4fbf2c4e.bin",
+      "size": 3681782
+    }
+  ]
+}

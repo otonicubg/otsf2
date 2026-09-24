@@ -1,0 +1,15 @@
+{
+  "name": "metrocubevania",
+  "file": "metrocubevania.html",
+  "size": 1573050,
+  "sha256": "367802b712f9deff751d678630cffc34f483cb3b6c349399c25085f1c68e36a6",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "8b1647d7c0a3dc2943dd38c7.bin",
+      "size": 1573050
+    }
+  ]
+}

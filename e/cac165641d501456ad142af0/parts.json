@@ -1,0 +1,19 @@
+{
+  "name": "Bob the Robber 2",
+  "file": "Bob the Robber 2.html",
+  "size": 28945010,
+  "sha256": "598a8bfceb84f6e44de774f087faa6d04a1a4726fe16b700cf2f33780a038e4a",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "e1e444e1505446d07ca346e6.bin",
+      "size": 20971520
+    },
+    {
+      "name": "b8975c41532aedbd4bb80db9.bin",
+      "size": 7973490
+    }
+  ]
+}

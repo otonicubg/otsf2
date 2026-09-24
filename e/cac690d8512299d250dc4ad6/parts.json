@@ -1,0 +1,15 @@
+{
+  "name": "curve ball 3d",
+  "file": "curve ball 3d.html",
+  "size": 14945960,
+  "sha256": "88c35a82aab69643ae0eb068dffcf5e91e53d951de6db0e46bc825ddbd626a4b",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "f66f1c46f11eeeea89994d4d.bin",
+      "size": 14945960
+    }
+  ]
+}

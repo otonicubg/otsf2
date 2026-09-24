@@ -1,0 +1,15 @@
+{
+  "name": "battle golf",
+  "file": "battle golf.html",
+  "size": 18688704,
+  "sha256": "e4dd884c9148c883c9be3b2f1507777a329ec08c23ff5b3fdaa57b7f51790004",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "bc21282337f266a89e3fc2ce.bin",
+      "size": 18688704
+    }
+  ]
+}

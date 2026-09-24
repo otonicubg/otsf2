@@ -1,0 +1,15 @@
+{
+  "name": "Slow roads",
+  "file": "Slow roads.html",
+  "size": 10807885,
+  "sha256": "17c47736ef1394d6528c56a72f68319fcb79d7f813e42f4f2656aba5191477d5",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "bb287dde1415e05c08a67774.bin",
+      "size": 10807885
+    }
+  ]
+}

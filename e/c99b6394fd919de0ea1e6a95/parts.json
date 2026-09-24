@@ -1,0 +1,15 @@
+{
+  "name": "snail trail",
+  "file": "snail trail.html",
+  "size": 15462530,
+  "sha256": "1698d31013eab5e613163306b4276c7d1a6a4a50ec5434ca736061b309993e75",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "b067a7a6427a71d4bf4d4905.bin",
+      "size": 15462530
+    }
+  ]
+}

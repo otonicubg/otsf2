@@ -1,0 +1,15 @@
+{
+  "name": "poker",
+  "file": "poker.html",
+  "size": 223058,
+  "sha256": "cbc00662bd7bea051146549d3c4fbb30c32620a844316584eb8906f6aa35fad5",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "f84ef9d468df88d4d91f4bdf.bin",
+      "size": 223058
+    }
+  ]
+}

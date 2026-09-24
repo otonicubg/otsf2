@@ -1,0 +1,51 @@
+{
+  "name": "Deadseat",
+  "file": "Deadseat.html",
+  "size": 191051242,
+  "sha256": "5b7c5de547957f885637f389f1b012859726948134655e259929714a989cf687",
+  "partSize": 20971520,
+  "count": 10,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "5dafe3174e6486d9476303e2.bin",
+      "size": 20971520
+    },
+    {
+      "name": "a2a43c952d0f5447fe3c9cbf.bin",
+      "size": 20971520
+    },
+    {
+      "name": "223fbb5695491d1f5575d508.bin",
+      "size": 20971520
+    },
+    {
+      "name": "2716bf41a039a8447dca6f8f.bin",
+      "size": 20971520
+    },
+    {
+      "name": "47501c70e9deed2af30bdd4f.bin",
+      "size": 20971520
+    },
+    {
+      "name": "6ca4c7d4e30e3e3d28afd031.bin",
+      "size": 20971520
+    },
+    {
+      "name": "d039c5fbe0911b17a75d8f98.bin",
+      "size": 20971520
+    },
+    {
+      "name": "af784d95da58fe303f899595.bin",
+      "size": 20971520
+    },
+    {
+      "name": "7383fcf0fafe1e044d9fd7e8.bin",
+      "size": 20971520
+    },
+    {
+      "name": "d562d2f560e9864f424c6c09.bin",
+      "size": 2307562
+    }
+  ]
+}

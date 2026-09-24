@@ -1,0 +1,15 @@
+{
+  "name": "erase box",
+  "file": "erase box.html",
+  "size": 19026761,
+  "sha256": "465b967c74e2c3de36bf3a6a87a84cc8b74331368e0eaf5739b2cc2c296371a3",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "0f240512e23214494d2bdaa2.bin",
+      "size": 19026761
+    }
+  ]
+}

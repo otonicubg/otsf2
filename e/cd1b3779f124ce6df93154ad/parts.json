@@ -1,0 +1,15 @@
+{
+  "name": "Count Control Legends",
+  "file": "Count Control Legends.html",
+  "size": 11766449,
+  "sha256": "054a32116b5cf75dadd2493e6d7be4f68ce5502fd0975df56804b070756a5ab5",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "f20a85e9e8379f55c4ce9505.bin",
+      "size": 11766449
+    }
+  ]
+}

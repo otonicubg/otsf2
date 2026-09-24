@@ -1,0 +1,23 @@
+{
+  "name": "burrito bison",
+  "file": "burrito bison.html",
+  "size": 46716595,
+  "sha256": "981c6ce51053381c0fcd9df9753272dc2e318783d530924782afe10b6a30626b",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "7b0fb6feda380a366a1fdbb4.bin",
+      "size": 20971520
+    },
+    {
+      "name": "300d0d46ef851f0fe11d2378.bin",
+      "size": 20971520
+    },
+    {
+      "name": "74d95e5539b400db31d91192.bin",
+      "size": 4773555
+    }
+  ]
+}

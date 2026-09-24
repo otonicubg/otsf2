@@ -1,0 +1,15 @@
+{
+  "name": "free the key",
+  "file": "free the key.html",
+  "size": 15024210,
+  "sha256": "367dea7dde3cad306ff8451cda107318a2af4167f5c71ec7d6624e0e730bbb10",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "91830176de0c27c47f902b84.bin",
+      "size": 15024210
+    }
+  ]
+}

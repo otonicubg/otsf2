@@ -1,0 +1,19 @@
+{
+  "name": "jetscout boot camp",
+  "file": "jetscout boot camp.html",
+  "size": 39461293,
+  "sha256": "8d4807b9ab42f7a7a55d8cda06b8e1ccfdb25c368751634a6c62e908d62d2d39",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "5a9889fd8b23d958aa238b40.bin",
+      "size": 20971520
+    },
+    {
+      "name": "cfe9c9052174ad288837b3fd.bin",
+      "size": 18489773
+    }
+  ]
+}

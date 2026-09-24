@@ -1,0 +1,15 @@
+{
+  "name": "dinosaur",
+  "file": "dinosaur.html",
+  "size": 2992240,
+  "sha256": "3b7f06a7704afa06703c5f3e5fe7001a4b3dc24d79bc374c12c407b35b04ca74",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "15f17d329d7ec433be987067.bin",
+      "size": 2992240
+    }
+  ]
+}

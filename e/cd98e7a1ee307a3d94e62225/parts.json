@@ -1,0 +1,15 @@
+{
+  "name": "Ragdoll Archers",
+  "file": "Ragdoll Archers.html",
+  "size": 12700698,
+  "sha256": "c69f66a9f7cc71770b9372b3fc2ef04f03460a83947358b911c23248b36efd63",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "2ae6755d14996f605bb4fd8c.bin",
+      "size": 12700698
+    }
+  ]
+}

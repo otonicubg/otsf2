@@ -1,0 +1,19 @@
+{
+  "name": "sniper shot",
+  "file": "sniper shot.html",
+  "size": 34893622,
+  "sha256": "ceef616b47493a01f95174344a4d70aa62591c51d1b2fb1b1fba84653a7e6266",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "25e87319445c816d103fec8e.bin",
+      "size": 20971520
+    },
+    {
+      "name": "54e619c62840fc9a71335e4b.bin",
+      "size": 13922102
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "drunk guy",
+  "file": "drunk guy.html",
+  "size": 11570985,
+  "sha256": "6cab180d63107fd311711ee509606231eca696cba161aec4ad7fedb21582dd15",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "707a8ee4a91b9ad8b38aeaab.bin",
+      "size": 11570985
+    }
+  ]
+}

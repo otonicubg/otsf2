@@ -1,0 +1,19 @@
+{
+  "name": "detective bass fish",
+  "file": "detective bass fish.html",
+  "size": 25786143,
+  "sha256": "937073111ebbe71bb71325e058f70c68fbe6209a28b2b08199fa21734138a0ed",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "d0c3ae8a3beafd5aee2db031.bin",
+      "size": 20971520
+    },
+    {
+      "name": "86e7853e11c5de6ae2269356.bin",
+      "size": 4814623
+    }
+  ]
+}

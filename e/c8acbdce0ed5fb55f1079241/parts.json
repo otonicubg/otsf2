@@ -1,0 +1,19 @@
+{
+  "name": "ballhit.io",
+  "file": "ballhit.io.html",
+  "size": 38268028,
+  "sha256": "a5e49d830033725f8eb25fb0cdf88b95c23b61dfe49ab8aa53d2a21f0561fca8",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "ab89e3f43c70299516d40110.bin",
+      "size": 20971520
+    },
+    {
+      "name": "8b4e234b9e4c9abb761c83ac.bin",
+      "size": 17296508
+    }
+  ]
+}

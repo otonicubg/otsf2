@@ -1,0 +1,23 @@
+{
+  "name": "kart race",
+  "file": "kart race.html",
+  "size": 47817409,
+  "sha256": "48eb3e29310e4519c73db93a08b4e6323b3c38dede60e09ecd8d4040868924bf",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "f59a7a8700427f76624c1f6f.bin",
+      "size": 20971520
+    },
+    {
+      "name": "16e9d8cb85805cde75a96578.bin",
+      "size": 20971520
+    },
+    {
+      "name": "cf919d5307cd8d987d79a824.bin",
+      "size": 5874369
+    }
+  ]
+}

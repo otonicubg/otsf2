@@ -1,0 +1,19 @@
+{
+  "name": "cuttherope",
+  "file": "cuttherope.html",
+  "size": 33619186,
+  "sha256": "e7ffb17337646532ebc1453d7f1535ea0b9586ff03de26a7737f1c4ba083f3be",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "6e33e1e03836c8df083a1d64.bin",
+      "size": 20971520
+    },
+    {
+      "name": "88a796515869dd9719dc3c62.bin",
+      "size": 12647666
+    }
+  ]
+}

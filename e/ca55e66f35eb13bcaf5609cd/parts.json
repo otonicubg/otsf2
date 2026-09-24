@@ -1,0 +1,15 @@
+{
+  "name": "Fluid Simulation",
+  "file": "Fluid Simulation.html",
+  "size": 2847838,
+  "sha256": "8149ef105a107322d9f82b0d913da5c3fa3aef52be0aed7a0e5a7203da443da8",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "2bc910081134ce8e95efe685.bin",
+      "size": 2847838
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "cubes king",
+  "file": "cubes king.html",
+  "size": 27223838,
+  "sha256": "59a430f9b08fbbecf0f5661e05842dfe5f65c16b4a67e3f15b7483323861cbbc",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "910e8a77a29784410a91606d.bin",
+      "size": 20971520
+    },
+    {
+      "name": "96805d69cf73276d6b38eb2e.bin",
+      "size": 6252318
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "grab party.io",
+  "file": "grab party.io.html",
+  "size": 331398,
+  "sha256": "d1336253229f94478c4e1026d5bfbd52df421d2e8813e534de46dd8d4bee6fe4",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "a23d664855f142d8f6320673.bin",
+      "size": 331398
+    }
+  ]
+}
