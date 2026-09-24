@@ -1,0 +1,15 @@
+{
+  "name": "big shot boxing",
+  "file": "big shot boxing.html",
+  "size": 17729688,
+  "sha256": "2ec3ada63dcb881f26d478e0c5866d920fa008e550b9c05c2891b92d22cfcd3b",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "271bab6f428d650de2793409.bin",
+      "size": 17729688
+    }
+  ]
+}

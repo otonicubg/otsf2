@@ -1,0 +1,51 @@
+{
+  "name": "Crystal Seeker",
+  "file": "Crystal Seeker.html",
+  "size": 193144910,
+  "sha256": "362b8c9ff93144d147e1f7fb93156a18a0fa45f2e64b5c817d740c751277ef1c",
+  "partSize": 20971520,
+  "count": 10,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "c1cf1065146f494637872f06.bin",
+      "size": 20971520
+    },
+    {
+      "name": "e4d24c889d62133e682fdd8c.bin",
+      "size": 20971520
+    },
+    {
+      "name": "71a84f35fa86ca862a854267.bin",
+      "size": 20971520
+    },
+    {
+      "name": "e3784db05509784b22a2f0bd.bin",
+      "size": 20971520
+    },
+    {
+      "name": "ccba91721fd5a4d215019af5.bin",
+      "size": 20971520
+    },
+    {
+      "name": "7e230f039272e8c8979a3e74.bin",
+      "size": 20971520
+    },
+    {
+      "name": "1b4775e44b07f55921561e04.bin",
+      "size": 20971520
+    },
+    {
+      "name": "765b177eeda85d9e691bf446.bin",
+      "size": 20971520
+    },
+    {
+      "name": "f38cfb116538283eca22b724.bin",
+      "size": 20971520
+    },
+    {
+      "name": "b9d0c2768dae019843510880.bin",
+      "size": 4401230
+    }
+  ]
+}

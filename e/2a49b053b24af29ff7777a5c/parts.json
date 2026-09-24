@@ -1,0 +1,15 @@
+{
+  "name": "beam",
+  "file": "beam.html",
+  "size": 1010897,
+  "sha256": "dbf185cc0a21c38fbfb646634f0f3be13892575ffbd2abcde6b3b2e2e4f94ebc",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "29f2f6c449bb18cceb5699ae.bin",
+      "size": 1010897
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Eggy Car",
+  "file": "Eggy Car.html",
+  "size": 10900438,
+  "sha256": "a700bc6c2f3b5ac4f17cec0e0b3f7bb75e9cf5b733c772228df7114a3837a2ec",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "ec5fdbba97dd773db8f3e6a5.bin",
+      "size": 10900438
+    }
+  ]
+}

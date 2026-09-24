@@ -1,0 +1,19 @@
+{
+  "name": "are you human",
+  "file": "are you human.html",
+  "size": 38366384,
+  "sha256": "162b0623ee354dcbfdded93f829ff32abfb456cbacae10339f63f5dd6f132a6c",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "b13f5b69f2e654aed9137c6b.bin",
+      "size": 20971520
+    },
+    {
+      "name": "11e54ce5b7c711f006bb6f3c.bin",
+      "size": 17394864
+    }
+  ]
+}

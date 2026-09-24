@@ -1,0 +1,15 @@
+{
+  "name": "super liquid soccer",
+  "file": "super liquid soccer.html",
+  "size": 12541078,
+  "sha256": "bff7043cecb689a2553b5b23f6438ed0e6ba14c0e716c92e6fac8774e3dcaffa",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "36520b60866337e5b1884b02.bin",
+      "size": 12541078
+    }
+  ]
+}

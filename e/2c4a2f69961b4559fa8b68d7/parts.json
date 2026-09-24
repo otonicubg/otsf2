@@ -1,0 +1,15 @@
+{
+  "name": "cursed travels flame of the banshee",
+  "file": "cursed travels flame of the banshee.html",
+  "size": 5297673,
+  "sha256": "e422633d6cf9caf98c0bc43e664a8d83947c20611a2d6adbdcb0033aadc4ba65",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "973ca54b6b6f48c4c8e3f83f.bin",
+      "size": 5297673
+    }
+  ]
+}

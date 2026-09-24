@@ -1,0 +1,19 @@
+{
+  "name": "Island Clash",
+  "file": "Island Clash.html",
+  "size": 22640663,
+  "sha256": "49e2043f947002ea3397756ac9233f9e24314df54a361ea89a1fa3fea4706639",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "3e91e53fbcfbf82859cf2cf4.bin",
+      "size": 20971520
+    },
+    {
+      "name": "9a9204e1455eaada29be3eda.bin",
+      "size": 1669143
+    }
+  ]
+}

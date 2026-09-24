@@ -1,0 +1,19 @@
+{
+  "name": "village craft",
+  "file": "village craft.html",
+  "size": 22698468,
+  "sha256": "9ab90d6e427cd25633b6f2248f277282bc06b806e3d8484baf6e4b3f74901da7",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "663a70be5e7fda20c7aaf894.bin",
+      "size": 20971520
+    },
+    {
+      "name": "9c7a2ee457e953553cec824d.bin",
+      "size": 1726948
+    }
+  ]
+}

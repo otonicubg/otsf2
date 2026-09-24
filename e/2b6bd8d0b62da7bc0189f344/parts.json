@@ -1,0 +1,15 @@
+{
+  "name": "a grim chase",
+  "file": "a grim chase.html",
+  "size": 3492357,
+  "sha256": "66fdcc55aa757f9c50948d4934c7937a61de8e791c31e8a262e834113efceb57",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "c155aac0e99b8165d9b7d99e.bin",
+      "size": 3492357
+    }
+  ]
+}

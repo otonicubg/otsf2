@@ -1,0 +1,15 @@
+{
+  "name": "blackjack",
+  "file": "blackjack.html",
+  "size": 2978397,
+  "sha256": "7be52890d148a22f4b89e99d72230591d11763fcc582c5fec6dfa9c08ecc3377",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "7e977d895e54b7a9323d5f54.bin",
+      "size": 2978397
+    }
+  ]
+}

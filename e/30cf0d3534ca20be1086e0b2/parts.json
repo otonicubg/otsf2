@@ -1,0 +1,15 @@
+{
+  "name": "CSGO Clicker",
+  "file": "CSGO Clicker.html",
+  "size": 2418373,
+  "sha256": "95ea4788a84b75ec6fc09e62a9c588075e0d3ca9c9e24971c6245c14e1c10825",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "d160c1018a0ec15ca5bf1f3d.bin",
+      "size": 2418373
+    }
+  ]
+}

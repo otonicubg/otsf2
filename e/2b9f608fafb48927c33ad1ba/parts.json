@@ -1,0 +1,15 @@
+{
+  "name": "Flappy 2048",
+  "file": "Flappy 2048.html",
+  "size": 1083660,
+  "sha256": "efce150b9103e8ba85417e551029b07ede3df7745e3ddfe6cbfbf58c86ed8c8e",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "ce6472e0b280ed1d4e5ce92d.bin",
+      "size": 1083660
+    }
+  ]
+}

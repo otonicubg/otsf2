@@ -1,0 +1,15 @@
+{
+  "name": "Slender Multiplayer",
+  "file": "Slender Multiplayer.html",
+  "size": 11677277,
+  "sha256": "7ece3d395f5463ec0dd9a80a05c4b84f7e8b65f8207b3d48c3aaf4cfa5ea25de",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "65bc5bb65cca51dc755e278a.bin",
+      "size": 11677277
+    }
+  ]
+}
