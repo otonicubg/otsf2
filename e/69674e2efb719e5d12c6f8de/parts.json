@@ -1,0 +1,19 @@
+{
+  "name": "Appel",
+  "file": "Appel.html",
+  "size": 32164520,
+  "sha256": "fe3564ee74158513a6116ac93ce944e3ea8c5eff442a06e8e37c178cf517e639",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "f37270ab1ce67443482f9fbb.bin",
+      "size": 20971520
+    },
+    {
+      "name": "8c97a3f76630bbe9ee5cbe53.bin",
+      "size": 11193000
+    }
+  ]
+}

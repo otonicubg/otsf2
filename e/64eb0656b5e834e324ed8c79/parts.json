@@ -1,0 +1,15 @@
+{
+  "name": "moosha",
+  "file": "moosha.html",
+  "size": 12269372,
+  "sha256": "de03cda0faaadb1576f7ca59c10f963bdbdb8458c080c90c011d365b808b2c24",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "27f267b61d2db6bf0caa66d3.bin",
+      "size": 12269372
+    }
+  ]
+}

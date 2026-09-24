@@ -1,0 +1,19 @@
+{
+  "name": "elephant rave 2",
+  "file": "elephant rave 2.html",
+  "size": 33950317,
+  "sha256": "de2e2549c35baedbabf9abfd3bfb917147ec2c38491211eda8756bf7ef6adb7c",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "0dda742d55f4efa370e8dfe1.bin",
+      "size": 20971520
+    },
+    {
+      "name": "2899ea3e5c40c1c7f124eeb8.bin",
+      "size": 12978797
+    }
+  ]
+}

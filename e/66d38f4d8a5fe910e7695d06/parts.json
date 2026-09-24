@@ -1,0 +1,15 @@
+{
+  "name": "chroma",
+  "file": "chroma.html",
+  "size": 122254,
+  "sha256": "664e69af2bf8aa155baf699d4967b100e26f2a6564f193a3154ee3e169701813",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "783ebe21774fc897edbba1de.bin",
+      "size": 122254
+    }
+  ]
+}

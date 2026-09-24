@@ -1,0 +1,15 @@
+{
+  "name": "Flat Guys",
+  "file": "Flat Guys.html",
+  "size": 144432,
+  "sha256": "3833c526d22df71d59ec6d098c7d25ca2569d8fe9bf6e53cec46fbaa635aa029",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "aee17c8abfb7e2e1dd7c3fd9.bin",
+      "size": 144432
+    }
+  ]
+}

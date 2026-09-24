@@ -1,0 +1,19 @@
+{
+  "name": "pixwars 2",
+  "file": "pixwars 2.html",
+  "size": 26409007,
+  "sha256": "a9138479af71169b4917385c6d5ecb2de6ccc22ba1744ab8b0c1f59c34ac0741",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "0ff4db9c4398a7f063f74a3c.bin",
+      "size": 20971520
+    },
+    {
+      "name": "1944a7b8cb41354fc22e96b3.bin",
+      "size": 5437487
+    }
+  ]
+}

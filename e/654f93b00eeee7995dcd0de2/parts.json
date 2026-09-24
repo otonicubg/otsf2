@@ -1,0 +1,15 @@
+{
+  "name": "path of arrows",
+  "file": "path of arrows.html",
+  "size": 16540253,
+  "sha256": "6f413b0c6ba5ef380bab4abe53d6f20c72abea5d3c6c16db593abfca00e1a3d8",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "96a46db2ceba3392ddeed4dd.bin",
+      "size": 16540253
+    }
+  ]
+}

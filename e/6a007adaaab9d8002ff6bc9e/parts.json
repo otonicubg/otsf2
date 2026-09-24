@@ -1,0 +1,15 @@
+{
+  "name": "pathfinder",
+  "file": "pathfinder.html",
+  "size": 107249,
+  "sha256": "0b7bc2fdb9ef0970fd6c4b8e9b494c5bf5ddefdb3b4d425d596beb8fded73a15",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "9d49dc7432c7364682a5fef3.bin",
+      "size": 107249
+    }
+  ]
+}

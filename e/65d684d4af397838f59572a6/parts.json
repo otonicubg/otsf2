@@ -1,0 +1,27 @@
+{
+  "name": "die in the dungeon",
+  "file": "die in the dungeon.html",
+  "size": 69681037,
+  "sha256": "3f6fd5a7829977886d1c80ce40f9749e174a43e245e1d0190f3732a813bfef7e",
+  "partSize": 20971520,
+  "count": 4,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "e2da59192f5059ee8c0adcb6.bin",
+      "size": 20971520
+    },
+    {
+      "name": "a576cbe863e84848b5d2715d.bin",
+      "size": 20971520
+    },
+    {
+      "name": "a040d67c828149d241f59570.bin",
+      "size": 20971520
+    },
+    {
+      "name": "4c525726efc531882837f887.bin",
+      "size": 6766477
+    }
+  ]
+}

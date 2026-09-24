@@ -1,0 +1,15 @@
+{
+  "name": "roots",
+  "file": "roots.html",
+  "size": 19826719,
+  "sha256": "189f3fc51864ac6e5e2e4ad0fdd274ee68b4422c0bd4b96d447d91af0b598920",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "3b3790ca74e48929601a8842.bin",
+      "size": 19826719
+    }
+  ]
+}

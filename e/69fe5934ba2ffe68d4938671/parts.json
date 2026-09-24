@@ -1,0 +1,15 @@
+{
+  "name": "infinite soccer",
+  "file": "infinite soccer.html",
+  "size": 19222102,
+  "sha256": "80c438e0e92ae17b25742bb102a9a1368d2058bc0f848db6c82451494242baad",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "4c2487d43d74ef192776372f.bin",
+      "size": 19222102
+    }
+  ]
+}

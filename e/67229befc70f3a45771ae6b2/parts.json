@@ -1,0 +1,15 @@
+{
+  "name": "Bubble Tanks 2",
+  "file": "Bubble Tanks 2.html",
+  "size": 12986244,
+  "sha256": "46a8589e9dd2708a0ebb6b316aeec3147794cd566620206ac03b8547ee3abc01",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "6429ee8139d43eef12d17559.bin",
+      "size": 12986244
+    }
+  ]
+}
