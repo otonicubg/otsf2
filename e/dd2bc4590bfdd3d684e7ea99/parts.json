@@ -1,0 +1,15 @@
+{
+  "name": "Tradecraft",
+  "file": "Tradecraft.html",
+  "size": 916557,
+  "sha256": "3c2fb449d9cdac1e938d402d6ed773dd4e37c4180c8f209f4a68f9e8490ad508",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "ed5c523b45f60bea9f6adf71.bin",
+      "size": 916557
+    }
+  ]
+}

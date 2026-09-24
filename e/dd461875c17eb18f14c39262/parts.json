@@ -1,0 +1,15 @@
+{
+  "name": "Paper.io",
+  "file": "Paper.io.html",
+  "size": 1864079,
+  "sha256": "adc4b8c0e25b118b9a535dc3a12e6ac41ac392f1b084e558041b96e696ea7144",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "091c13f8c808215e828db345.bin",
+      "size": 1864079
+    }
+  ]
+}

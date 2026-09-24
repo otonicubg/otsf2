@@ -1,0 +1,15 @@
+{
+  "name": "Tower Master",
+  "file": "Tower Master.html",
+  "size": 2299867,
+  "sha256": "55f2d0c9632ce46b3e3218f0d06d795efadcd09833b8291d9ed00c30cb6782ef",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "abd619d20e245ecc1c7d30c9.bin",
+      "size": 2299867
+    }
+  ]
+}

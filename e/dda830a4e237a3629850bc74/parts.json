@@ -1,0 +1,15 @@
+{
+  "name": "monkey mart",
+  "file": "monkey mart.html",
+  "size": 6484814,
+  "sha256": "8e0f489f9d10c0b76393649d362795de93397967b5ac18e5e746828308df1f79",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "98b96fc0c88c779b9809521c.bin",
+      "size": 6484814
+    }
+  ]
+}
