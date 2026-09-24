@@ -1,0 +1,19 @@
+{
+  "name": "candy clicker",
+  "file": "candy clicker.html",
+  "size": 34699033,
+  "sha256": "8113c901a25ed9f4183f46aa5c6f352eddff868ac7b96a2f7fa6eac719523099",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "835a0327743e404bb15b7e07.bin",
+      "size": 20971520
+    },
+    {
+      "name": "e810480b8e81f4878635f9ba.bin",
+      "size": 13727513
+    }
+  ]
+}

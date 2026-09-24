@@ -1,0 +1,15 @@
+{
+  "name": "sausage flipping",
+  "file": "sausage flipping.html",
+  "size": 17413630,
+  "sha256": "1023a879543757585537f364cb232aae5ebfeb32dc132a4d9cac2b7adf1aa4e1",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "ee1cefb4ea6db1858db92d48.bin",
+      "size": 17413630
+    }
+  ]
+}
