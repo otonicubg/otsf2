@@ -1,0 +1,39 @@
+{
+  "name": "party project",
+  "file": "party project.html",
+  "size": 144652140,
+  "sha256": "815c5eb05d13ec74961d87c160fab5651511cdd70c60bbbbdb38272f98d68716",
+  "partSize": 20971520,
+  "count": 7,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "09729c59410c2afc90a951bc.bin",
+      "size": 20971520
+    },
+    {
+      "name": "8459a06c33b9eced6c8530d2.bin",
+      "size": 20971520
+    },
+    {
+      "name": "0d5584fe07512406e5ec1d55.bin",
+      "size": 20971520
+    },
+    {
+      "name": "511f388b74c0c3df8fe02bc5.bin",
+      "size": 20971520
+    },
+    {
+      "name": "d5265b9d2c1aabd42955ea2b.bin",
+      "size": 20971520
+    },
+    {
+      "name": "635a5252e2d7e93bb776a496.bin",
+      "size": 20971520
+    },
+    {
+      "name": "2e19f53ad99fee96763ef842.bin",
+      "size": 18823020
+    }
+  ]
+}

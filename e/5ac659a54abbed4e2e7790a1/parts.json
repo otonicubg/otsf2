@@ -1,0 +1,19 @@
+{
+  "name": "leader strike",
+  "file": "leader strike.html",
+  "size": 40305120,
+  "sha256": "8a63c0890ea85563b79288e352dbeaa782d15b44ba2e66b95eb33f5aa158495b",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "54584013ae5435a986af8aff.bin",
+      "size": 20971520
+    },
+    {
+      "name": "fda40bb8fa57928033531053.bin",
+      "size": 19333600
+    }
+  ]
+}

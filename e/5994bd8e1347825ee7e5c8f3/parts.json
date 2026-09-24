@@ -1,0 +1,15 @@
+{
+  "name": "big tower tiny square 2",
+  "file": "big tower tiny square 2.html",
+  "size": 14862503,
+  "sha256": "7f94b3e125553949d8680ae2c62fecfbd623739b8438e9c609914f5cfad3009e",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "c220fcc4045c456f895748aa.bin",
+      "size": 14862503
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "knight errant",
+  "file": "knight errant.html",
+  "size": 24668372,
+  "sha256": "37defdee4c14279af03999eb82a6a4bcc89f4e0b52c7d47b546809bbcfafe02a",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "5225939f40243cc13280dea3.bin",
+      "size": 20971520
+    },
+    {
+      "name": "6cf6a41d21f293cfd072a9f0.bin",
+      "size": 3696852
+    }
+  ]
+}

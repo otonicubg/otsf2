@@ -1,0 +1,15 @@
+{
+  "name": "Pixel shooter",
+  "file": "Pixel shooter.html",
+  "size": 198999,
+  "sha256": "dc92a82c8082e60b156356879694e10469089e2c4954d728dc78a0355595d737",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "9ae94085fda8344113d7b29f.bin",
+      "size": 198999
+    }
+  ]
+}

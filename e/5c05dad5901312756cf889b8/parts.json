@@ -1,0 +1,15 @@
+{
+  "name": "yin and yang",
+  "file": "yin and yang.html",
+  "size": 4339140,
+  "sha256": "08c37d877894c12565e52d21025678be7169e2b30da21101e7e634af2b7925b7",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "8dbaeccb2ddb6a38217f378f.bin",
+      "size": 4339140
+    }
+  ]
+}

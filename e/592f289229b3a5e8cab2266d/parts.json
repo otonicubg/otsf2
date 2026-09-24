@@ -1,0 +1,15 @@
+{
+  "name": "mini flips",
+  "file": "mini flips.html",
+  "size": 4279904,
+  "sha256": "aba3fa017e981c7d8eabf8dc7ef4af44f4090a072387efb83c563f13b8f3ab6f",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "a7cfdd5d891acdea01aaac61.bin",
+      "size": 4279904
+    }
+  ]
+}

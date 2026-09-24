@@ -1,0 +1,15 @@
+{
+  "name": "sticky sorcerer",
+  "file": "sticky sorcerer.html",
+  "size": 7666175,
+  "sha256": "180793d76107b95d8886dd78f1b14f995799431adfb530c1a8bde927fd734ea0",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "75754de575ac1606628dd37d.bin",
+      "size": 7666175
+    }
+  ]
+}

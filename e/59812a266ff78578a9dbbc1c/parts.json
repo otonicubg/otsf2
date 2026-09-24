@@ -1,0 +1,27 @@
+{
+  "name": "ultimate offroad simulator",
+  "file": "ultimate offroad simulator.html",
+  "size": 64335574,
+  "sha256": "94b3beb45647457c8348a3fecfe1648deca9476e2883fff3f7261ab4357c5546",
+  "partSize": 20971520,
+  "count": 4,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "171c62570842a2936402fae5.bin",
+      "size": 20971520
+    },
+    {
+      "name": "8db2097673993a3affc531d6.bin",
+      "size": 20971520
+    },
+    {
+      "name": "695c1bc48de4ab19dd232815.bin",
+      "size": 20971520
+    },
+    {
+      "name": "311dc1a0a32f2fdaae64fca0.bin",
+      "size": 1421014
+    }
+  ]
+}

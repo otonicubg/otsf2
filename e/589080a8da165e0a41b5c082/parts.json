@@ -1,0 +1,15 @@
+{
+  "name": "cloudhopper",
+  "file": "cloudhopper.html",
+  "size": 9520396,
+  "sha256": "85b89d6ac80812f5c3bbbc63074a367619bc330a938793eceb1e7f993ff7c540",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "1faaf58219121f0c36fad2e9.bin",
+      "size": 9520396
+    }
+  ]
+}

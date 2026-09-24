@@ -1,0 +1,23 @@
+{
+  "name": "space order mine",
+  "file": "space order mine.html",
+  "size": 43158086,
+  "sha256": "1223d9bda86e92a26973af243befe63c29d7599ce404ee7cf5e32173bcc223dd",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "343d3d969ea595fcfcde5ed0.bin",
+      "size": 20971520
+    },
+    {
+      "name": "3169827107464c931c26db9b.bin",
+      "size": 20971520
+    },
+    {
+      "name": "161ee742bb81707242e0948d.bin",
+      "size": 1215046
+    }
+  ]
+}

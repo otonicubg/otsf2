@@ -1,0 +1,15 @@
+{
+  "name": "more ore",
+  "file": "more ore.html",
+  "size": 11587375,
+  "sha256": "7bf675fd4582f00b7e23c263b9cea9483a750b041b7ecd8f87dc547c53268c4e",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "beeda5bc9876bdb8db69bd8a.bin",
+      "size": 11587375
+    }
+  ]
+}
