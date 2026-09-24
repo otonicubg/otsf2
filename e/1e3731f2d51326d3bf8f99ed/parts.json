@@ -1,0 +1,19 @@
+{
+  "name": "ordeals of december",
+  "file": "ordeals of december.html",
+  "size": 23480230,
+  "sha256": "7fcf530ccd80bec428940a896a1004f81075b2ecb571b2add19ae9767f3ded1f",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "9d59948957faefcf6a300c84.bin",
+      "size": 20971520
+    },
+    {
+      "name": "a214d774e1e49cd81f8e84ae.bin",
+      "size": 2508710
+    }
+  ]
+}

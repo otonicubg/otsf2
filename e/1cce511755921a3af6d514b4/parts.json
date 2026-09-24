@@ -1,0 +1,27 @@
+{
+  "name": "freefall tournament",
+  "file": "freefall tournament.html",
+  "size": 70466919,
+  "sha256": "826780a3ecdbd5c481057d171e16007bfeaab9a4b36965691c2dc45bbdb36588",
+  "partSize": 20971520,
+  "count": 4,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "7268bd5eda3329f00d367977.bin",
+      "size": 20971520
+    },
+    {
+      "name": "64452d0e62721d1cfc0ccd29.bin",
+      "size": 20971520
+    },
+    {
+      "name": "1d360e452fe8168ac48bad02.bin",
+      "size": 20971520
+    },
+    {
+      "name": "7f664126b3cbec4d60db24bd.bin",
+      "size": 7552359
+    }
+  ]
+}

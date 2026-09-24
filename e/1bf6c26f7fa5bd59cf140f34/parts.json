@@ -1,0 +1,23 @@
+{
+  "name": "hammer 2 reloaded",
+  "file": "hammer 2 reloaded.html",
+  "size": 44887996,
+  "sha256": "3cefed5d1548407a9e2c70e06ab619f0d61eed5050a3b35bc55c0f8d7873fb84",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "3880503faff5d564e391bc2b.bin",
+      "size": 20971520
+    },
+    {
+      "name": "64f09beabb8c2c24523c6241.bin",
+      "size": 20971520
+    },
+    {
+      "name": "5142c1aa789443df8cc6c074.bin",
+      "size": 2944956
+    }
+  ]
+}

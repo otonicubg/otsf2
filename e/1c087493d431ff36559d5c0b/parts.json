@@ -1,0 +1,15 @@
+{
+  "name": "rail connect",
+  "file": "rail connect.html",
+  "size": 10260208,
+  "sha256": "6ab102d379b2e6dbfd83d969fbe879121c9221a74922ebd708fef4e837a0118d",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "ff2ceb42bafce357bed413ea.bin",
+      "size": 10260208
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "ragdoll hit",
+  "file": "ragdoll hit.html",
+  "size": 19126107,
+  "sha256": "fcd65b21d4ea59c4a3ee5be86522e17ad81aa75cc01772b05cff0050633b034a",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "30259480c8d87bc044275d62.bin",
+      "size": 19126107
+    }
+  ]
+}

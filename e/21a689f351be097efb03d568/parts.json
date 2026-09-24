@@ -1,0 +1,15 @@
+{
+  "name": "The Square",
+  "file": "The Square.html",
+  "size": 13446981,
+  "sha256": "2f140f7d3da5588668dd7fb61ed680c0d3b6f924e315bb60c0a0b9f198ab1791",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "83cd539031c0ab6dd0655025.bin",
+      "size": 13446981
+    }
+  ]
+}

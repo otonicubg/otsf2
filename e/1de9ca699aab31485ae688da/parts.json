@@ -1,0 +1,15 @@
+{
+  "name": "Clash Royale (ripoff)",
+  "file": "Clash Royale (ripoff).html",
+  "size": 3674912,
+  "sha256": "895886200a20fdb72319c8f75e24c47bfdf6bdabaeaf105cf12562c1c1840fca",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "9bb3228dc5d89a1f05766f4d.bin",
+      "size": 3674912
+    }
+  ]
+}

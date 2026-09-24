@@ -1,0 +1,15 @@
+{
+  "name": "AdVenture Capitolists",
+  "file": "AdVenture Capitolists.html",
+  "size": 387082,
+  "sha256": "665744e30febc22db46945cabc062cd754b7c32ffd72e88cdd85eee71ea8d41c",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "c3f7f2dcc4ecf188f83694be.bin",
+      "size": 387082
+    }
+  ]
+}

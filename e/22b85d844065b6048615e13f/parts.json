@@ -1,0 +1,15 @@
+{
+  "name": "sink it",
+  "file": "sink it.html",
+  "size": 20578313,
+  "sha256": "779a0890a6886cd3b2e7ed0ad8d15c8a8ea8aacf6682ac3d966c2670c242a1b0",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "9966d6daf7b2f5775b01a92b.bin",
+      "size": 20578313
+    }
+  ]
+}

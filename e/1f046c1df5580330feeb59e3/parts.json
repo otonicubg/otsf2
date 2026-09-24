@@ -1,0 +1,19 @@
+{
+  "name": "8bit fiesta",
+  "file": "8bit fiesta.html",
+  "size": 41936018,
+  "sha256": "49f02bed0874493b42ce8fd9886a6dd4a4cbdeac65978d485339bf25de0ee7db",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "cabef122e2b0e39add32ca06.bin",
+      "size": 20971520
+    },
+    {
+      "name": "1e1b70b6c95d0f3ff08734ed.bin",
+      "size": 20964498
+    }
+  ]
+}

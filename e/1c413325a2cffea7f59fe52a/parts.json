@@ -1,0 +1,15 @@
+{
+  "name": "space cowboy",
+  "file": "space cowboy.html",
+  "size": 12469399,
+  "sha256": "a4df1d75f10a226d18c0b7d157fb487797b98ca40ca0ea1ccaf593067e54eba4",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "a76c8c54c132a35d1b995e97.bin",
+      "size": 12469399
+    }
+  ]
+}

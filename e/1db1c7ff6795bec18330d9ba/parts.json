@@ -1,0 +1,15 @@
+{
+  "name": "TV Static",
+  "file": "TV Static.html",
+  "size": 7844561,
+  "sha256": "89fe9856a6b09e0ef819c37bb241a775751cc46704b052dcaa9e85d4b2db1683",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "191241a33e7c0664a8627b5f.bin",
+      "size": 7844561
+    }
+  ]
+}

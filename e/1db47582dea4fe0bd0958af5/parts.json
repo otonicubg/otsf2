@@ -1,0 +1,27 @@
+{
+  "name": "4x4 drive offroad",
+  "file": "4x4 drive offroad.html",
+  "size": 66707750,
+  "sha256": "6d3b28b95ac89f4158851d826279a9e1cfddc9d5171b4796424265712fb0399c",
+  "partSize": 20971520,
+  "count": 4,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "d55afdbfa3960ae8e65741ba.bin",
+      "size": 20971520
+    },
+    {
+      "name": "9c6bfb62a31b6dfd13c7aaad.bin",
+      "size": 20971520
+    },
+    {
+      "name": "ed76fcf3902f4f27e797aeae.bin",
+      "size": 20971520
+    },
+    {
+      "name": "d709b24f7decbc0b29247c62.bin",
+      "size": 3793190
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "pink",
+  "file": "pink.html",
+  "size": 5921251,
+  "sha256": "dedda86eca71d1864ffa8c2017277577e235653dba1b4de9fb9a38a67c26bf96",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "e3af1a2d3bcec46b81f26c12.bin",
+      "size": 5921251
+    }
+  ]
+}

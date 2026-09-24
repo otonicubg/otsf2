@@ -1,0 +1,19 @@
+{
+  "name": "Papas Donuteria",
+  "file": "Papas Donuteria.html",
+  "size": 24963905,
+  "sha256": "225813c1ff2110069f947eafc0f7a636602e20691cfca78289c61f98c99c776b",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "776682cddc39d727870d7cd6.bin",
+      "size": 20971520
+    },
+    {
+      "name": "756b616172f993ffac09a5bf.bin",
+      "size": 3992385
+    }
+  ]
+}
