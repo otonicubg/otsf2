@@ -1,0 +1,15 @@
+{
+  "name": "there is no game",
+  "file": "there is no game.html",
+  "size": 7678840,
+  "sha256": "ee3f217b70a9f9cbd173cee1f7816d98f4ec49b14af7add6cd09cf5a0860cf26",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "cfbcccdfdc632d06e16037bf.bin",
+      "size": 7678840
+    }
+  ]
+}

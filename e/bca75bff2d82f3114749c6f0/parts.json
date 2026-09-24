@@ -1,0 +1,15 @@
+{
+  "name": "earn to die",
+  "file": "earn to die.html",
+  "size": 16522869,
+  "sha256": "fd666f3ef923e6d20602403899bb6a6bba018c02d676c0f394c482a4500bdbc5",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "75466cc1cca9139258f0e3a3.bin",
+      "size": 16522869
+    }
+  ]
+}

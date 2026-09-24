@@ -1,0 +1,15 @@
+{
+  "name": "Edge Not Found",
+  "file": "Edge Not Found.html",
+  "size": 169521,
+  "sha256": "22a8b55f170570fa9cf5770da08d66ec25ef606d6e4d81ab0320e555dad0faee",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "4dcd902bd9642121b78cb6f1.bin",
+      "size": 169521
+    }
+  ]
+}

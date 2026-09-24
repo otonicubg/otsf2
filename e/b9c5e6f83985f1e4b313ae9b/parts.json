@@ -1,0 +1,19 @@
+{
+  "name": "the deepest sleep",
+  "file": "the deepest sleep.html",
+  "size": 25930625,
+  "sha256": "b7a258c69d13946b4c5bd96001d39b7d61b7af6007d7afc03ef09c98b2202ad7",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "47e8228b7f3fba20075d5cf0.bin",
+      "size": 20971520
+    },
+    {
+      "name": "ec8a4da5e69c877824b5eb32.bin",
+      "size": 4959105
+    }
+  ]
+}

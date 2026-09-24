@@ -1,0 +1,19 @@
+{
+  "name": "Glass City",
+  "file": "Glass City.html",
+  "size": 26043841,
+  "sha256": "ed3f8a9850b86feeadb374733482eb7561bad50a04813b10e48b92f2b7195fab",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "aa4c02e4b27372c70071e15d.bin",
+      "size": 20971520
+    },
+    {
+      "name": "a0a96ce6581866128e63d5d5.bin",
+      "size": 5072321
+    }
+  ]
+}

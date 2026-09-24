@@ -1,0 +1,35 @@
+{
+  "name": "Speed Stars",
+  "file": "Speed Stars.html",
+  "size": 107171812,
+  "sha256": "a47b04add16eafca82aec92693424e7d713a6685923fb6130af1f7b39aaab59b",
+  "partSize": 20971520,
+  "count": 6,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "b275205f49699502e0f3e838.bin",
+      "size": 20971520
+    },
+    {
+      "name": "a982128f0bfd5dedb4765f1d.bin",
+      "size": 20971520
+    },
+    {
+      "name": "a964bad53184952cba403eaa.bin",
+      "size": 20971520
+    },
+    {
+      "name": "23ff8a30be1ce2eb693b5b75.bin",
+      "size": 20971520
+    },
+    {
+      "name": "d50b5304d5bc7867dfc49d36.bin",
+      "size": 20971520
+    },
+    {
+      "name": "7a9f0fba3f18c390e44f07c2.bin",
+      "size": 2314212
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "tricks",
+  "file": "tricks.html",
+  "size": 14982193,
+  "sha256": "bfbbbaab2d4f2e35720f1d3cbc26a45c7eff793dea4466c8574ec41ffe70c196",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "5e5d4d5cd91eeed1cc19e66a.bin",
+      "size": 14982193
+    }
+  ]
+}

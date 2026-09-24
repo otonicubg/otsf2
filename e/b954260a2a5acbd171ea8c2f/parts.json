@@ -1,0 +1,15 @@
+{
+  "name": "Pokemon Emerald",
+  "file": "Pokemon Emerald.html",
+  "size": 7984257,
+  "sha256": "c05dd3c404c576461dd5eba31655413a79138ba19c57b86f6a460bf3e7641adf",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "428dacabc7d045bd4ed7dc95.bin",
+      "size": 7984257
+    }
+  ]
+}

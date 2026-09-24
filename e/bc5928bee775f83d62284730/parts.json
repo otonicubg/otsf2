@@ -1,0 +1,19 @@
+{
+  "name": "Resent client (mc)",
+  "file": "Resent client (mc).html",
+  "size": 26801392,
+  "sha256": "aed0e99f821a456f713c98f5e8a56f9790702482bf676022962c6eaff0ac268b",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "ffa5220e62daccfc36d9e9cc.bin",
+      "size": 20971520
+    },
+    {
+      "name": "6bd8a14f59575ebd5ebf1f44.bin",
+      "size": 5829872
+    }
+  ]
+}

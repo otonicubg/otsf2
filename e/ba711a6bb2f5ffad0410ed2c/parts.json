@@ -1,0 +1,15 @@
+{
+  "name": "slime knight",
+  "file": "slime knight.html",
+  "size": 5334292,
+  "sha256": "887e91f3415238e26e0a17cbab6ab278cbde836c6ca3d57b11cbd6b57ee869a1",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "631f8b08c3c954957cc4ae21.bin",
+      "size": 5334292
+    }
+  ]
+}

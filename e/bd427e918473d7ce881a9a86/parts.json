@@ -1,0 +1,23 @@
+{
+  "name": "wizard mike",
+  "file": "wizard mike.html",
+  "size": 59886508,
+  "sha256": "43247888a252c57279adf2680f989bf98d73e13fcb3df2322d04005835ecccb8",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "a45647467dd124db4725017d.bin",
+      "size": 20971520
+    },
+    {
+      "name": "24ec30ac94a743154ce735e5.bin",
+      "size": 20971520
+    },
+    {
+      "name": "ed45e3e3faee3ab3bc9a7549.bin",
+      "size": 17943468
+    }
+  ]
+}

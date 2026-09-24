@@ -1,0 +1,15 @@
+{
+  "name": "drift",
+  "file": "drift.html",
+  "size": 328104,
+  "sha256": "cbfccb92d2203a981242238715e2d23be201dfde39ece510503ad1935ff77060",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "7929251f44507b13134fbe6e.bin",
+      "size": 328104
+    }
+  ]
+}

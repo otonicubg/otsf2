@@ -1,0 +1,15 @@
+{
+  "name": "tap tap shots",
+  "file": "tap tap shots.html",
+  "size": 4692959,
+  "sha256": "663050f0b72abedc0a77ff7bc39ea77908bb284f21550fdd85a18d0b8d55c0fc",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "deb1c39bc65b4bdb364eda6c.bin",
+      "size": 4692959
+    }
+  ]
+}

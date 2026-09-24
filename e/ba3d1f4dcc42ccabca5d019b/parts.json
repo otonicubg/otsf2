@@ -1,0 +1,15 @@
+{
+  "name": "miragine war",
+  "file": "miragine war.html",
+  "size": 16649941,
+  "sha256": "d28369ab11072e9b219c21819731d2789801395f417a5e201511601abe004088",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "4b361146b09a956b8fbfa55d.bin",
+      "size": 16649941
+    }
+  ]
+}

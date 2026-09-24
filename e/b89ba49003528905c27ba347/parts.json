@@ -1,0 +1,15 @@
+{
+  "name": "incub8",
+  "file": "incub8.html",
+  "size": 15428544,
+  "sha256": "96d3e30adef3de0817005400020941d44eefb8b13c866cdb6f2bd59b98e22c19",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "787a3bb964be0580653a42ad.bin",
+      "size": 15428544
+    }
+  ]
+}

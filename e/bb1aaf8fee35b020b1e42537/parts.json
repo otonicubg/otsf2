@@ -1,0 +1,15 @@
+{
+  "name": "runick",
+  "file": "runick.html",
+  "size": 11076543,
+  "sha256": "6dbe097c4092e16678eed43db56aaa60dbc71149f98b3152cc89e171732c906f",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "d0c0318040c2c1b99d7ca08f.bin",
+      "size": 11076543
+    }
+  ]
+}

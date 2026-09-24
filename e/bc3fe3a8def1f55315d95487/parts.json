@@ -1,0 +1,19 @@
+{
+  "name": "arcuz",
+  "file": "arcuz.html",
+  "size": 26948071,
+  "sha256": "948a63a88fff1b60e3f15e8b627129bc5251db59fea8eda16d97dfc16cc76b90",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "d43e04d1dac80aa5f37dc728.bin",
+      "size": 20971520
+    },
+    {
+      "name": "ecb9d036bc176441de9c58b6.bin",
+      "size": 5976551
+    }
+  ]
+}

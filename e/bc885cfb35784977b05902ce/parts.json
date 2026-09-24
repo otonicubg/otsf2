@@ -1,0 +1,15 @@
+{
+  "name": "conq.io",
+  "file": "conq.io.html",
+  "size": 12638974,
+  "sha256": "ba7dd290579708af46aaa0690ea3e5ec39b4af5413bf27ddbb296aaffb9165be",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "f8b0a189261e18893dbf5990.bin",
+      "size": 12638974
+    }
+  ]
+}

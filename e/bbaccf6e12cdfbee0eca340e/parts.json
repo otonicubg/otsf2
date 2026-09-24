@@ -1,0 +1,15 @@
+{
+  "name": "choppy orc",
+  "file": "choppy orc.html",
+  "size": 4594169,
+  "sha256": "c1498f86f759832ba6e04e5038f2f4992f7b184abf12a07473d3d0a7cbc4eb12",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "98ee5fc231c9c0c4d3ca41bf.bin",
+      "size": 4594169
+    }
+  ]
+}

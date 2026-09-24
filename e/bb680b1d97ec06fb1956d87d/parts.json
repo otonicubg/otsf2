@@ -1,0 +1,19 @@
+{
+  "name": "clash of tanks",
+  "file": "clash of tanks.html",
+  "size": 29667149,
+  "sha256": "bf60589de60b489762bf2ba02dee2a1f442b666ee12912c678c4d1af11d63bc2",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "ac92a4132ab75ca703f68a3f.bin",
+      "size": 20971520
+    },
+    {
+      "name": "53134ccde802581b9ee1669b.bin",
+      "size": 8695629
+    }
+  ]
+}

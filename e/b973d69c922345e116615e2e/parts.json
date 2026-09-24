@@ -1,0 +1,15 @@
+{
+  "name": "Flappy Bird",
+  "file": "Flappy Bird.html",
+  "size": 2422803,
+  "sha256": "d6b23e7ba5ab2f520b9686711028c05a328dbe36f5ab64b26154f7fd56a322f0",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "ed3a998142becdef4e403bb2.bin",
+      "size": 2422803
+    }
+  ]
+}

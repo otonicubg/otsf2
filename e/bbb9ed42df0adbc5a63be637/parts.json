@@ -1,0 +1,15 @@
+{
+  "name": "eatio",
+  "file": "eatio.html",
+  "size": 13990067,
+  "sha256": "4ef5983077142609b8bf4ce2b81525df09b1c6baed0d7cea3e5848de74c6758d",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "46b2905adc85fde7206c5862.bin",
+      "size": 13990067
+    }
+  ]
+}
