@@ -1,0 +1,15 @@
+{
+  "name": "tactical weapon pack",
+  "file": "tactical weapon pack.html",
+  "size": 16773479,
+  "sha256": "313906debc21cb753a544094e165611b4bb2a349227c75c5dd2102ca58e1cb3f",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "8c64adabe20b46daf96af5fc.bin",
+      "size": 16773479
+    }
+  ]
+}

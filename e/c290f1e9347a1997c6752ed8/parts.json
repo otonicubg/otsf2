@@ -1,0 +1,19 @@
+{
+  "name": "marcus osnail",
+  "file": "marcus osnail.html",
+  "size": 27355837,
+  "sha256": "399e61a8bf99076e6046c5efc365a0921e223447ca8ff1d92039660cdf80a6f2",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "6fd46a4524655c1eaf9393a4.bin",
+      "size": 20971520
+    },
+    {
+      "name": "987cf87edf93d5be2eaa3b5a.bin",
+      "size": 6384317
+    }
+  ]
+}

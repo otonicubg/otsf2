@@ -1,0 +1,15 @@
+{
+  "name": "cannon basketball 4",
+  "file": "cannon basketball 4.html",
+  "size": 6995611,
+  "sha256": "7bf8a65b8c39f0eeed8670bb4a0b6cb98ba938e0077d103c1c82c801c23ce6e0",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "932bbfd08774a07dedda4a46.bin",
+      "size": 6995611
+    }
+  ]
+}

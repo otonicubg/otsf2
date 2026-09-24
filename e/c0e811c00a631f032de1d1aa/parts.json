@@ -1,0 +1,15 @@
+{
+  "name": "pixel tap dungeon",
+  "file": "pixel tap dungeon.html",
+  "size": 3971214,
+  "sha256": "dafe55ae477f560d1c643d284eac56d060afe551c0d6d0467ad230bd6420c1e0",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "bdca1c68493ed30b43a6b57e.bin",
+      "size": 3971214
+    }
+  ]
+}

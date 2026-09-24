@@ -1,0 +1,19 @@
+{
+  "name": "Tomb of the mask",
+  "file": "Tomb of the mask.html",
+  "size": 21174505,
+  "sha256": "c5443b79cc3decddf7fddd632bb02cc46f4c1dfd0b0291774f5e4b44c21f2a4d",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "4fa86cbb74899080e779aa45.bin",
+      "size": 20971520
+    },
+    {
+      "name": "1d66a463511a143ed24a443e.bin",
+      "size": 202985
+    }
+  ]
+}

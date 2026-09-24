@@ -1,0 +1,19 @@
+{
+  "name": "kity builder prototype",
+  "file": "kity builder prototype.html",
+  "size": 26720367,
+  "sha256": "373d08d98b4ae9458e96b259378e9edcc1cea0b2a95056ab3eaac5cad589cdf3",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "895e4ff5edc2a8a2c1437aa2.bin",
+      "size": 20971520
+    },
+    {
+      "name": "9370c3d50160acf1a5a1bd88.bin",
+      "size": 5748847
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "tanuki sunset",
+  "file": "tanuki sunset.html",
+  "size": 63200897,
+  "sha256": "af7bc9bd6005c77136807a68b575f35b63e73e44480589f7f5f08274b955f539",
+  "partSize": 20971520,
+  "count": 4,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "91fa71be18da16051f3fe125.bin",
+      "size": 20971520
+    },
+    {
+      "name": "dec6f83fff9789f8ecee62ac.bin",
+      "size": 20971520
+    },
+    {
+      "name": "de52d5a76d5d94900ba35659.bin",
+      "size": 20971520
+    },
+    {
+      "name": "705392c363ac02d06959bc84.bin",
+      "size": 286337
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Ragdoll Drop",
+  "file": "Ragdoll Drop.html",
+  "size": 14079322,
+  "sha256": "7c0dcfccbb437d35e8e78a6b759915a9ece753e52209d4b11f3fe8daebcf0fe8",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "347df4581fa55e6a0a38dcd5.bin",
+      "size": 14079322
+    }
+  ]
+}

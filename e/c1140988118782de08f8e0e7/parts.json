@@ -1,0 +1,15 @@
+{
+  "name": "crazy cars",
+  "file": "crazy cars.html",
+  "size": 16182373,
+  "sha256": "32607bd9c7d8f36a76e9ae1a29236a694bd88a3f49c8c2b623faf72d72631d75",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "6ecf790d0ed87ba5ae5c9dad.bin",
+      "size": 16182373
+    }
+  ]
+}

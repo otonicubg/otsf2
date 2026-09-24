@@ -1,0 +1,19 @@
+{
+  "name": "Subway Surfers Monaco",
+  "file": "Subway Surfers Monaco.html",
+  "size": 31824668,
+  "sha256": "13b8c6d2e5f98419427ab5b6084c17ac4867834060ff1bd976fe8beb55983f40",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "0aacfd551999eae513052592.bin",
+      "size": 20971520
+    },
+    {
+      "name": "55d61d75ef24153189b78ede.bin",
+      "size": 10853148
+    }
+  ]
+}

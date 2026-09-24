@@ -1,0 +1,15 @@
+{
+  "name": "sumo party",
+  "file": "sumo party.html",
+  "size": 15933911,
+  "sha256": "dd9212af4b2e82cd01b7ce283b57f00ec2ccfec93c9ce9825ec9ca05d84ca6c3",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "6816bd74ddcdf0e757eb8bf2.bin",
+      "size": 15933911
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "spirit dungeons",
+  "file": "spirit dungeons.html",
+  "size": 403667,
+  "sha256": "3f1e499ad496b45c0f263a2f117590f9b89bb4ab3e2355eeccf18704fc01d70c",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "c1074d881d7c8d6d1cc1102f.bin",
+      "size": 403667
+    }
+  ]
+}

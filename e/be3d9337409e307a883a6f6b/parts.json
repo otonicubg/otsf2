@@ -1,0 +1,15 @@
+{
+  "name": "cursed travels below",
+  "file": "cursed travels below.html",
+  "size": 5495480,
+  "sha256": "8855ffe95d631c5eaae7f7add77cbad46c4ba48322d86565bdf61e2013c42e22",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "25e2acd6426f4c0eb49ff8d3.bin",
+      "size": 5495480
+    }
+  ]
+}

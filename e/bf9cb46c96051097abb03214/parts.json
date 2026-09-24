@@ -1,0 +1,15 @@
+{
+  "name": "gun mayhem 3",
+  "file": "gun mayhem 3.html",
+  "size": 16748219,
+  "sha256": "38756f8adb1a25ae54dcdfe4a8a7b2e3dbe3ff2797fa95a69f70ad7f4343281a",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "6f90a6e9a773f739a52cdc3b.bin",
+      "size": 16748219
+    }
+  ]
+}

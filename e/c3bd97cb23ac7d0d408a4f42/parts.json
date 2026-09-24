@@ -1,0 +1,15 @@
+{
+  "name": "escape kid",
+  "file": "escape kid.html",
+  "size": 11118306,
+  "sha256": "602d2ccdb5eeb945047f22245521ef5f76d5a3c4d6aa774a9a7dc4454ab722d3",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "dcbc57cc4b2e8d12ffd3e2a1.bin",
+      "size": 11118306
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "gooballs",
+  "file": "gooballs.html",
+  "size": 16616221,
+  "sha256": "2a7601016485045045298367e5cedc961a5b520f1484303c35a40a4cb1e9f852",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "7d363a07e13f2a479d385ac9.bin",
+      "size": 16616221
+    }
+  ]
+}

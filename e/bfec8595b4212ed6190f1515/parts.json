@@ -1,0 +1,15 @@
+{
+  "name": "Doodle Jump",
+  "file": "Doodle Jump.html",
+  "size": 372271,
+  "sha256": "d60abb6bc5ddb9d4475e76f5f9b6395d60898a6c5b74b8ae9f2fccb84f3aa62b",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "57f217e80641da3b16d2ec47.bin",
+      "size": 372271
+    }
+  ]
+}

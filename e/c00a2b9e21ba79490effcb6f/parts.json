@@ -1,0 +1,19 @@
+{
+  "name": "bladers",
+  "file": "bladers.html",
+  "size": 24946263,
+  "sha256": "627357dbf27782d6c36532be7c93a28cf147d256230c3706d93e5a5621d1a38e",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "330f62103d547ed015aa8c7f.bin",
+      "size": 20971520
+    },
+    {
+      "name": "15db0a21eaa75155784f3e36.bin",
+      "size": 3974743
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Strike Force Kitty 1",
+  "file": "Strike Force Kitty 1.html",
+  "size": 15930933,
+  "sha256": "1d68cd988e865aee6e0cba5cba3a1b2e7c56adc850579a55fb7ab06490622eb6",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "0483d7491605ef8d720b7b0d.bin",
+      "size": 15930933
+    }
+  ]
+}

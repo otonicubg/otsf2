@@ -1,0 +1,15 @@
+{
+  "name": "bowling stars",
+  "file": "bowling stars.html",
+  "size": 15265061,
+  "sha256": "1edf93a40629b9958dd446fcc9b6b81b62d9dc260efde7e84e440f0eb0625a27",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "4758e47b61b8c2aef64f67a4.bin",
+      "size": 15265061
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "onion boy",
+  "file": "onion boy.html",
+  "size": 22838720,
+  "sha256": "f0b5137d5eac9755fdfc540fe2369081e3ebf4ae82b0933db1e2e18ff3718e88",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "86fc678280c6f8eb36e8947c.bin",
+      "size": 20971520
+    },
+    {
+      "name": "71eb26fff1116c814479bc88.bin",
+      "size": 1867200
+    }
+  ]
+}

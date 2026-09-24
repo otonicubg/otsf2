@@ -1,0 +1,15 @@
+{
+  "name": "Basketball Stars",
+  "file": "Basketball Stars.html",
+  "size": 13904945,
+  "sha256": "b859f5ee7556cd2d29614789a9729f8838d92dd66eae7a83f963e054bc24cb76",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "20716f4a9cd0f57a265f2c94.bin",
+      "size": 13904945
+    }
+  ]
+}
