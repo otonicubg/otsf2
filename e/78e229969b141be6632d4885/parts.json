@@ -1,0 +1,15 @@
+{
+  "name": "idle fill factory",
+  "file": "idle fill factory.html",
+  "size": 8412758,
+  "sha256": "c40309d00508318762b0a00add3ea5a880dfe848ebb8516e7beab532da631f51",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "17eddf76b6ab5a6374325913.bin",
+      "size": 8412758
+    }
+  ]
+}

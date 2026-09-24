@@ -1,0 +1,15 @@
+{
+  "name": "stick fighters",
+  "file": "stick fighters.html",
+  "size": 17033049,
+  "sha256": "14cf5db8afe9662e834aa18e1145f6dc5915d2457ee6295ca98f2e2ddd58ef1f",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "5f9e7d8cb739093949583c86.bin",
+      "size": 17033049
+    }
+  ]
+}

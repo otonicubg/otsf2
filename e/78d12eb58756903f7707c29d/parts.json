@@ -1,0 +1,23 @@
+{
+  "name": "oil race",
+  "file": "oil race.html",
+  "size": 42773297,
+  "sha256": "59ef5e3f43c789f011a637e0d28a783d15132542881d960b281ddb7a4b99d1b1",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "cddf3138e2890ad78fab103a.bin",
+      "size": 20971520
+    },
+    {
+      "name": "9bb9ce387f19508b387115af.bin",
+      "size": 20971520
+    },
+    {
+      "name": "74796403ad6749c3d4b17142.bin",
+      "size": 830257
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "brain test tricky puzzles",
+  "file": "brain test tricky puzzles.html",
+  "size": 15735317,
+  "sha256": "224c1b6aad7ff2db81247d061408cb18210d3e5106e312068be03ea55449c318",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "42695bfabd4aca28b63283a2.bin",
+      "size": 15735317
+    }
+  ]
+}

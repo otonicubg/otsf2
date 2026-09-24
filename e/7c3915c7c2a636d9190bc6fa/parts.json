@@ -1,0 +1,15 @@
+{
+  "name": "Papa Louies 1",
+  "file": "Papa Louies 1.html",
+  "size": 14132160,
+  "sha256": "8abafcfb90da4905240435c36118d08a815aa88b3277bc74bdb236b211572778",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "70e681696f403d4319cb7827.bin",
+      "size": 14132160
+    }
+  ]
+}

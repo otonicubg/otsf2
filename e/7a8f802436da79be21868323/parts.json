@@ -1,0 +1,15 @@
+{
+  "name": "antiban",
+  "file": "antiban.html",
+  "size": 1583319,
+  "sha256": "86953762a15c7816e4ba346e53b7b92b2e2fbc5894268a036af3e12e23c28b92",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "f90d722f7b691c1fceb38f22.bin",
+      "size": 1583319
+    }
+  ]
+}

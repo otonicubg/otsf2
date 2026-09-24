@@ -1,0 +1,15 @@
+{
+  "name": "poor bunny",
+  "file": "poor bunny.html",
+  "size": 19329016,
+  "sha256": "bbc1a1d745fc5ecc3d98f23f84b5ada0339ef9a06603ba6253b8f8bcad3f94b2",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "d57dd75fa5e78e04f5163d25.bin",
+      "size": 19329016
+    }
+  ]
+}

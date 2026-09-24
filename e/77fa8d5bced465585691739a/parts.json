@@ -1,0 +1,15 @@
+{
+  "name": "Ledegnd of Zelda Maker",
+  "file": "Ledegnd of Zelda Maker.html",
+  "size": 126821,
+  "sha256": "af603c6fa305ad0c8a9d82e67ae63eb8f44b81e6317f64462f0b18e8afc6c4b5",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "1496df68788e4478604b8a23.bin",
+      "size": 126821
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "zeepkist crash 2d",
+  "file": "zeepkist crash 2d.html",
+  "size": 26940399,
+  "sha256": "99d07d0de7918dbc215f34bffc8dc725a3b45e04b50c4c40104384eb9fef9288",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "eb79268e62036956d34e44f5.bin",
+      "size": 20971520
+    },
+    {
+      "name": "7d4fda5e2cef33a5b94d64ad.bin",
+      "size": 5968879
+    }
+  ]
+}

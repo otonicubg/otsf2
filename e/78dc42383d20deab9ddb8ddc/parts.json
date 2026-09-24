@@ -1,0 +1,15 @@
+{
+  "name": "three goblets",
+  "file": "three goblets.html",
+  "size": 10048709,
+  "sha256": "aab4306db7edc2e5b6a0e858b3d047a8787983696d88a179ad912b11ed1d8046",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "d28358832a4b1c4b5fbd659d.bin",
+      "size": 10048709
+    }
+  ]
+}

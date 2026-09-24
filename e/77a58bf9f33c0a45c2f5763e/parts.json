@@ -1,0 +1,15 @@
+{
+  "name": "eco ego",
+  "file": "eco ego.html",
+  "size": 15178033,
+  "sha256": "2aff3af4b60d7e7d3956105c5dd4aeb86a9273d6de8dbd0005493e298c6f633f",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "43504b5f6f188fb6509fd4c3.bin",
+      "size": 15178033
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Baldurs gate 2",
+  "file": "Baldurs gate 2.html",
+  "size": 43951331,
+  "sha256": "9a891187cd106722e771482a11c8ba5e011f627db7cb9e7d9d5e3746c5594629",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "94528d24322178d86a7b248a.bin",
+      "size": 20971520
+    },
+    {
+      "name": "6026cd97070c066c70289d37.bin",
+      "size": 20971520
+    },
+    {
+      "name": "d4b59092986ad9361ddf48bb.bin",
+      "size": 2008291
+    }
+  ]
+}

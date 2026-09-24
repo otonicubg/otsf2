@@ -1,0 +1,15 @@
+{
+  "name": "shady bears",
+  "file": "shady bears.html",
+  "size": 19556278,
+  "sha256": "7a38530b9736ab2a609647514f6593a3fd4453a6f40a749e9c8581a9e9589534",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "c0e5232463bf017a52c1c0b6.bin",
+      "size": 19556278
+    }
+  ]
+}

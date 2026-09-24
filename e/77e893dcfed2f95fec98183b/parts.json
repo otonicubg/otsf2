@@ -1,0 +1,15 @@
+{
+  "name": "Comic Book Cody",
+  "file": "Comic Book Cody.html",
+  "size": 17074034,
+  "sha256": "0af24ee8a4374784a0797d542bda7eec765c22415d9546bbb9098a1f74c07cdc",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "7c41e06848a5d254d8632882.bin",
+      "size": 17074034
+    }
+  ]
+}

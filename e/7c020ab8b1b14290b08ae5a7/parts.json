@@ -1,0 +1,15 @@
+{
+  "name": "skibidi shooter",
+  "file": "skibidi shooter.html",
+  "size": 17130673,
+  "sha256": "a75c8f535a1db8fd0ab7af8eeb1fe4240557f6a483fa38b162a19216156a4c8a",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "c9add67f473243a86bc36b8a.bin",
+      "size": 17130673
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "mini swim",
+  "file": "mini swim.html",
+  "size": 4141879,
+  "sha256": "84bc2ca34d82080d3578c24fbaf7cd182f728dd3fe6fc7406f4d574c2dbbee9c",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "65e082af184b8728a461b26f.bin",
+      "size": 4141879
+    }
+  ]
+}

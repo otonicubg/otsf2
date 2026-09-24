@@ -1,0 +1,15 @@
+{
+  "name": "tryh4rd",
+  "file": "tryh4rd.html",
+  "size": 11525442,
+  "sha256": "6c3d30b71c6ccdcd9290cac0e5dff73a6ca408f74652818870765347021e8c00",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "a77988143099d6bc68a00be3.bin",
+      "size": 11525442
+    }
+  ]
+}
