@@ -1,0 +1,15 @@
+{
+  "name": "Google Snake",
+  "file": "Google Snake.html",
+  "size": 1645135,
+  "sha256": "5333c74ce473281a5debc8af02b19a10a43247bb327a5730eecbf13727ef4469",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "def6754f350b2cb981cca4e1.bin",
+      "size": 1645135
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "cognite",
+  "file": "cognite.html",
+  "size": 8939567,
+  "sha256": "8bd5aefeb3462fb66f76330d4b13c1293dd03f568c2cfefc12c50e7410330f76",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "e9a4e086d0817343060f35bf.bin",
+      "size": 8939567
+    }
+  ]
+}

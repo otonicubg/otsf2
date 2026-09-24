@@ -1,0 +1,15 @@
+{
+  "name": "ninja kite",
+  "file": "ninja kite.html",
+  "size": 8212086,
+  "sha256": "7715a2c389f6cf34b6694cf7fde3c062064cfed39e9e48fde98aece147823ec3",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "46f9a9f011177ac7f1941c09.bin",
+      "size": 8212086
+    }
+  ]
+}

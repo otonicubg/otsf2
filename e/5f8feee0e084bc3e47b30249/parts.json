@@ -1,0 +1,19 @@
+{
+  "name": "notebook jam",
+  "file": "notebook jam.html",
+  "size": 36739304,
+  "sha256": "d8b4968287df78228866b655e5af3d8f1bb8028b8a78669b6eaaa9820d30b3a4",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "ade606df03744d934a0a6ecb.bin",
+      "size": 20971520
+    },
+    {
+      "name": "237357cf384c130d69f38ef5.bin",
+      "size": 15767784
+    }
+  ]
+}

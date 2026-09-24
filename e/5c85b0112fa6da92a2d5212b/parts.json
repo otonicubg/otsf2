@@ -1,0 +1,23 @@
+{
+  "name": "tiger simulator",
+  "file": "tiger simulator.html",
+  "size": 53487141,
+  "sha256": "b84e0375b4fb63ab825842b15e5e520862304e89d56a31d57078de73e6b146d9",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "3eb3cc93f56af0c92a3eb649.bin",
+      "size": 20971520
+    },
+    {
+      "name": "8e9fc6699463c447b602ab6c.bin",
+      "size": 20971520
+    },
+    {
+      "name": "711e9a3d2bc4b02f708d0d85.bin",
+      "size": 11544101
+    }
+  ]
+}

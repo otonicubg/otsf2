@@ -1,0 +1,15 @@
+{
+  "name": "gem twins",
+  "file": "gem twins.html",
+  "size": 4130071,
+  "sha256": "0d4b6b13552b68d21b0dbb10f8423a189305f5ed133ea42ca757559582ace40c",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "101950bbf9ab5a7ca609a5bf.bin",
+      "size": 4130071
+    }
+  ]
+}

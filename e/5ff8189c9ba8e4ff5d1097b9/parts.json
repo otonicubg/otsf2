@@ -1,0 +1,15 @@
+{
+  "name": "bridge tactics",
+  "file": "bridge tactics.html",
+  "size": 14152079,
+  "sha256": "a2015c67058ce84b90ee0b0d00a3475fb89f977d900c0bacea1ab9c37f95e9a5",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "08b600843d1456bf5c64bfa5.bin",
+      "size": 14152079
+    }
+  ]
+}

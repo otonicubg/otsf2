@@ -1,0 +1,15 @@
+{
+  "name": "pixel foosball",
+  "file": "pixel foosball.html",
+  "size": 332482,
+  "sha256": "7bca8430ba9d857327df499db069af765e53f13b106b4a044f46932dd65e0208",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "bf25ae687c7463086da73f86.bin",
+      "size": 332482
+    }
+  ]
+}

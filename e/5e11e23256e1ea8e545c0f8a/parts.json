@@ -1,0 +1,19 @@
+{
+  "name": "tube clicker",
+  "file": "tube clicker.html",
+  "size": 21044528,
+  "sha256": "f5301151d6de2ba5f31defeb9ef1391300f5f8baa9b1cc8010c9915a6fb09aae",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "897c75f20e71196f28cbb74b.bin",
+      "size": 20971520
+    },
+    {
+      "name": "b69197d39e41db5d6664d190.bin",
+      "size": 73008
+    }
+  ]
+}

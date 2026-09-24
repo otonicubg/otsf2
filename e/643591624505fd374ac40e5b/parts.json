@@ -1,0 +1,23 @@
+{
+  "name": "Survival Race",
+  "file": "Survival Race.html",
+  "size": 43585654,
+  "sha256": "47f0180f2d25a96d9264233ba1048dc9ad834d11bf89264694993e040db64648",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "97a1f026b9df5cd73cb6317a.bin",
+      "size": 20971520
+    },
+    {
+      "name": "fdfa69579331d6e222815817.bin",
+      "size": 20971520
+    },
+    {
+      "name": "fd8eb405b60e968154c44327.bin",
+      "size": 1642614
+    }
+  ]
+}

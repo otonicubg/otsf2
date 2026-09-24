@@ -1,0 +1,15 @@
+{
+  "name": "Fireboy and Watergirl 1",
+  "file": "Fireboy and Watergirl 1.html",
+  "size": 15254908,
+  "sha256": "8d873681aad1c5f5ac8e6487a6990800a3fb112c3a624f3492f9b9ee1ad1b7bd",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "b8cdfbaf488096c326af9237.bin",
+      "size": 15254908
+    }
+  ]
+}

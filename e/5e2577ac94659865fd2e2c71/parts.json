@@ -1,0 +1,15 @@
+{
+  "name": "gravity soccer",
+  "file": "gravity soccer.html",
+  "size": 15740322,
+  "sha256": "c6ef0af258cc2d6249cde492d90169f1610ab12646b9587cfe6cc1809b7203fe",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "0593ec6505c2df3bf40346ea.bin",
+      "size": 15740322
+    }
+  ]
+}

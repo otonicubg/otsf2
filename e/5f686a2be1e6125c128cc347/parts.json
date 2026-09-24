@@ -1,0 +1,15 @@
+{
+  "name": "Factory Balls 1",
+  "file": "Factory Balls 1.html",
+  "size": 11448587,
+  "sha256": "02033e03bb3a2d65826af84f0d2ffbc4b920c87cbd4b88d459ce257400180611",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "6b65084362da08102c00821b.bin",
+      "size": 11448587
+    }
+  ]
+}

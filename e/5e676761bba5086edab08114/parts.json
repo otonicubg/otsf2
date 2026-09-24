@@ -1,0 +1,19 @@
+{
+  "name": "Backrooms",
+  "file": "Backrooms.html",
+  "size": 37997477,
+  "sha256": "fff6d2ae3f7329e38a0212c43268c102396bfa6f3d3523f17caf140256934f74",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "d6e95c71312c29df18014288.bin",
+      "size": 20971520
+    },
+    {
+      "name": "013a25a5e0fe6dbcbbf1f932.bin",
+      "size": 17025957
+    }
+  ]
+}

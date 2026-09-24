@@ -1,0 +1,15 @@
+{
+  "name": "mini magbot",
+  "file": "mini magbot.html",
+  "size": 15194039,
+  "sha256": "4638d35157cf16401099fd411dbd84a9add625e318e11c8bcaee7d817317eafb",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "5465fd8c10928b203152e018.bin",
+      "size": 15194039
+    }
+  ]
+}

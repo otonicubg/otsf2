@@ -1,0 +1,15 @@
+{
+  "name": "athletics hero",
+  "file": "athletics hero.html",
+  "size": 14924163,
+  "sha256": "dc83d69452255a1eacae57a1d5ad0c50e1567c3514741ef30f81eb81a7278a9a",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "5259275cbbef865fba5b7ce0.bin",
+      "size": 14924163
+    }
+  ]
+}

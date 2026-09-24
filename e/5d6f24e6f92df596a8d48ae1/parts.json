@@ -1,0 +1,15 @@
+{
+  "name": "Alien Theif",
+  "file": "Alien Theif.html",
+  "size": 14161711,
+  "sha256": "98ce0e22bd02a95f0dfce2ffa907ae0e14321c0af34302b8e1410e71e6d20ea3",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "991b5b36e2d4ff04b05c0214.bin",
+      "size": 14161711
+    }
+  ]
+}

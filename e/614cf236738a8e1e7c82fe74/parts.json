@@ -1,0 +1,23 @@
+{
+  "name": "burnout extreme drift 2",
+  "file": "burnout extreme drift 2.html",
+  "size": 52916989,
+  "sha256": "a1d4e6e37fa80ea8e22eb4d0af00e2c54cb45fff3f60148c5037e5bc81eb3ba5",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "92f9b4b062590ef49f72bb02.bin",
+      "size": 20971520
+    },
+    {
+      "name": "29d8a013f6e2202b1725f285.bin",
+      "size": 20971520
+    },
+    {
+      "name": "6f71190e0dc5e44b625a4e8b.bin",
+      "size": 10973949
+    }
+  ]
+}

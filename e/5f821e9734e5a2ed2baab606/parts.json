@@ -1,0 +1,15 @@
+{
+  "name": "retro speed",
+  "file": "retro speed.html",
+  "size": 102039,
+  "sha256": "9b4e71bba316c62ff615ef93a4c4ca4b677b6bedc7bc65d668ea53bfa14f8a40",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "e56ace34554efe9faa874575.bin",
+      "size": 102039
+    }
+  ]
+}

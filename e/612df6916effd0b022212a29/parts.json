@@ -1,0 +1,19 @@
+{
+  "name": "air hockey championship deluxe",
+  "file": "air hockey championship deluxe.html",
+  "size": 36930255,
+  "sha256": "464c2b0ed3a9d6dc4569f96dd251eba3626ae81d4a5d65b08eb66f29b24dc495",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "9b9b5d53066f8308f63ccf31.bin",
+      "size": 20971520
+    },
+    {
+      "name": "a0240db3d48c8d6a1d5302cb.bin",
+      "size": 15958735
+    }
+  ]
+}

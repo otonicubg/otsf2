@@ -1,0 +1,19 @@
+{
+  "name": "Papas Hotdoggeria",
+  "file": "Papas Hotdoggeria.html",
+  "size": 21011161,
+  "sha256": "808702ecd41171a68e4b722511cd1b45976ff750081e3f5f14a25e41db57def2",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "b4942945063f5cd1497c1a5f.bin",
+      "size": 20971520
+    },
+    {
+      "name": "159dfba419894d726db53ccc.bin",
+      "size": 39641
+    }
+  ]
+}

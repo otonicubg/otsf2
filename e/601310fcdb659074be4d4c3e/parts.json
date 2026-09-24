@@ -1,0 +1,19 @@
+{
+  "name": "dunk perfect",
+  "file": "dunk perfect.html",
+  "size": 23323011,
+  "sha256": "8062cb08efea49343eef3fc53d1bb55e673017e08a8262868433e5877ab04adf",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "70a97976669c03baddc21726.bin",
+      "size": 20971520
+    },
+    {
+      "name": "0bba1924fd01dc5c8fe3e4e3.bin",
+      "size": 2351491
+    }
+  ]
+}

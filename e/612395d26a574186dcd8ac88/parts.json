@@ -1,0 +1,15 @@
+{
+  "name": "Knuckles chaotix",
+  "file": "Knuckles chaotix.html",
+  "size": 2040453,
+  "sha256": "6e2c17625660ae958f4ed3f312cf7e868b339343a8017575cee811b7ad70c7b9",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "0739e2535b8c11d89a26a03c.bin",
+      "size": 2040453
+    }
+  ]
+}

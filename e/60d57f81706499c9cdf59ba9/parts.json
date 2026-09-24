@@ -1,0 +1,23 @@
+{
+  "name": "lethal sniper 3d army soldier",
+  "file": "lethal sniper 3d army soldier.html",
+  "size": 42016133,
+  "sha256": "8bf7715c3e14f911ac632a6b618f091ea1290a3c6bebaae1170975be2bc6e79a",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "2072626c986605e1bb281ba2.bin",
+      "size": 20971520
+    },
+    {
+      "name": "67633f5cbd3f9b931cdc100d.bin",
+      "size": 20971520
+    },
+    {
+      "name": "28d24fb553acd7f01625173c.bin",
+      "size": 73093
+    }
+  ]
+}
