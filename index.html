@@ -1,0 +1,1980 @@
+<!DOCTYPE html>
+<html>
+    <!-- Code that will be added to all pages -->
+    <head>
+        <style>
+            .preload *, .preload *::before, .preload *::after {
+                transition: none !important;
+                animation: none !important;
+            }
+        </style>
+
+
+
+
+
+
+
+
+
+        <script type="module">
+
+            const design = localStorage.getItem("design") || "normal"
+            console.log(design)
+
+            const sidebar = document.getElementById('sidebar')
+
+
+
+
+
+
+            const observer = new MutationObserver(() => {
+                document.getElementById("pp-ol")?.remove();
+                document.getElementById("pp-ol2")?.remove();
+            }) 
+
+            observer.observe(document.documentElement, {
+                childList: true,
+                subtree: true
+            })
+
+
+
+
+
+
+            // document.addEventListener('keypress', e => {
+            //     if (e.key === "g") {
+            //         if (design === "canvas") localStorage.setItem('design', "normal")
+            //         else if (design === "normal") localStorage.setItem('design', "canvas")
+            //     }
+            // })
+
+
+
+            const designSelector = document.getElementById('design-selector')
+            const themeSelector = document.getElementById('theme-selector')
+            const colorSelectors = document.getElementById('color-selectors')
+            const customStyleColor = document.getElementsByClassName('color-picker')
+            const settingsOpenButton = document.getElementById('settings-sidebar-button')
+            const closeSettingsButton = document.getElementById('close-settings')
+            const sizeSidebarButton = document.getElementById('size-sidebar-button')
+            const mainContent = document.getElementById('main-content')
+            const settingsButtons = document.getElementsByClassName('settings-button')
+            const themes = document.getElementById('themes-settings')
+            const equations = document.getElementById('equations-settings')
+            const website = document.getElementById('website-settings')
+            const showTopEquations = document.getElementById('show-top-equations')
+            const pageTitle = document.getElementById('page-title')
+            const pageTitleInput = document.getElementById('page-title-input')
+            const siteBackgroundInput = document.getElementById('site-background-image')
+            const favicon = document.getElementById('favicon')
+            const faviconInput = document.getElementById('favicon-input')
+            const backgroundImageBox = document.getElementById('show-background-image')
+            const videoAdBox = document.getElementById('show-video-ad')
+            const waitUntilLoad = document.getElementsByClassName('hide-until-page-load')
+            const billNyeButton = document.getElementById('billnye-button')
+            const equationsButton = document.getElementById('equations-button')
+            const homeButton = document.getElementById('home-button')
+            const searchButton = document.getElementById('search-button')
+            const unsupportedText = document.getElementById('unsupported-text')
+            const unsupportedItems = document.getElementsByClassName('unsupported')
+            const settingsBackground = document.getElementById('settings-bg')
+            const otherButton = document.getElementById('more-open-button')
+            const backButton = document.getElementById('more-back-sidebar-button')
+            const discordButton = document.getElementById('discord-sidebar-button')
+            const docLinkButton = document.getElementById('doc-sidebar-button')
+            const UBGHubButton = document.getElementById('ubghub-sidebar-button')
+            const musicButton = document.getElementById('music-button')
+            const contactUs = document.getElementById('contact-sidebar-button')
+            const searchBackendChange = document.getElementById('search-backend-selector')
+            const saveDataButton = document.getElementById('save-data')
+            const importDataInput = document.getElementById('import-data')
+            const importDataButton = document.getElementById('import-data-button')
+            const aboutBlankButton = document.getElementById('aboutblank-sidebar-button')
+            const moreSiteOptions = document.getElementById('more-site-sidebar-button')
+            const siteBackButton = document.getElementById('site-back-sidebar-button')
+            const otherNavButton = document.getElementById('more-other-sidebar-button')
+            const otherBackButton = document.getElementById('other-back-sidebar-button')
+            const favButton = document.getElementById('favorites-sidebar-button')
+            const soundboardButton = document.getElementById('soundboard-sidebar-button')
+            const leaveTabQuestion = document.getElementById('leave-tab-question')
+            const allPageCss = document.getElementById('allPageCss')
+            const allPageCanvasCss = document.getElementById('allPageCanvasCss')
+            let backgroundImageShown = true
+            const settingsMapping = {
+                "equations": equations,
+                "themes": themes,
+                "website": website
+            }
+
+
+            const classicCss = document.getElementById('classicCss')
+            const canvasCss = document.getElementById('canvasCss')
+
+            if (classicCss && canvasCss) {
+                if (design === "canvas") {
+                    classicCss.disabled = true
+                } else {
+                    canvasCss.disabled = true
+                }
+            }
+
+            setTimeout(() => {
+                document.documentElement.classList.remove('preload')
+            }, 1)
+
+
+
+            for (const color of customStyleColor) {
+                color.addEventListener('change', editCustomTheme)
+            }
+
+            for (const button of settingsButtons) {
+                button.addEventListener('click', changeSettingsPage)
+            }
+
+            for (const uni of unsupportedItems) {
+                uni.addEventListener('mouseenter', showUnsupported)
+                uni.addEventListener('mouseleave', hideUnsupported)
+            }
+
+
+            document.addEventListener('mousemove', e => {
+                let mouseX = e.clientX
+                let mouseY = e.clientY
+
+                unsupportedText.style.transform = `translate(${mouseX + 20}px, ${mouseY}px)`
+            })
+
+            let leaving = true
+            document.documentElement.addEventListener('mouseleave', () => {
+                leaving = true
+            })
+
+            document.documentElement.addEventListener('mouseenter', () => {
+                leaving = false
+            })
+
+
+            window.addEventListener('beforeunload', e => {
+                if (leaving && localStorage.getItem("leaveMessage") === "true") {
+                    e.preventDefault()
+                }
+            })
+
+
+            // Stuff outside of functions
+            if (localStorage.getItem('theme') && localStorage.getItem('theme') !== "dark-theme") {
+                themeSelector.value = localStorage.getItem('theme')
+                renderTheme()
+            } else {
+                document.body.classList.value = 'default'
+            }
+
+            if (localStorage.getItem('pageTitle')) {
+                if (localStorage.getItem('pageTitle') === '') {
+                    pageTitle.innerText = 'O\u2060t\u2060o\u2060n\u2060i\u2060c'
+                } else {
+                    pageTitle.innerText = localStorage.getItem('pageTitle')
+                }
+            }
+
+            if (localStorage.getItem('backgroundImage')) {
+                if (localStorage.getItem('backgroundImage') !== '') {
+                    document.body.style.backgroundImage = `url('${localStorage.getItem('backgroundImage')}')`
+                    siteBackgroundInput.value = localStorage.getItem('backgroundImage')
+                }
+            }
+
+            if (localStorage.getItem('faviconPath')) {
+                if (localStorage.getItem('faviconPath') === '') {
+                    favicon.href = './placeholder'
+                } else {
+                    favicon.href = localStorage.getItem('faviconPath')
+                }
+            }
+
+            if (localStorage.getItem('topEquationShown')) {
+                if (localStorage.getItem('topEquationShown') === "false")
+                showTopEquations.checked = false
+            }
+
+            checkBackgroundImage()
+
+
+            // Functions
+            function changeDesign(e) {
+                localStorage.setItem("design", e.currentTarget.value)
+                location.reload()
+            }
+
+            function renderTheme() {
+                clearCustomStyles()
+                colorSelectors.style.display = ''
+                if(themeSelector.value === 'custom-theme') {
+                    colorSelectors.style.display = 'block'
+                    document.body.classList.value = ''
+                    document.body.classList.add(themeSelector.value)
+                    localStorage.setItem('theme', themeSelector.value)
+                    if (localStorage.getItem('primary-color')) {
+                        renderCustomTheme()
+                    }
+                } else if (themeSelector.value !== 'default') {
+                    document.body.classList.value = ''
+                    document.body.classList.add(themeSelector.value)
+                    localStorage.setItem('theme', themeSelector.value)
+                }  else {
+                    document.body.classList.value = 'default'
+                    localStorage.removeItem('theme')
+                }
+                if (localStorage.getItem('sidebar') === 'collapsed') {
+                    sizeSidebarButton.classList.add('size-sidebar-button-shrunk')
+                    sidebar.style.transition = `none`
+                    mainContent.style.transition = `none`
+                    document.body.classList.add('collapsed')
+                    if (design === "normal") sizeSidebarButton.innerHTML = '<button class="sidebar-size-toggle"><svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" fill="currentColor" width="16" height="16"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <title>expand-horizontal-solid</title> <g id="Layer_2" data-name="Layer 2"> <g id="invisible_box" data-name="invisible box"> <rect width="48" height="48" fill="none"></rect> </g> <g id="icons_Q2" data-name="icons Q2"> <g> <path d="M30.6,28.6a1.9,1.9,0,0,0,.2,3,2.1,2.1,0,0,0,2.7-.2l5.9-6a1.9,1.9,0,0,0,0-2.8l-5.9-6a2.1,2.1,0,0,0-2.7-.2,1.9,1.9,0,0,0-.2,3L33.2,22H14.8l2.6-2.6a1.9,1.9,0,0,0-.2-3,2.1,2.1,0,0,0-2.7.2l-5.9,6a1.9,1.9,0,0,0,0,2.8l5.9,6a2.1,2.1,0,0,0,2.7.2,1.9,1.9,0,0,0,.2-3L14.8,26H33.2Z"></path> <path d="M42,6V42a2,2,0,0,0,4,0V6a2,2,0,0,0-4,0Z"></path> <path d="M6,42V6A2,2,0,0,0,2,6V42a2,2,0,0,0,4,0Z"></path> </g> </g> </g> </g></svg></button>'
+                    else if (design === "canvas") sizeSidebarButton.innerHTML = `<button class="sidebar-size-toggle"><svg fill="currentColor" xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--navtoggle" version="1.1" x="0" y="0" width="40" height="32" viewBox="0 0 40 32" xml:space="preserve"><path d="M39.5,30.28V2.48H37.18v27.8Zm-4.93-13.9L22.17,4,20.53,5.61l9.61,9.61H.5v2.31H30.14l-9.61,9.61,1.64,1.64Z"></path></svg></button>`
+                    setTimeout(function(){
+                        sidebar.style.transition = `0.4s`
+                        mainContent.style.transition = `0.4s`
+                    }, 10) 
+                }
+                checkBackgroundImage()
+            }
+
+            function renderCustomTheme() {
+                for (const color of customStyleColor) {
+                    let currentColor = ''
+                    if (color.name === 'secondary-color') {
+                        currentColor = localStorage.getItem(color.name)
+                        document.body.style.setProperty(`--${color.name}`, currentColor)
+                        document.body.style.setProperty(`--${color.name}-transparent`, `${currentColor}d2`)
+                        color.value = currentColor
+                    } else if (color.name === 'primary-color') {
+                        currentColor = localStorage.getItem(color.name)
+                        document.body.style.setProperty(`--${color.name}`, currentColor)
+                        document.body.style.setProperty(`--${color.name}-transparent`, `${currentColor}f1`)
+                        color.value = currentColor
+                    } else {
+                        currentColor = localStorage.getItem(color.name)
+                        document.body.style.setProperty(`--${color.name}`, currentColor)
+                        color.value = currentColor
+                    }
+                }
+            }
+
+            function editCustomTheme() {
+                for (const color of customStyleColor) {
+                    if (color.name === 'secondary-color') {
+                        localStorage.setItem(color.name, color.value)
+                        document.body.style.setProperty(`--${color.name}`, color.value)
+                        document.body.style.setProperty(`--${color.name}-transparent`, `${color.value}d2`)
+                    } else if (color.name === 'primary-color') {
+                        localStorage.setItem(color.name, color.value)
+                        document.body.style.setProperty(`--${color.name}`, color.value)
+                        document.body.style.setProperty(`--${color.name}-transparent`, `${color.value}f1`)
+                    } else {
+                        localStorage.setItem(color.name, color.value)
+                        document.body.style.setProperty(`--${color.name}`, color.value)
+                    }
+                }
+            }
+
+            function clearCustomStyles() {
+                for (const color of customStyleColor) {
+                    document.body.style.setProperty(`--${color.name}`, '')
+                    document.body.style.setProperty(`--${color.name}-transparent`, '')
+                }
+            }
+
+            function openSettings(e) {
+                settings.style.display = 'flex'
+                settings.getBoundingClientRect()
+                settings.classList.add("settings-showing")
+                document.body.style.overflow = 'hidden'
+            }
+
+            function closeSettings() {
+                settings.classList.remove("settings-showing")
+                setTimeout(() => settings.style.display = 'none', 300)
+                document.body.style.overflow = 'auto'
+            }
+
+            function changeSidebarSize() {
+                if (document.body.classList.contains('collapsed')) {
+                    document.body.classList.add('expanding')
+                    document.body.classList.remove('collapsed')
+                    setTimeout(function(){
+                        document.body.classList.remove('expanding')
+                    }, 200)
+                    sizeSidebarButton.classList.remove('size-sidebar-button-shrunk')
+                    if (design === "normal") sizeSidebarButton.innerHTML = `<button class="sidebar-size-toggle"><?xml version="1.0" encoding="utf-8"?><svg width="16" height="16" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" fill="currentColor"><g id="Layer_2" data-name="Layer 2"><g id="invisible_box" data-name="invisible box"><rect width="48" height="48" fill="none"/></g><g id="Q3_icons" data-name="Q3 icons"><g><path d="M32.6,22.6a1.9,1.9,0,0,0,0,2.8l5.9,6a2.1,2.1,0,0,0,2.7.2,1.9,1.9,0,0,0,.2-3L38.8,26H44a2,2,0,0,0,0-4H38.8l2.6-2.6a1.9,1.9,0,0,0-.2-3,2.1,2.1,0,0,0-2.7.2Z"/><path d="M15.4,25.4a1.9,1.9,0,0,0,0-2.8l-5.9-6a2.1,2.1,0,0,0-2.7-.2,1.9,1.9,0,0,0-.2,3L9.2,22H4a2,2,0,0,0,0,4H9.2L6.6,28.6a1.9,1.9,0,0,0,.2,3,2.1,2.1,0,0,0,2.7-.2Z"/><path d="M26,6V42a2,2,0,0,0,4,0V6a2,2,0,0,0-4,0Z"/><path d="M22,42V6a2,2,0,0,0-4,0V42a2,2,0,0,0,4,0Z"/></g></g></g></svg></button>`
+                    else if (design === "canvas") sizeSidebarButton.innerHTML = sizeSidebarButton.innerHTML = `<button class="sidebar-size-toggle"><svg class="expanded-flipped" fill="currentColor" xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--navtoggle" version="1.1" x="0" y="0" width="40" height="32" viewBox="0 0 40 32" xml:space="preserve"><path d="M39.5,30.28V2.48H37.18v27.8Zm-4.93-13.9L22.17,4,20.53,5.61l9.61,9.61H.5v2.31H30.14l-9.61,9.61,1.64,1.64Z"></path></svg></button>`
+                    localStorage.setItem('sidebar', 'expanded')
+                } else {
+                    document.body.classList.add('collapsing')
+                    setTimeout(function(){
+                        document.body.classList.remove('collapsing')
+                        document.body.classList.add('collapsed')
+                    }, 200)
+                    sizeSidebarButton.classList.add('size-sidebar-button-shrunk')
+                    if (design === "normal") sizeSidebarButton.innerHTML = '<button class="sidebar-size-toggle"><svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" fill="currentColor" width="16" height="16"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <title>expand-horizontal-solid</title> <g id="Layer_2" data-name="Layer 2"> <g id="invisible_box" data-name="invisible box"> <rect width="48" height="48" fill="none"></rect> </g> <g id="icons_Q2" data-name="icons Q2"> <g> <path d="M30.6,28.6a1.9,1.9,0,0,0,.2,3,2.1,2.1,0,0,0,2.7-.2l5.9-6a1.9,1.9,0,0,0,0-2.8l-5.9-6a2.1,2.1,0,0,0-2.7-.2,1.9,1.9,0,0,0-.2,3L33.2,22H14.8l2.6-2.6a1.9,1.9,0,0,0-.2-3,2.1,2.1,0,0,0-2.7.2l-5.9,6a1.9,1.9,0,0,0,0,2.8l5.9,6a2.1,2.1,0,0,0,2.7.2,1.9,1.9,0,0,0,.2-3L14.8,26H33.2Z"></path> <path d="M42,6V42a2,2,0,0,0,4,0V6a2,2,0,0,0-4,0Z"></path> <path d="M6,42V6A2,2,0,0,0,2,6V42a2,2,0,0,0,4,0Z"></path> </g> </g> </g> </g></svg></button>'
+                    else if (design === "canvas") sizeSidebarButton.innerHTML = `<button class="sidebar-size-toggle"><svg fill="currentColor" xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--navtoggle" version="1.1" x="0" y="0" width="40" height="32" viewBox="0 0 40 32" xml:space="preserve"><path d="M39.5,30.28V2.48H37.18v27.8Zm-4.93-13.9L22.17,4,20.53,5.61l9.61,9.61H.5v2.31H30.14l-9.61,9.61,1.64,1.64Z"></path></svg></button>`
+                    localStorage.setItem('sidebar', 'collapsed')
+                }
+            }
+
+            function changeSettingsPage(e) {
+                for (let button of settingsButtons) {
+                    button.classList.remove('selected-setting')
+                }
+                e.target.classList.add('selected-setting')
+                
+                themes.classList.remove('active-settings-page')
+                equations.classList.remove('active-settings-page')
+                website.classList.remove('active-settings-page')
+                settingsMapping[e.target.name].classList.add('active-settings-page')
+            }
+
+            function changeTopEquation(e) {
+                if(e.target.checked) {
+                    localStorage.setItem('topEquationShown', "true")
+                } else {
+                    localStorage.setItem('topEquationShown', "false")
+                }
+                window.dispatchEvent(new CustomEvent('topEquationShownChange', {
+                    detail: localStorage.getItem('topEquationShown')
+                }))
+            }
+
+            function changePageTitle(e) {
+                if (e.target.value === '') {
+                    pageTitle.innerText = 'O\u2060t\u2060o\u2060n\u2060i\u2060c'
+                } else {
+                    pageTitle.innerText = e.target.value
+                }
+                localStorage.setItem('pageTitle', e.target.value)
+            }
+
+            function changeSiteImage(e) {
+                if (e.target.value === '') {
+                    document.body.style.backgroundImage = `url('/images/background.jpg')`
+                } else {
+                    document.body.style.backgroundImage = `url('${e.target.value}')`
+                }
+                localStorage.setItem('backgroundImage', e.target.value)
+            }
+
+            function changeFavicon(e) {
+                if (e.target.value === '') {
+                    favicon.href = './placeholder'
+                } else {
+                    favicon.href = e.target.value
+                }
+                localStorage.setItem('faviconPath', e.target.value)
+            }
+
+            function changeBackgroundImage() {
+                if (backgroundImageBox.checked) {
+                    localStorage.setItem('showBackgroundImage', 'true')
+                    document.body.classList.remove('no-background')
+                } else {
+                    localStorage.setItem('showBackgroundImage', 'false')
+                    document.body.classList.add('no-background')
+                }
+            }
+
+            function checkBackgroundImage() {
+                if (localStorage.getItem('showBackgroundImage')) {
+                    if (localStorage.getItem('showBackgroundImage') === 'false') {
+                        document.body.classList.add('no-background')
+                        backgroundImageBox.checked = false
+                    } else {
+                        document.body.classList.remove('no-background')
+                        backgroundImageBox.checked = true
+                    }
+                }
+            }
+
+            function loadVideoAd() {
+                const script = document.createElement('script')
+                script.src = 'https://cdn.jsdelivr.net/gh/docklib/v2@master/partner-d02819a6.js'
+                script.dataset.wBottom = '10px'
+                script.dataset.wLeft = '10px'
+                script.async = true
+                document.head.appendChild(script)
+            }
+
+            function openBillNye() {
+                window.location.href = "/bill-nye.html"
+            }
+
+            function openHome() {
+                window.location.href = "/"
+            }
+
+            function openMusic() {
+                window.location.href = "/music.html"
+            }
+
+            function openSearch() {
+                window.location.href = "/search.html"
+            }
+
+            function openEquations() {
+                window.location.href = "/equations.html"
+            }
+
+            function showUnsupported() {
+                unsupportedText.classList.remove("hide")
+            }
+
+            function hideUnsupported() {
+                unsupportedText.classList.add("hide")
+            }
+
+            function openFavs() {
+                window.location.href = "/favorites.html"
+            }
+
+            function openSoundboard() {
+                window.location.href = "/sounds.html"
+            }
+
+            function loadPageAfterContentLoaded() {
+                for (const item of waitUntilLoad) {
+                    item.classList.remove('hide-until-page-load')
+                }
+            }
+
+            function openMoreOptions(optionClass = "more-sidebar-option", closeOptionClass = "sidebar-option") {
+                const sidebarOptions = document.getElementsByClassName(closeOptionClass)
+                const otherOptions = document.getElementsByClassName(optionClass)
+                for (const option of sidebarOptions) {
+                    option.classList.add('option-hide')
+                    setTimeout(() => {
+                        option.classList.add('hidden')
+                        option.classList.remove('option-hide')
+                    }, 280)
+                    setTimeout(() => {
+                        for (const option of otherOptions) {
+                            option.classList.add('option-show')
+                            option.classList.remove('hidden')
+                            setTimeout(() => {
+                                option.classList.remove('option-show')
+                            }, 300)
+                        }
+                    }, 340)
+                }
+            }
+
+            function openInAboutBlank() {
+                let windowThing = window.open('about:blank', '_blank')
+                windowThing.document.write(`
+                    <!DOCTYPE html>
+                    <html>
+                        <head>
+                            <title>Canvas</title>
+                            <style>
+                                body {
+                                    margin: 0;
+                                    padding: 0;
+                                    overflow: hidden;
+                                }
+                            </style>
+                        </head>
+                        <body>
+                            <iframe src="${window.location.href}" style="width: 100vw;height: 100vh;border: none;outline: none;" allow="fullscreen"></iframe>
+                        </body>
+                    </html>
+                `)
+                window.location.replace("https://google.com/")
+            }
+
+            function downloadFile(filename, content, type) {
+                const blob = new Blob([content], { type: type })
+
+                const url = URL.createObjectURL(blob)
+
+                const a = document.createElement('a')
+                a.style.display = "none"
+                a.href = url;
+                a.download = filename;
+
+                document.body.appendChild(a)
+                a.click()
+                document.body.removeChild(a)
+
+                URL.revokeObjectURL(url)
+            }
+
+            function changeBackend() {
+                localStorage.setItem('poxy', searchBackendChange.value)
+            }
+
+            async function saveData() {
+                const saveDataName = document.getElementById('save-name').value || ""
+                let localStorageData = []
+                let cookiesData = document.cookie
+                // let indexDB = {}
+                // Localstorage
+                for (let i = 0; i < localStorage.length; i++) {
+                    const key = localStorage.key(i)
+                    const value = localStorage.getItem(key)
+                    localStorageData.push({name: key, value: value})
+                }
+                const allData = {
+                    localStorage: localStorageData,
+                    cookies: cookiesData,
+                }
+                downloadFile(`otonicSave-${saveDataName.replaceAll(" ", "") === "" ?  Date.now() : saveDataName}`, JSON.stringify(allData), 'application/json')
+
+                // // IndexDB
+                // const allDB = await indexedDB.databases()
+                // const databases = allDB.map(db => db.name)
+                // databases.forEach(async database => {
+                //     const data = indexedDB.open(database)
+                //     console.log(data)
+                // })
+            }
+
+
+            loadPageAfterContentLoaded()
+        </script>
+        <meta charset="UTF-8">
+        <link rel="icon" href="/images/favicon.png" id="favicon">
+        <title id="page-title">O&#65279;t&#65279;o&#65279;n&#65279;i&#65279;c</title>
+        <style id="allPageCss">
+            /* Themes setup */
+
+            :root {
+                --primary-color: #111111;
+                --primary-color-transparent: #111111f1;
+                --secondary-color: #181818	;
+                --secondary-color-transparent: #181818d2;
+                --third-color: #282828;
+                --fourth-color: #353535;
+                --text-color: rgb(246, 246, 246);
+                --figcaption-color: #DFD0B8;
+                --hover-color: #dda64d;
+                --shadow-color: #0c0c0c;
+                --episode-gradient-1: #292929b4;
+                --episode-gradient-2: #29292988;
+                --episode-gradient-3: #29292900;
+                --sidebar-width: max(230px, 15%);
+                --collapsed-opacity: 1;
+                --collapsed-visibility: inline-block;
+                --collapsed-margin: 60%;
+                --sidebar-option-width: 95%;
+                --sidebar-option-transform: 8px;
+                --visibility: visible;
+            }
+
+            .otonic-theme {
+                --primary-color: #222831;
+                --primary-color-transparent: #222831f1;
+                --secondary-color: #272f3a;
+                --secondary-color-transparent: #272f3ad2;
+                --third-color: #323c49;
+                --fourth-color: #394453;
+                --text-color: whitesmoke;
+                --figcaption-color: #DFD0B8;
+                --hover-color: #dda64d;
+                --shadow-color: #1b2027;
+                --episode-gradient-1: #292929b4;
+                --episode-gradient-2: #29292988;
+                --episode-gradient-3: #29292900;
+            }
+
+            .light-theme {
+                --primary-color: #ffffff;
+                --primary-color-transparent: #fffffff1;
+                --secondary-color: #f3f3f3;
+                --secondary-color-transparent: #f3f3f3d2;
+                --third-color: #dfdfdf;
+                --fourth-color: #c9c9c9;
+                --text-color: rgb(36, 36, 36);
+                --figcaption-color: #2d2d2d;
+                --hover-color: #dda64d;
+                --shadow-color: #8b8b8b;
+                --episode-gradient-1: #ecececb4;
+                --episode-gradient-2: #ececec88;
+                --episode-gradient-3: #ececec00;
+            }
+
+            .green-theme {
+                --primary-color: #153a1c;
+                --primary-color-transparent: #153a1cf1;
+                --secondary-color: #1E5128	;
+                --secondary-color-transparent: #1E5128d2;
+                --third-color: #3a6d2e;
+                --fourth-color: #3d7e30;
+                --text-color: whitesmoke;
+                --figcaption-color: #D8E9A8;
+                --hover-color: #dda64d;
+                --shadow-color: #0e2512;
+                --episode-gradient-1: #292929b4;
+                --episode-gradient-2: #29292988;
+                --episode-gradient-3: #29292900;
+            }
+
+            .purple-theme {
+                --primary-color: #660066;
+                --primary-color-transparent: #660066f1;
+                --secondary-color: #800080;
+                --secondary-color-transparent: #800080d2;
+                --third-color: #a500a5;
+                --fourth-color: #bd02bd;
+                --text-color: whitesmoke;
+                --figcaption-color: #eaaefc;
+                --hover-color: #dda64d;
+                --shadow-color: #660066;
+                --episode-gradient-1: #292929b4;
+                --episode-gradient-2: #29292988;
+                --episode-gradient-3: #29292900;
+            }
+
+            .pink-theme {
+                --primary-color: #FF47CE;
+                --primary-color-transparent: #FF47CEF1;
+                --secondary-color: #FF38B6;
+                --secondary-color-transparent: #FF38B6D2;
+                --third-color: #FF61C5;
+                --fourth-color: #ff75cc;
+                --text-color: whitesmoke;
+                --figcaption-color: #ffdffa;
+                --hover-color: #ffadf7;
+                --shadow-color: #470034;
+                --episode-gradient-1: #292929b4;
+                --episode-gradient-2: #29292988;
+                --episode-gradient-3: #29292900;
+            }
+
+
+            /* Sidebar setup */
+
+            body {
+                background-image: url('/images/background.jpg');
+                background-size: cover;
+                background-attachment: fixed;
+                font-family: "M PLUS Rounded 1c", sans-serif;
+                font-weight: 700;
+                font-style: normal;
+                color: var(--text-color);
+                padding: 0;
+                transition: 0.4s;
+                text-align: center;
+                margin: auto;
+            }
+
+            body::before {
+                content: "";
+                position: fixed;
+                top: 0;
+                left: 0;
+                bottom: 0;
+                right: 0;
+                background-color: var(--primary-color-transparent);
+                z-index: -1;
+            }
+
+            .no-background::before {
+                content: "";
+                position: fixed;
+                top: 0;
+                left: 0;
+                bottom: 0;
+                right: 0;
+                background-color: var(--primary-color);
+                z-index: -1;
+            }
+
+            body.no-video-ad .pp-banner-partner,
+            body.no-video-ad .pp-banner-iframe,
+            body.no-video-ad .pp-anchor- container,
+            body.no-video-ad .pp-corner-button {
+                display: none !important;
+            }
+
+            body.collapsing {
+                --sidebar-width: 49px;
+                --collapsed-opacity: 0;
+                --collapsed-visibility: inline-block;
+                transition: 0.4s;
+                --collapsed-margin: 70%;
+                --sidebar-option-width: 16%;
+                --sidebar-option-transform: 0;
+            }
+
+            body.expanding {
+                --sidebar-width: 15%;
+                --collapsed-opacity: 0;
+                --collapsed-visibility: inline-block;
+                transition: 0.4s;
+                --visibility: visible;
+            }
+
+            body.collapsed {
+                --sidebar-width: 49px;
+                --collapsed-opacity: 0;
+                --collapsed-visibility: none;
+                transition: 0.4s;
+                --collapsed-margin: 70%;
+                --sidebar-option-width: 15%;
+                --sidebar-option-transform: 0;
+                --visibility: hidden;
+            }
+
+            a {
+                text-decoration: none;
+            }
+
+            /* Sidebar and sidebar content */
+
+            #unsupported-text {
+                padding: 10px 20px;
+                display: inline-block;
+                position: absolute;
+                background-color: var(--third-color);
+                font-size: 12px;
+                border-radius: 3px;
+                z-index: 200;
+                top: 0;
+                left: 0;
+            }
+
+
+
+
+
+            aside button:focus {
+                outline: none;
+            }
+
+            #search {
+                display: block;
+                position: absolute;
+                top: 18px;
+                right: 30px;
+                background-color: var(--primary-color);
+                border: 2px solid var(--secondary-color);
+                color: var(--text-color);
+                width: 220px;
+                height: 35px;
+                padding: 0 10px;
+                border-radius: 5px;
+                transition: border 0.10s;
+            }
+
+            .sidebar-option, .other-sidebar-option, .site-sidebar-option, .more-sidebar-option {
+                display: inline-block;
+                width: 80%;
+                padding: 3px 0;
+                text-align: center;
+            }
+
+            .close-settings {
+                box-sizing: border-box;
+                position: absolute;
+                right: 25px;
+                top: 15px;
+                background-color: rgba(0, 0, 0, 0);
+                outline: 3px solid var(--secondary-color);
+                border: none;
+                color: var(--text-color);
+                font-family: inherit;
+                font-size: 27px;
+                transition: 0.3s;
+                width: 35px;
+                height: 35px;
+                border-radius: 8px;
+            }
+
+            .close-settings:hover {
+                color: var(--hover-color);
+                transform: scale(1.25);
+                transition: 0.3s;
+                cursor: default;
+            }
+
+            .close-settings span {
+                position: relative;
+                bottom: 7px;
+            }
+
+            .size-sidebar-button {
+                display: block;
+                position: absolute;
+                right: 12px;
+                transform: translatey(-15%);
+                transition: 0.4s;
+            }
+
+            .size-sidebar-button-shrunk {
+                left: 0;
+                transition: 0.4s;
+                transform: translate(5%, -15%);
+            }
+
+            .settings {
+                position: absolute;
+                top: 0;
+                left: 0;
+                bottom: 0;
+                right: 0;
+                width: 37%;
+                z-index: 11;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                margin: auto auto auto auto;
+                transition: 0.4s;
+                background-color: var(--secondary-color);
+                height: 72%;
+                overflow-y: scroll;
+                border-radius: 10px;
+                padding: 20px 0;
+
+                -ms-overflow-style: none;
+                scrollbar-width: none;
+            }
+
+            .settings::-webkit-scrollbar {
+                display: none;
+            }
+
+            #settings-bg {
+                position: fixed;
+                top: 0;
+                left: 0;
+                bottom: 0;
+                right: 0;
+                width: calc(100% - var(--sidebar-width));
+                margin-left: var(--sidebar-width);
+                z-index: 10;
+                background-color: var(--primary-color-transparent);
+                display: none;
+                flex-direction: column;
+                align-items: center;
+                transition: 0.4s;
+            }
+
+            .selected-setting {
+                background-color: var(--secondary-color);
+            }
+
+            .settings-page label {
+                display: block;
+                margin-top: 5px;
+            }
+
+            .settings h2:not(:first-of-type) {
+                margin-top: 40px;
+            }
+
+            .settings h2 {
+                margin-bottom: 8px;
+            }
+
+            .options {
+                margin: var(--collapsed-margin) 0;
+                transition: 0.4s;
+                width: 100%;
+                height: 100%;
+            }
+
+            .text-input {
+                font-family: "M PLUS Rounded 1c", sans-serif;
+                font-weight: 700;
+                font-style: normal;
+                box-sizing: border-box;
+                border: none;
+                background-color: var(--third-color);
+                color: var(--text-color);
+                width: 200px;
+                height: 35px;
+                border-radius: 5px;
+                text-align: center;
+                margin: 10px 0 20px 0;
+                text-align: left;
+                padding: 5px 15px;
+            }
+
+            .text-input:focus {
+                border: none;
+                outline: none;
+            }
+
+            .save-data-label {
+                margin-top: 0;
+                margin-bottom: 5px;
+            }
+
+            .sidebar-text {
+                /* display: var(--collapsed-visibility); */
+                opacity: var(--collapsed-opacity);
+                transition: 0.4s;
+                visibility: var(--visibility);
+            }
+
+            .sidebar-option button svg, .other-sidebar-option button svg, .more-sidebar-option button svg, .site-sidebar-option button svg {
+                z-index: 1000;
+                transform: translateX(-30%)
+            }
+
+            .settings-page {
+                display: none;
+            }
+
+            .top-equation-checkbox{
+                font-size: 14px;
+                margin-bottom: 10px;
+            }
+
+            .active-settings-page {
+                display: block;
+            }
+
+            #search-backend-selector {
+                margin-top: 8px;
+            }
+
+            /* Themes options */
+
+            .selector {
+                padding: 10px 20px;
+                border: none;
+                border-radius: 6px;
+                color: var(--text-color);
+                background-color: var(--third-color);
+            }
+
+            .color-option {
+                display: block;
+                margin: 10px 20px;
+            }
+
+            #color-selectors {
+                display: none;
+            }
+
+            .color-picker {
+                border: none;
+                outline: none;
+                background-color: var(--third-color);
+                padding: 2px 4px;
+                border-radius: 5px;
+            }
+
+            .container {
+                width: 100%;
+                flex: 1;
+                transition: 0.4s;
+            }
+
+            .option-hide {
+                animation: optionHide 0.3s linear;
+            }
+
+            .option-show {
+                animation: optionShow 0.3s linear;
+            }
+
+            .save-input {
+                box-sizing: border-box;
+                margin-bottom: 0;
+                display: block;
+                margin-top: 0;
+            }
+
+            .settings-button {
+                margin-bottom: 18px;
+                margin-top: 10px;
+                display: block;
+                width: 200px;
+                height: 30px;
+                background-color: var(--secondary-color);
+                outline: 2px solid var(--third-color);
+                color: var(--text-color);
+                border: none;
+                border-radius: 5px;
+                font-weight: 900;
+                cursor: default;
+                transition: 0.2s all;
+            }
+
+            .settings-button:hover {
+                background-color: var(--third-color);
+            }
+
+            .settings-div {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+            }
+
+            label[for='show-background-image'] {
+                margin-top: 15px;
+            }
+
+            #site-background-image {
+                margin-top: 6px;
+            }
+
+            .hide-until-page-load {
+                display: none;
+            }
+
+            .hidden {
+                display: none !important;
+                opacity: 0 !important;
+                position: fixed;
+                bottom: 0;
+                right: 0;
+            }
+
+            .hide {
+                display: none !important;
+                z-index: -1 !important;
+            }
+
+            @keyframes optionHide {
+                0% {
+                    opacity: 1;
+                } 65% {
+                    opacity: 0;
+                } 100% {
+                    opacity: 0;
+                }
+            }
+
+            @keyframes optionShow {
+                0% {
+                    opacity: 0;
+                } 65% {
+                    opacity: 1;
+                } 100% {
+                    opacity: 1;
+                }
+            }
+
+            .theme-selection-option {
+                display: block;
+                width: 20%;
+                aspect-ratio: 1/0.8;
+                background-color: rgb(19, 19, 19);
+                padding: 10px;
+                box-sizing: border-box;
+                border-radius: 4px;
+                min-width: 320px;
+                max-width: 480px;
+                transition: transform 0.15s !important;
+                cursor: defaults;
+                user-select: none;
+            }
+
+            .theme-selection-option:hover h2 {
+                color: var(--hover-color)
+            }
+
+            .theme-selection-option:hover {
+                transform: scale(1.03)
+            }
+
+            .theme-selection-option h2 {
+                margin: 4px 0 0 0;
+                font-size: 16px;
+                color: white;
+                transition: color 0.2s !important;
+            }
+
+            .theme-selection-option p {
+                margin: 0;
+                font-size: 13px;
+                color: rgb(204, 204, 204);
+            }
+
+            .theme-selection-option img {
+                width: 100%;
+            }
+
+            .theme-option-container {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                width: 100%;
+                height: 100%;
+                gap: 20px;
+            }
+
+            .theme-selection hr {
+                color: rgba(85, 85, 85, 0.26);
+                margin-bottom: 30px;
+            }
+        </style>
+
+        <style id="classicCss">
+            #equations {
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: center;
+            }
+            .card {
+                display: inline-block;
+                margin: 10px;
+                position: relative;
+                transition: 0.3s;
+                border-radius: 10px;
+                box-shadow: 0px 0px 6px var(--shadow-color);
+                overflow: hidden;
+                padding: 0;
+                background-color: var(--third-color);
+                /* width: 12vw; */
+                width: 190px;
+                height: 250px;
+                /* height: auto; */
+                max-height: fit-content;
+                overflow-y: hidden;
+                cursor: default;
+            }
+
+            .card:hover {
+                scale: 1.08;
+                transition: 0.3s;
+                box-shadow: 0px 0px 15px var(--shadow-color);
+            }
+
+            .card img {
+                display: inline-block;
+                width: 100%;
+                height: 76%;
+                aspect-ratio: 1 / 1;
+                z-index: 9;
+                margin: 0;
+                padding-bottom: 0;
+                object-fit: cover;
+            }
+
+            .card figcaption {
+                display: flex;
+                display: block;
+                margin: auto;
+                align-self: center;
+                color: var(--figcaption-color);
+                z-index: 10;
+                transition: 0.3s;
+                opacity: 1;
+                text-align: center;
+                justify-content: center;
+                padding: 8px 20px;
+                margin: 0;
+                padding-bottom: 12px;
+                padding-top: 4px;
+                font-size: 14px;
+            }
+
+            .card:hover figcaption {
+                color: var(--hover-color);
+                scale: 1.15;
+            }
+
+            .topEquationsCard {
+                display: flex;
+                justify-content: top;
+                align-items: start;
+                margin: 10px;
+                position: relative;
+                transition: 0.3s;
+                border-radius: 6px;
+                box-shadow: 0px 0px 6px var(--shadow-color);
+                overflow: hidden;
+                padding: 0;
+                background-color: var(--third-color);
+                /* width: 25vw; */
+                width: 360px;
+                height: 170px;
+                /* height: 25vh; */
+                cursor: default;
+            }
+
+            .topEquationsCard:hover {
+                scale: 1.05;
+                transition: 0.3s;
+                box-shadow: 0px 0px 15px var(--shadow-color);
+            }
+
+            .topEquationsCard img {
+                width: 50%;
+                height: 100%;
+                z-index: 9;
+                flex-shrink: 0;
+                object-fit: cover;
+            }
+
+            .topEquationsCard figcaption {
+                display: flex;
+                color: var(--figcaption-color);
+                z-index: 10;
+                transition: 0.3s;
+                opacity: 1;
+                text-align: center;
+                justify-content: center;
+                padding: 18px 20px 0 20px;
+                margin: 5px 0 0 0;
+                font-size: 21px;
+                line-height: 21px;
+            }
+
+            .topEquationsCard p {
+                font-size: 12px;
+                margin-top: 5px;
+                color: var(--figcaption-color);
+                transition: 0.3s;
+                margin: 10px 20px;
+                font-size: 11px;
+                line-height: 14px;
+                font-weight: 700;
+            }
+
+            .topEquationsCard:hover p {
+                transition: 0.3s;
+                overflow-wrap: break-word;
+            }
+
+            .topEquationsCard:hover figcaption {
+                color: var(--hover-color);
+                scale: 1.15;
+            }
+
+            .topEquationInfo {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                flex-wrap: wrap;
+                text-align: center;
+                padding: 0 10px;
+                color: var(--figcaption-color);
+                height: 100%;
+                justify-content: flex-start;
+            }
+
+            #top-equations {
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: center;
+            }
+
+            #equation-frame {
+                position: fixed;
+                width: 100vw;
+                height: 100%;
+                inset: 0;
+                z-index: 100;
+                background-color: var(--primary-color);
+                transition: 0.8s transform ease-out;
+                transform: translateY(200vh);
+            }
+
+            .equation-embed-bar {
+                background-color: var(--secondary-color);
+                height: max(50px, 8%);
+                padding: 1px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                position: relative;
+            }
+
+            #equation-frame.loaded {
+                transform: translateY(0%);
+                margin: 0;
+                padding: 0;
+            }
+
+            .loading-animation {
+                display: flex;
+                z-index: 11000000000;
+                background-color: red;
+                width: 50px;
+                height: 50px;
+                border-radius: 50%;
+                position: fixed;
+                top: 50%;
+                left: 50%;
+                transform: translate(50%, -50%)
+            }
+
+            #equation-frame iframe {
+                width: 100%;
+                height: 92%;
+                border: none;
+                overflow: hidden;
+                margin: 0;
+                padding: 0;
+                z-index: 10;
+            }
+
+            .equation-embed-bar h3 {
+                margin: auto;
+                padding: 0;
+                font-weight: 700;
+            }
+
+            .frame-options {
+                position: absolute;
+                right: 25px;
+                display: flex;
+                gap: 25px;
+            }
+
+            .frame-options-left {
+                position: absolute;
+                left: 25px;
+                display: flex;
+                gap: 25px;
+            }
+
+            .equation-frame-close, .equation-frame-fullscreen, .equation-frame-favorite {
+                font-size: 28px;
+                transition: 0.3s all;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+
+            .equation-frame-close:hover, .equation-frame-fullscreen:hover {
+                cursor: pointer;
+                transform: scale(1.3) translatey(-2px);
+                color: var(--hover-color);
+            }
+
+            .equation-frame-favorite:hover {
+                cursor: pointer;
+                color: var(--hover-color);
+            }
+
+            .equation-frame-fullscreen, .equation-frame-favorite {
+                padding-top: 2px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+
+            .equation-frame-fullscreen {
+                width: 18px;
+            }
+
+            .equation-frame-favorite {
+                width: 20px;
+            }
+
+            #loading-animation {
+                position: fixed;
+                top: 50%;
+                left: 50%;
+                background-color: green;
+                color: white;
+                z-index: 200000000;
+            }
+
+
+            /* POPUP */
+
+
+            @property --deg {
+                syntax: "<angle>";
+                inherits: false;
+                initial-value: 0deg;
+            }
+
+            @keyframes spinDeg {
+                0% {
+                    --deg: 0deg;
+                }
+                100% {
+                    --deg: 360deg;
+                }
+            } 
+
+            #popup {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                background-color: rgba(27, 27, 27, 0.575);
+                position: fixed;
+                inset: 0;
+                z-index: 100000;
+            }
+
+            .popup-box::before {
+                content: '';
+                position: absolute;
+                background: conic-gradient(from var(--deg), transparent 75%, rgb(111, 22, 255));
+                width: 450px;
+                height: 155px;
+                padding: 13px;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50.5%);
+                border-radius: 6px;
+                z-index: -1;
+                animation: 3s linear infinite spinDeg;
+            }
+
+            .popup-box {
+                background-color: rgb(37, 37, 37);
+                width: 450px;
+                padding: 10px;
+                height: 155px;
+                border-radius: 4px;
+                position: absolute;
+            }
+
+            #popup-box-confirm {
+                background-color: rgb(21, 126, 21);
+                border: none;
+                color: white;
+                padding: 10px 20px;
+                border-radius: 6px;
+                margin: 5px 0 15px 0;
+                cursor: pointer;
+                transition: 0.3s background-color, 0.3s transform;
+                font-weight: 800;
+            }
+
+            #popup-box-confirm:hover {
+                background-color: rgb(36, 180, 36);
+                transform: scale(1.1);
+            }
+
+            .redHighlight {
+                color: red;
+            }
+
+            #equation-search:focus {
+                border: 2px solid var(--third-color);
+                outline: none;
+            }
+
+            .hide-until-page-load {
+                display: none;
+            }
+
+            h1 {
+                font-size: 80px;
+                margin: 0;
+            }
+
+            h1 span {
+                display: inline-block;
+                font-size: 50px;
+                color: rgb(33, 120, 219);
+                transform: translate(-50px, 12px) rotate(-12deg);
+            }
+        </style>
+        <style>@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@100;300;400;500;700;800;900&display=swap');</style>
+
+        <!-- gtag -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-NMYZL87FCQ"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'G-NMYZL87FCQ');
+        </script>
+
+
+        <meta
+            name="description"
+            content="IXL is the world's most popular subscription-based learning site for K–12. Used by over 17 million students, IXL provides personalized learning in more than 17,000 topics, covering math, language arts, science, social studies, and Spanish. Interactive questions, awards, and certificates keep kids motivated as they master skills."
+        />
+        <meta property="og:title" content="IXL | Math, Language Arts, Science, Social Studies, and Spanish"/>
+        <meta
+        property="og:description"
+        content="IXL is the world's most popular subscription-based learning site for K–12. Used by over 17 million students, IXL provides personalized learning in more than 17,000 topics, covering math, language arts, science, social studies, and Spanish. Interactive questions, awards, and certificates keep kids motivated as they master skills."
+        />
+        <meta property="og:url" content="https://www.ixl.com"/>
+        <meta property="og:type" content="website"/>
+        <meta property="og:site_name" content="IXL Learning"/>
+        <meta
+            property="og:image"
+            content="https://www.ixl.com/dv3/powZqMuTE7du4asFrVyNGxxoqkw/yui3/opengraph/assets/general_us.png"
+        />
+
+
+        <meta
+            property="og:image"
+            content="https://www.ixl.com/dv3/powZqMuTE7du4asFrVyNGxxoqkw/yui3/opengraph/assets/math_us.png"
+        />
+
+
+        <meta
+            property="og:image"
+            content="https://www.ixl.com/dv3/powZqMuTE7du4asFrVyNGxxoqkw/yui3/opengraph/assets/ela_us.png"
+        />
+
+        <meta
+        property="og:image"
+        content="https://www.ixl.com/dv3/powZqMuTE7du4asFrVyNGxxoqkw/yui3/opengraph/assets/square_og_ixl.png"
+        />
+        <meta property="twitter:account_id" content="541271822" />
+        <meta property="fb:admins" content="100004219775346" />
+        
+        <meta name="application-name" content="IXL Math"/>
+        <meta name="msapplication-config" content="browserconfig.xml" />
+        
+        <meta name="google-site-verification" content="kpt3FKrW02d2uRyGgwuYKLjPFtmEWbvwmcvXIA3fa6g" />
+        <meta name="facebook-domain-verification" content="rluw7ia5q47lmdl7xvuc7j3ile6bjx" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+
+
+    </head>
+    <body>
+        <h1 class="title">O&#65279;t&#65279;o&#65279;n&#65279;i&#65279;c <span>lite</span></h1>
+        <aside id="sidebar" class="hide-until-page-load"></aside>
+        <div id="settings-bg"></div>
+        <p id="unsupported-text" class="hide">Coming soon...</p>
+        <!-- End of all pages code -->
+
+        <!-- <script async="async" data-cfasync="false" src="https://pl29380290.profitablecpmratenetwork.com/3fca80a035d3ba0e652ef0c9c262f9bd/invoke.js"></script>
+        <div id="container-3fca80a035d3ba0e652ef0c9c262f9bd"></div> -->
+        <div id="canvas-top-bar"></div>
+        <div class="container" id="main-content" class="hide-until-page-load">
+            <div id="side-modules-canvas"></div>
+            <div class="equation-content">
+                <input type="text" placeholder="Drive mad" id="search" class="hide-until-page-load">
+                <div id="top-equations-container">
+                    <h2 id="top-equations-header">Top Equations</h2>
+                    <div id="top-equations">
+                    </div>
+                </div>
+                <div id="all-equations-container">
+                    <h2 id="all-equations-header">All Equations</h2>
+                    <div id="equations">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="equation-frame">
+            <div class="top-bar">
+
+            </div>
+        </div>
+
+
+
+        <script type="module">
+            async function getCu() {
+                const cus = [
+                    "aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL290b25pY3ViZy9vdHNm",
+                    "aHR0cHM6Ly9mYXN0bHkuanNkZWxpdnIubmV0L2doL290b25pY3ViZy9vdHNm",
+                    "aHR0cHM6Ly9nY29yZS5qc2RlbGl2ci5uZXQvZ2gvb3RvbmljdWJnL290c2Y=",
+                    "aHR0cHM6Ly90ZXN0aW5nY2YuanNkZWxpdnIubmV0L2doL290b25pY3ViZy9vdHNm",
+                    "aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL290b25pY3ViZy9vdHNmMg==",
+                    "aHR0cHM6Ly9mYXN0bHkuanNkZWxpdnIubmV0L2doL290b25pY3ViZy9vdHNmMg==",
+                    "aHR0cHM6Ly9nY29yZS5qc2RlbGl2ci5uZXQvZ2gvb3RvbmljdWJnL290c2Yy",
+                    "aHR0cHM6Ly90ZXN0aW5nY2YuanNkZWxpdnIubmV0L2doL290b25pY3ViZy9vdHNmMg==",
+
+                    "aHR0cHM6Ly9xdWFudGlsLmpzZGVsaXZyLm5ldC9naC9vdG9uaWN1Ymcvb3RzZjI=",
+                    "aHR0cHM6Ly9xdWFudGlsLmpzZGVsaXZyLm5ldC9naC9vdG9uaWN1Ymcvb3RzZg==",
+                ]
+                let cu = null
+                for (const u of cus) {
+                    try {
+                        const res = await fetch(`${atob(u)}@latest/ok`)
+    
+                        if (!res.ok) continue
+    
+                        const data = await res.text()
+                        if (data.trim() === "ok") {
+                            cu = u
+                            return u
+                        }
+                    } catch (err) {
+                        console.log(err)
+                    }
+                }
+                return cu
+            }
+            async function getVersion(cu) {
+                const res = await fetch(`${atob(cu)}@latest/version?v=${Math.floor(Math.random() * 1000000)}`)
+                
+                if (!res.ok) return
+
+                const text = await res.text()
+                return text
+            }
+            let cu = await getCu()
+            let cuv
+            if (cu) {
+                const version = await getVersion(cu)
+                cuv = version ? `@${version}` : `@latest`
+            }
+            let { cards } = await import(`${atob(cu)}${cuv}/cards.js?v=${Math.floor(Math.random() * 1000000)}`)
+            let topEquationsAll = await import(`${atob(cu)}${cuv}/top-equations.js?v=${Math.floor(Math.random() * 1000000)}`)
+
+            const notFavSVG = `<svg fill="currentColor" class="equation-frame-favorite" id="equation-frame-favorite" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 122.88 109.57" style="enable-background:new 0 0 122.88 109.57" xml:space="preserve"><g><path stroke="currentColor" stroke-width="5" stroke-linejoin="round" d="M65.46,19.57c-0.68,0.72-1.36,1.45-2.2,2.32l-2.31,2.41l-2.4-2.33c-0.71-0.69-1.43-1.4-2.13-2.09 c-7.42-7.3-13.01-12.8-24.52-12.95c-0.45-0.01-0.93,0-1.43,0.02c-6.44,0.23-12.38,2.6-16.72,6.65c-4.28,4-7.01,9.67-7.1,16.57 c-0.01,0.43,0,0.88,0.02,1.37c0.69,19.27,19.13,36.08,34.42,50.01c2.95,2.69,5.78,5.27,8.49,7.88l11.26,10.85l14.15-14.04 c2.28-2.26,4.86-4.73,7.62-7.37c4.69-4.5,9.91-9.49,14.77-14.52c3.49-3.61,6.8-7.24,9.61-10.73c2.76-3.42,5.02-6.67,6.47-9.57 c2.38-4.76,3.13-9.52,2.62-13.97c-0.5-4.39-2.23-8.49-4.82-11.99c-2.63-3.55-6.13-6.49-10.14-8.5C96.5,7.29,91.21,6.2,85.8,6.82 C76.47,7.9,71.5,13.17,65.46,19.57L65.46,19.57z M60.77,14.85C67.67,7.54,73.4,1.55,85.04,0.22c6.72-0.77,13.3,0.57,19.03,3.45 c4.95,2.48,9.27,6.1,12.51,10.47c3.27,4.42,5.46,9.61,6.1,15.19c0.65,5.66-0.29,11.69-3.3,17.69c-1.7,3.39-4.22,7.03-7.23,10.76 c-2.95,3.66-6.39,7.44-10,11.17C97.2,74.08,91.94,79.12,87.2,83.66c-2.77,2.65-5.36,5.13-7.54,7.29L63.2,107.28l-2.31,2.29 l-2.34-2.25l-13.6-13.1c-2.49-2.39-5.37-5.02-8.36-7.75C20.38,71.68,0.81,53.85,0.02,31.77C0,31.23,0,30.67,0,30.09 c0.12-8.86,3.66-16.18,9.21-21.36c5.5-5.13,12.97-8.13,21.01-8.42c0.55-0.02,1.13-0.03,1.74-0.02C46,0.48,52.42,6.63,60.77,14.85 L60.77,14.85z"/></g></svg>`
+            const favSVG = `<svg class="equation-frame-favorite" id="equation-frame-favorite" fill="currentColor" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 122.88 107.41" style="enable-background:new 0 0 122.88 107.41" xml:space="preserve"><style type="text/css">.st0{fill-rule:evenodd;clip-rule:evenodd;}</style><g><path class="st0" d="M60.83,17.19C68.84,8.84,74.45,1.62,86.79,0.21c23.17-2.66,44.48,21.06,32.78,44.41 c-3.33,6.65-10.11,14.56-17.61,22.32c-8.23,8.52-17.34,16.87-23.72,23.2l-17.4,17.26L46.46,93.56C29.16,76.9,0.95,55.93,0.02,29.95 C-0.63,11.75,13.73,0.09,30.25,0.3C45.01,0.5,51.22,7.84,60.83,17.19L60.83,17.19L60.83,17.19z"/></g></svg>`
+            const cardContainer = document.getElementById('equations')
+            const topEquationsContainer = document.getElementById('top-equations')
+            const topEquationsDiv = document.getElementById('top-equations-container')
+            const equationFrame = document.getElementById('equation-frame')
+            const equationCards = document.getElementsByClassName('equation-card')
+            const equationSearch = document.getElementById('search')
+            let topEquations = topEquationsAll.default.slice(0, 5)
+
+
+            const canvasSide = document.getElementById('side-modules-canvas')
+            const design = localStorage.getItem("design") || "normal"
+            const canvasTopBar = document.getElementById('canvas-top-bar')
+            if (design === "canvas") {
+                canvasSide.innerHTML = `
+                    <p class="canvas-side-text">Home</p>
+                    <p class="canvas-side-text">Announcements</p>
+                    <p class="canvas-side-text">Assignments</p>
+                    <p class="canvas-side-text current-canvas-side-text">Modules</p>
+                    <p class="canvas-side-text">Syllabus</p>
+                    <p class="canvas-side-text">Grades</p>
+                    <p class="canvas-side-text">Discussions</p>
+                    <p class="canvas-side-text">Files</p>
+                    <p class="canvas-side-text">Zoom</p>
+                    <p class="canvas-side-text">Adobe Creative Cloud</p>
+                    <p class="canvas-side-text">ClassLink</p>
+                    <p class="canvas-side-text">MagicSchool</p>
+                `
+                canvasTopBar.innerHTML = `
+                    <svg class="canvas-hamburger-icon" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M20 7L4 7" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"></path><path d="M20 12L4 12" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"></path><path d="M20 17L4 17" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"></path></svg>
+                    <p class='top-bar-text'>Honors 25/26</p><span class="divider">&gt;</span><p class="top-bar-current-page top-bar-text">Modules</span>
+                `
+                document.getElementById('top-equations-header').innerHTML = `
+                    <svg class="module-arrow" fill="currentColor" viewBox="0 0 15 15" version="1.1" id="triangle" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path id="path21090-9" d="M7.5385,2C7.2437,2,7.0502,2.1772,6.9231,2.3846l-5.8462,9.5385C1,12,1,12.1538,1,12.3077C1,12.8462,1.3846,13,1.6923,13h11.6154C13.6923,13,14,12.8462,14,12.3077c0-0.1538,0-0.2308-0.0769-0.3846L8.1538,2.3846C8.028,2.1765,7.7882,2,7.5385,2z"></path> </g></svg>
+                    Top Equations
+                `
+                document.getElementById('all-equations-header').innerHTML = `
+                    <svg class="module-arrow" fill="currentColor" viewBox="0 0 15 15" version="1.1" id="triangle" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path id="path21090-9" d="M7.5385,2C7.2437,2,7.0502,2.1772,6.9231,2.3846l-5.8462,9.5385C1,12,1,12.1538,1,12.3077C1,12.8462,1.3846,13,1.6923,13h11.6154C13.6923,13,14,12.8462,14,12.3077c0-0.1538,0-0.2308-0.0769-0.3846L8.1538,2.3846C8.028,2.1765,7.7882,2,7.5385,2z"></path> </g></svg>
+                    All Equations
+                `
+            }
+
+
+
+            let cardsList = ''
+
+            equationSearch.addEventListener('keyup', searchEquations)
+
+            window.addEventListener('topEquationShownChange', function(e) {
+                if (localStorage.getItem("topEquationShown") === 'false') {
+                    topEquationsDiv.style.display = "none"
+                } else {
+                    topEquationsDiv.style.display = "block"
+                }
+            })
+
+            if (localStorage.getItem('topEquationShown')) {
+                if (localStorage.getItem('topEquationShown') === 'false') {
+                    topEquationsDiv.style.display = "none"
+                } else {
+                    topEquationsDiv.style.display = "block"
+                }
+            }
+
+            function renderCards(filter = 'default') {
+                cardsList = []
+                if (filter === 'default') {
+                    for (let card of cards) {
+                        cardsList.push(`
+                            <div class="card equation-card" data-id=${card.id}>
+                                ${design === "canvas" ? `<svg class="todo-icon" fill="currentColor" viewBox="0 0 1920 1920" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path d="M1468.214 0v564.698h-112.94V112.94H112.94v1694.092h1242.334v-225.879h112.94v338.819H0V0h1468.214Zm129.428 581.311c22.137-22.136 57.825-22.136 79.962 0l225.879 225.879c22.023 22.023 22.023 57.712 0 79.848l-677.638 677.637c-10.616 10.504-24.96 16.49-39.98 16.49h-225.88c-31.17 0-56.469-25.299-56.469-56.47v-225.88c0-15.02 5.986-29.364 16.49-39.867Zm-155.291 314.988-425.895 425.895v146.031h146.03l425.895-425.895-146.03-146.03Zm-764.714 346.047v112.94H338.82v-112.94h338.818Zm225.88-225.88v112.94H338.818v-112.94h564.697Zm734.106-315.44-115.424 115.425 146.03 146.03 115.425-115.423-146.031-146.031ZM1129.395 338.83v451.758H338.82V338.83h790.576Zm-112.94 112.94H451.759v225.878h564.698V451.77Z" fill-rule="evenodd"></path> </g></svg>` : ""}
+                                <div class="card-info">
+                                    ${design !== "canvas" ? `<img src="${atob(cu)}${cuv}/i/${card.path}${card.image}" loading="lazy">` : ""}
+                                    <figcaption>${card.name.split("").map(character => character + "\u2060").join("")}</figcaption>
+                                    ${design === "canvas" ? `<p class="game-description">Oct 24, 2026<span class="gap"></span>${Math.floor(Math.random() * 15 + 5)} pts</p>` : ''}
+                                </div>
+                            </div>
+                        `)
+                    }
+                } else {
+                    let filteredCards = cards.filter(card => card.name.toLowerCase().includes(filter.toLowerCase()))
+                    for (let card of filteredCards) {
+                        cardsList.push(`
+                            <div class="card equation-card" data-id=${card.id}>
+                                ${design === "canvas" ? `<svg class="todo-icon" fill="currentColor" viewBox="0 0 1920 1920" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path d="M1468.214 0v564.698h-112.94V112.94H112.94v1694.092h1242.334v-225.879h112.94v338.819H0V0h1468.214Zm129.428 581.311c22.137-22.136 57.825-22.136 79.962 0l225.879 225.879c22.023 22.023 22.023 57.712 0 79.848l-677.638 677.637c-10.616 10.504-24.96 16.49-39.98 16.49h-225.88c-31.17 0-56.469-25.299-56.469-56.47v-225.88c0-15.02 5.986-29.364 16.49-39.867Zm-155.291 314.988-425.895 425.895v146.031h146.03l425.895-425.895-146.03-146.03Zm-764.714 346.047v112.94H338.82v-112.94h338.818Zm225.88-225.88v112.94H338.818v-112.94h564.697Zm734.106-315.44-115.424 115.425 146.03 146.03 115.425-115.423-146.031-146.031ZM1129.395 338.83v451.758H338.82V338.83h790.576Zm-112.94 112.94H451.759v225.878h564.698V451.77Z" fill-rule="evenodd"></path> </g></svg>` : ""}
+                                <div class="card-info">
+                                    ${design !== "canvas" ? `<img src="${atob(cu)}${cuv}/i/${card.path}${card.image}" loading="lazy">` : ""}
+                                    <figcaption>${card.name.split("").map(character => character + "\u2060").join("")}</figcaption>
+                                    ${design === "canvas" ? `<p class="game-description">Oct 24, 2026<span class="gap"></span>${Math.floor(Math.random() * 15 + 5)} pts</p>` : ''}
+                                </div>
+                            </div>
+                        `)
+                    }
+                }
+
+                cardContainer.innerHTML = cardsList.reverse().join("")
+                addCardListener()
+            }
+            renderCards()
+
+            function renderTopEquations() {
+                let topEquationsList = ''
+                for (let card of topEquations) {
+                    topEquationsList += `
+                        ${design === "normal" ? `<div class="topEquationsCard equation-card" data-id=${card.id}>
+                                <img src="${atob(cu)}${cuv}/i/${card.path}${card.image}" loading="lazy">
+                                <div class="topInfo">
+                                    <figcaption>${card.name.split("").map(character => character + "\u2060").join("")}</figcaption>
+                                    <p class="game-description">${card.description}</p>
+                                </div>
+                            </div>`
+                        : `
+                            <div class="card equation-card" data-id=${card.id}>
+                                ${design === "canvas" ? `<svg class="todo-icon" fill="currentColor" viewBox="0 0 1920 1920" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path d="M1468.214 0v564.698h-112.94V112.94H112.94v1694.092h1242.334v-225.879h112.94v338.819H0V0h1468.214Zm129.428 581.311c22.137-22.136 57.825-22.136 79.962 0l225.879 225.879c22.023 22.023 22.023 57.712 0 79.848l-677.638 677.637c-10.616 10.504-24.96 16.49-39.98 16.49h-225.88c-31.17 0-56.469-25.299-56.469-56.47v-225.88c0-15.02 5.986-29.364 16.49-39.867Zm-155.291 314.988-425.895 425.895v146.031h146.03l425.895-425.895-146.03-146.03Zm-764.714 346.047v112.94H338.82v-112.94h338.818Zm225.88-225.88v112.94H338.818v-112.94h564.697Zm734.106-315.44-115.424 115.425 146.03 146.03 115.425-115.423-146.031-146.031ZM1129.395 338.83v451.758H338.82V338.83h790.576Zm-112.94 112.94H451.759v225.878h564.698V451.77Z" fill-rule="evenodd"></path> </g></svg>` : ""}
+                                <div class="card-info">
+                                    <figcaption>${card.name.split("").map(character => character + "\u2060").join("")}</figcaption>
+                                    <p class="game-description">Oct 24, 2027<span class="gap"></span>${Math.floor(Math.random() * 15 + 5)} pts</p>
+                                </div>
+                            </div>
+                        `}
+                    `
+                }
+                topEquationsContainer.innerHTML = topEquationsList
+                addCardListener()
+            }
+            renderTopEquations()
+
+
+
+            async function loadEquationEmbed(setId = undefined) {
+                let id
+                if (setId) {
+                    id = Number(setId)
+                } else {
+                    const params = new URLSearchParams(document.location.search);
+                    id = parseInt(params.get("id"))
+                }
+                console.log(id)
+
+                if (!Number.isNaN(id)) {
+                    const idObject = cards.find(card => card.id === id)
+                    if (idObject) {
+                        const res = await fetch(`${atob(cu)}@${idObject.sha}/e/${idObject.split}`)
+                        const manifest = await res.json()
+                        if (!manifest) return
+
+                        let favorites = localStorage.getItem("otonicFavs") || "[]"
+
+                        const parts = new Array(manifest.parts.length)
+                        const partProgress = new Array(manifest.parts.length).fill(0)
+                        let loaded = 0
+
+                        equationFrame.innerHTML = `
+                        <div class="equation-embed-bar">
+                            <h3>${idObject.name.split("").map(character => character + "\u2060").join("")}</h3>
+                            <div class="frame-options">
+                                <p class="equation-frame-close" id="equation-frame-close">x</p>
+                            </div>
+                            <div class="frame-options-left">
+                                <svg class="equation-frame-fullscreen" id="equation-frame-fullscreen" viewBox="0 -0.5 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="si-glyph si-glyph-arrow-fullscreen" fill="currentColor"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <title>1112</title> <defs> </defs> <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"> <g transform="translate(1.000000, 0.000000)" fill="currentColor"> <path d="M15.196,0.083 L11.329,0.083 C10.949,0.083 10.641,0.393 10.641,0.773 L12.229,2.367 L10.312,4.284 C10.12,4.476 10.024,4.727 10.024,4.979 C10.024,5.231 10.12,5.482 10.312,5.674 C10.695,6.058 11.318,6.058 11.703,5.674 L13.617,3.759 L15.196,5.344 C15.576,5.344 15.883,5.034 15.883,4.654 L15.883,0.773 C15.883,0.393 15.576,0.083 15.196,0.083 L15.196,0.083 Z" class="si-glyph-fill"> </path> <path d="M15.192,10.645 L13.573,12.257 L11.621,10.305 C11.236,9.92 10.614,9.92 10.229,10.305 C9.845,10.689 9.845,11.311 10.229,11.695 L12.18,13.645 L10.62,15.199 C10.62,15.579 10.929,15.886 11.31,15.886 L15.191,15.886 C15.572,15.886 15.881,15.579 15.881,15.199 L15.881,11.333 C15.883,10.951 15.573,10.645 15.192,10.645 L15.192,10.645 Z" class="si-glyph-fill"> </path> <path d="M3.758,2.359 L5.342,0.78 C5.342,0.4 5.031,0.093 4.651,0.093 L0.771,0.093 C0.39,0.093 0.081,0.4 0.081,0.78 L0.081,4.646 C0.081,5.027 0.391,5.334 0.771,5.334 L2.366,3.747 L4.335,5.715 C4.527,5.908 4.778,6.004 5.029,6.004 C5.282,6.004 5.532,5.908 5.725,5.715 C6.108,5.332 6.108,4.709 5.725,4.326 L3.758,2.359 L3.758,2.359 Z" class="si-glyph-fill"> </path> <path d="M4.951,9.645 L2.361,12.235 L0.767,10.634 C0.388,10.634 0.079,10.944 0.079,11.324 L0.079,15.205 C0.079,15.586 0.388,15.895 0.767,15.895 L4.634,15.895 C5.013,15.895 5.321,15.585 5.321,15.205 L3.75,13.627 L6.342,11.035 C6.727,10.65 6.727,10.029 6.342,9.644 C5.959,9.261 5.336,9.261 4.951,9.645 L4.951,9.645 Z" class="si-glyph-fill"> </path> </g> </g> </g></svg>
+                                <div id="fav-container">${favorites.includes(idObject.id) ? favSVG : notFavSVG}</div>
+                            </div>
+                        </div>
+                        <iframe id="equation-iframe"></iframe>
+                        `
+                        equationFrame.classList.add('loaded')
+
+
+
+                        const equationIframe = document.getElementById('equation-iframe')
+                        
+                        addCloseListener(equationIframe)
+                        addFullscreenListener()
+                        addFavListener(idObject.id)
+                        
+                        
+                        const iframeLoaded = new Promise(resolve => {
+                            equationIframe.addEventListener("load", resolve, { once: true })
+                        })
+                        equationIframe.srcdoc = `<style>h1 { color: white; text-shadow: 0 0 4px black; text-align: center; }</style><h1>Loading...</h1><h1 id='progress'>0MB / ${(manifest.size / 1048576).toFixed(2)}MB</h1>`
+
+                        await iframeLoaded
+
+                        const progress = equationIframe.contentDocument.getElementById("progress")
+
+                        async function downloadPart(part, i, sha) {
+                            const url = `${atob(cu)}@${sha}/e/${idObject.split.split("/")[0]}/${part.name}`
+                            let lastError
+
+                            for (let attempt = 0; attempt < 6; attempt++) {
+                                try {
+                                    loaded -= partProgress[i]
+                                    partProgress[i] = 0
+
+                                    const r = await fetch(attempt === 0 ? url : `${url}?retry=${attempt}-${Date.now()}`)
+                                    if (!r.ok) throw new Error(`${r.status} ${r.statusText}`)
+
+                                    const reader = r.body.getReader()
+                                    const chunks = []
+
+                                    for (;;) {
+                                        const { done, value } = await reader.read()
+                                        if (done) break
+                                        chunks.push(value)
+                                        partProgress[i] += value.byteLength
+                                        loaded += value.byteLength
+                                        progress.textContent = `${(loaded / 1048576).toFixed(2)}MB / ${(manifest.size / 1048576).toFixed(2)}MB`
+                                    }
+
+                                    parts[i] = new Blob(chunks)
+                                    return
+                                } catch (error) {
+                                    lastError = error
+
+                                    if (attempt < 5) {
+                                        await new Promise(resolve => setTimeout(resolve, 750 * (attempt + 1)))
+                                    }
+                                }
+                            }
+
+                            loaded -= partProgress[i]
+                            partProgress[i] = 0
+                            throw new Error(`Failed to download ${part.name}: ${lastError}`)
+                        }
+
+                        let nextPart = 0
+
+                        async function downloadWorker() {
+                            for (;;) {
+                                const i = nextPart++
+                                if (i >= manifest.parts.length) return
+                                await downloadPart(manifest.parts[i], i, idObject.sha)
+                            }
+                        }
+
+                        await Promise.all(
+                            Array.from(
+                                { length: Math.min(32, manifest.parts.length) },
+                                () => downloadWorker()
+                            )
+                        )
+
+                        const blob = new Blob(parts, { type: manifest.mime })
+
+                        if (blob.size !== manifest.size) {
+                            throw new Error(`assembled ${blob.size} bytes, expected ${manifest.size}`)
+                        }
+
+                        const url = URL.createObjectURL(blob)
+
+                        equationIframe.removeAttribute('srcdoc')
+                        equationIframe.src = url
+
+                        favorites = JSON.parse(favorites)
+                        if (idObject.name === 'Shellshockers') {
+                            window.location.href = '/equations/shellshock'
+                        }
+                    }
+                }
+            }
+
+            loadEquationEmbed()
+
+            async function closeFrame(equationIframe) {
+                equationFrame.innerHTML = `
+                    <div class="equation-embed-bar">
+                        <h3>Equation</h3>
+                            <div class="frame-options">
+                                <p class="equation-frame-close" id="equation-frame-close">x</p>
+                            </div>
+                    </div>
+                `
+
+                const url = new URL(window.location.href);
+                url.search = ""
+                
+                equationFrame.classList.remove('loaded')
+                setTimeout(() => equationIframe.classlist.remove("hidden"), 1000)
+                try {
+                    window.history.replaceState({}, document.title, url.toString());
+                } catch (err) {
+
+                }
+            }
+
+            function addCloseListener() {
+                const frameClose = document.getElementById('equation-frame-close')
+                frameClose.addEventListener('click', closeFrame)
+            }
+
+            function addFullscreenListener() {
+                const fullScreen = document.getElementById('equation-frame-fullscreen')
+                fullScreen.addEventListener('click', fullscreen)
+            }
+
+            function addFavListener(id) {
+                let favorites = localStorage.getItem("otonicFavs") || "[]"
+                favorites = JSON.parse(favorites)
+                const fav = document.getElementById('equation-frame-favorite')
+                const favContainer = document.getElementById('fav-container')
+
+                if (favorites.includes(id)) {
+                    fav.addEventListener('click', () => {
+                        let favs = localStorage.getItem("otonicFavs") || "[]"
+                        favs = JSON.parse(favs)
+                        favContainer.innerHTML = notFavSVG
+                        
+                        favs = favs.filter(item => item !== id)
+                        localStorage.setItem("otonicFavs", JSON.stringify(favs))
+                        addFavListener(id)
+                    })
+                    return
+                }
+
+                fav.addEventListener('click', () => {
+                    let favs = localStorage.getItem("otonicFavs") || "[]"
+                    favs = JSON.parse(favs)
+                    favContainer.innerHTML = favSVG
+                    favs.push(id)
+                    localStorage.setItem("otonicFavs", JSON.stringify(favs))
+                    addFavListener(id)
+                })
+            }
+
+            function fullscreen() {
+                const equationIframe = document.getElementById('equation-iframe')
+                if (equationIframe.requestFullscreen()) {
+                    equationIframe.requestFullscreen()
+                }
+            }
+
+            function searchEquations() {
+                if (equationSearch.value) {
+                    topEquationsDiv.classList.add("hidden")
+                    renderCards(equationSearch.value)
+                } else {
+                    topEquationsDiv.classList.remove("hidden")
+                    renderCards()
+                }
+            }
+
+
+            function addCardListener() {
+                for (let equation of equationCards) {
+                    equation.addEventListener('click', function() {
+                        const newParams = new URLSearchParams({id: equation.dataset.id})
+                        loadEquationEmbed(equation.dataset.id)
+                        try {
+                            window.history.pushState({}, "", "?" + newParams.toString())
+                        } catch (err) {
+
+                        }
+                    })
+                }
+            }
+            addCardListener()
+        </script>
+    </body>
+</html>
