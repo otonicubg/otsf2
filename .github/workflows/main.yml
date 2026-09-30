@@ -1,0 +1,53 @@
+name: Update Version File
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - cards.js
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Update version file
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+          COMMIT_SHA: ${{ github.sha }}
+        run: |
+          CONTENT=$(printf '%s\n' "$COMMIT_SHA" | base64 -w0)
+
+          FILE_SHA=$(gh api \
+            "repos/${GH_REPO}/contents/version?ref=main" \
+            --jq '.sha' 2>/dev/null || true)
+
+          if [ -n "$FILE_SHA" ]; then
+            gh api \
+              --method PUT \
+              "repos/${GH_REPO}/contents/version" \
+              -f message="chore: update version file to hash ${COMMIT_SHA}" \
+              -f content="$CONTENT" \
+              -f sha="$FILE_SHA" \
+              -f branch="main"
+          else
+            gh api \
+              --method PUT \
+              "repos/${GH_REPO}/contents/version" \
+              -f message="chore: create version file for hash ${COMMIT_SHA}" \
+              -f content="$CONTENT" \
+              -f branch="main"
+          fi
+
+      - name: Purge jsDelivr cache
+        env:
+          GH_REPO: ${{ github.repository }}
+        run: |
+          curl --fail --silent --show-error \
+            --max-time 30 \
+            "https://purge.jsdelivr.net/gh/${GH_REPO}@latest/version"
